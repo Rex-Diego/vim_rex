@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/data3/users/zy/project/v5/coe_detrend'
+let g:netrw_dirhist_2='/data3/users/zy/project/v7'
+let g:netrw_dirhist_3='/data3/users/zy/test'
+let g:netrw_dirhist_4='/data3/users/zy/project/v7/seasonal/reg_w'
+let g:netrw_dirhist_5='/data3/users/zy/project/v6/diagnose/therm_equ_fine'
+let g:netrw_dirhist_6='/data3/users/zy/test'
+let g:netrw_dirhist_7='/data3/users/zy/backup'
+let g:netrw_dirhist_8='/data3/users/zy/project/v8/diagnose/therm_equ_fine'
