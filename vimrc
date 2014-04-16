@@ -29,8 +29,14 @@ endif
 "Hotkey
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 map <F2> :up<CR>
+imap <F2> <ESC>:up<CR>
+vmap <F2> <ESC>:up<CR>
 map <F3> :up<CR>:q<CR>
+imap <F3> <ESC>:up<CR>:q<CR>
+vmap <F3> <ESC>:up<CR>:q<CR>
 map <F4> :q!<CR>     
+imap <F4> <ESC>:q<CR>
+vmap <F4> <ESC>:q<CR>
 map <F5> :bp<CR>    
 map <F6> :bn<CR>   
 map <F7> :if exists("syntax_on") <BAR>
