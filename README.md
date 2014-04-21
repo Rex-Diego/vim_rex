@@ -64,9 +64,7 @@ Autocompletion.[For more information](https://github.com/Shougo/neocomplcache.vi
 - Numbers
 
 
-Alternates between relative numbering (relativenumber) and absolute numbering (number) for the active window depending on the mode you are in.[For more information](
-
-https://github.com/myusuf3/numbers.vim)
+Alternates between relative numbering (relativenumber) and absolute numbering (number) for the active window depending on the mode you are in.[For more information](https://github.com/myusuf3/numbers.vim)
 
 
 - Powerline
