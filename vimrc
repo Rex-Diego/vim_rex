@@ -1,9 +1,11 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Normal settings
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"{{{
 "set encoding=utf-8
 "set fileencodings=utf-8,gbk,gb18030
 set nu
+set foldmethod=marker
 set smartindent
 set autoindent
 set nocompatible 
@@ -25,9 +27,11 @@ if has('gui_running')
 	let g:Powerline_symbols = 'fancy'
 	set guifont=Monospace\ 15 
 endif
+"}}}
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Hotkey
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"{{{
 map <F2> :up<CR>
 imap <F2> <ESC>:up<CR>
 vmap <F2> <ESC>:up<CR>
@@ -53,10 +57,11 @@ imap <F10> <ESC>:call CompileCode()<CR> :call RunResult()<CR>
 vmap <F10> <ESC>:call CompileCode()<CR> :call RunResult()<CR>
 map <F11>  :%!xxd   <CR>        " 回复正常显示
 map <F12>  :%!xxd   -r<CR>        " 回复正常显示
-
+"}}}
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Plugin-----Easymotion
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"{{{
 let g:EasyMotion_smartcase = 1
 map <Leader> <Plug>(easymotion-prefix)
 nmap <Leader>s <Plug>(easymotion-s2)
@@ -133,9 +138,11 @@ let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn)$'
 "Plugin-Numbers
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:numbers_exclude = ['fileexplorer', 'tagbar', 'gundo', 'minibufexpl', 'nerdtree']
+"}}}
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "One key Run
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"{{{
 func! CompileGcc()
     exec "w"
     let compilecmd="!gcc "
@@ -180,14 +187,14 @@ func! CompileGpp()
 endfunc
 
 func! CompileJava()
-    exec "!javac %"
+	exec "!javac %"
 endfunc
 
 func! CompileFor()
-    exec "w"
-    let compilecmd="!ifort "
-    let compileflag="-o %< "
-    exec compilecmd." % ".compileflag
+	exec "w"
+	let compilecmd="!ifort "
+	let compileflag="-o %< "
+	exec compilecmd." % ".compileflag
 endfunc
 
 func! CompileCode()
@@ -225,3 +232,4 @@ func! RunResult()
             exec "! ./%<"
         endif
 endfunc
+"}}}
