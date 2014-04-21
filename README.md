@@ -22,9 +22,7 @@ This configure is specified for NCL users, which provide:
 - AutoComplPop
 
 
-With this plugin, your vim comes to automatically opens popup menu for completions when you enter characters or move the cursor in Insert mode. [For more 
-
-information](https://github.com/vim-scripts/AutoComplPop)
+With this plugin, your vim comes to automatically opens popup menu for completions when you enter characters or move the cursor in Insert mode. [For more information](https://github.com/vim-scripts/AutoComplPop)
 
 
 - Autoclose
