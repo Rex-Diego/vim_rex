@@ -2,8 +2,8 @@
 This configure is specified for NCL users, which provide:
 - NCL syntax highlight(as discribed in the official editor enhancement pages)
 - Improved dictionary for IDE-like auto-popup-completion
-- One-key run for several programing languages, including C,Fortran,Java,Python,bash,NCL, which allows you to Run all these code files with one key (namely `F10`) and without quiting Vim.
-- Some other normal configures discribed below.
+- One-key run for several programing languages, including C,Fortran,Java,Python,bash,NCL, which allows you to Run all these code files with one key (namely `F10`) and without quitting Vim.
+- Some other normal configures are discribed below.
 
 #Shortcuts
 - `F2`Save up
@@ -34,7 +34,7 @@ Inserts matching bracket, paren, brace or quote.[For more information](https://g
 - ctrlp
 
 
-Speed up finding and opening files(just like in Sublime Text 3.[For more information](https://github.com/vim-scripts/ctrlp.vim)
+Speed up finding and opening files(just like in Sublime Text 3).[For more information](https://github.com/vim-scripts/ctrlp.vim)
 
 
 - EasyMotion
