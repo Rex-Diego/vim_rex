@@ -4,13 +4,20 @@
 "{{{
 "set encoding=utf-8
 "set fileencodings=utf-8,gbk,gb18030
+"set foldmethod=marker
 set nu
-set foldmethod=marker
 set smartindent
 set autoindent
 set nocompatible 
+set nobackup
+filetype plugin on
 syntax enable
-colorscheme zenburn
+""colorscheme zenburn
+color default
+"For MMA
+au BufRead,BufNewFile *.m set filetype=mma
+au! Syntax newlang source $VIM/mma.vim 
+au BufRead,BufNewFile *.m set dictionary=~/.vim/dictionary/mma.dic
 "For NCL
 au BufRead,BufNewFile *.ncl set filetype=ncl
 au! Syntax newlang source $VIM/ncl.vim 
@@ -230,6 +237,8 @@ func! RunResult()
             exec "!bash ./%"
         elseif &filetype == "fortran"
             exec "! ./%<"
+        elseif &filetype == "mma"
+            exec "!math -script ./%"
         endif
 endfunc
 "}}}
