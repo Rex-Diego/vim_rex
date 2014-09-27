@@ -2,7 +2,7 @@
 This configure is specified for NCL users, which provide:
 - NCL syntax highlight(as discribed in the official editor enhancement pages)
 - Improved dictionary for IDE-like auto-popup-completion
-- One-key run for several programing languages, including C,Fortran,Java,Python,bash,NCL, which allows you to Run all these code files with one key (namely `F10`) and without quitting Vim.
+- One-key run for several programing languages, including C,Fortran,Java,Python,bash,NCL,MMA, which allows you to Run all these code files with one key (namely `F10`) and without quitting Vim.
 - Some other normal configures are discribed below.
 
 #Shortcuts
