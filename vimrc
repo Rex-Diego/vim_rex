@@ -1,23 +1,16 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Normal settings
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"{{{
 "set encoding=utf-8
 "set fileencodings=utf-8,gbk,gb18030
-"set foldmethod=marker
 set nu
 set smartindent
+set modelines=10
 set autoindent
 set nocompatible 
-set nobackup
-filetype plugin on
+set backspace=indent,eol,start
 syntax enable
-""colorscheme zenburn
-color default
-"For MMA
-au BufRead,BufNewFile *.m set filetype=mma
-au! Syntax newlang source $VIM/mma.vim 
-au BufRead,BufNewFile *.m set dictionary=~/.vim/dictionary/mma.dic
+colorscheme zenburn
 "For NCL
 au BufRead,BufNewFile *.ncl set filetype=ncl
 au! Syntax newlang source $VIM/ncl.vim 
@@ -34,20 +27,12 @@ if has('gui_running')
 	let g:Powerline_symbols = 'fancy'
 	set guifont=Monospace\ 15 
 endif
-"}}}
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Hotkey
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"{{{
 map <F2> :up<CR>
-imap <F2> <ESC>:up<CR>
-vmap <F2> <ESC>:up<CR>
 map <F3> :up<CR>:q<CR>
-imap <F3> <ESC>:up<CR>:q<CR>
-vmap <F3> <ESC>:up<CR>:q<CR>
-map <F4> :q!<CR>     
-imap <F4> <ESC>:q<CR>
-vmap <F4> <ESC>:q<CR>
+""map <F4> :q!<CR>     
 map <F5> :bp<CR>    
 map <F6> :bn<CR>   
 map <F7> :if exists("syntax_on") <BAR>
@@ -64,11 +49,10 @@ imap <F10> <ESC>:call CompileCode()<CR> :call RunResult()<CR>
 vmap <F10> <ESC>:call CompileCode()<CR> :call RunResult()<CR>
 map <F11>  :%!xxd   <CR>        " 回复正常显示
 map <F12>  :%!xxd   -r<CR>        " 回复正常显示
-"}}}
+
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Plugin-----Easymotion
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"{{{
 let g:EasyMotion_smartcase = 1
 map <Leader> <Plug>(easymotion-prefix)
 nmap <Leader>s <Plug>(easymotion-s2)
@@ -89,7 +73,8 @@ let g:Powerline_colorscheme='solarized256'
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let Tlist_Ctags_Cmd = '/usr/bin/ctags'
 let Tlist_Use_Right_Window = 1         
-let Tlist_Show_One_File=1
+let Tlist_Show_One_File=0
+let Tlist_Exit_OnlyWindow = 1
 let g:winManagerWindowLayout='TagList|FileExplorer'
 nmap wm :WMToggle<cr>
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -135,7 +120,10 @@ let g:neocomplcache_enable_auto_select = 1
 let g:acp_enableAtStartup = 1
 let g:SuperTabDefaultCompletionType="<C-X><C-U>"
 let g:NeoComplCache_DisableAutoComplete = 0
-set tags+=/home/rex/.vim/syntax/tags
+
+    au Bufread,BufNewfile *.ncl set tags=$NCARG_ROOT/nclstd.tags
+    au Bufread,BufNewfile *.ncl set tags+=$HOME/.vim/bundle/ncl/exec/ncl_func_help.tags
+    au Bufread,BufNewfile *.ncl set tags+=$HOME/.vim/bundle/ncl/exec/ncl_res_help.tags
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Plugin-Ctrlp
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -145,11 +133,9 @@ let g:ctrlp_custom_ignore = '\v[\/]\.(git|hg|svn)$'
 "Plugin-Numbers
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:numbers_exclude = ['fileexplorer', 'tagbar', 'gundo', 'minibufexpl', 'nerdtree']
-"}}}
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "One key Run
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"{{{
 func! CompileGcc()
     exec "w"
     let compilecmd="!gcc "
@@ -194,14 +180,14 @@ func! CompileGpp()
 endfunc
 
 func! CompileJava()
-	exec "!javac %"
+    exec "!javac %"
 endfunc
 
 func! CompileFor()
-	exec "w"
-	let compilecmd="!ifort "
-	let compileflag="-o %< "
-	exec compilecmd." % ".compileflag
+    exec "w"
+    let compilecmd="!ifort "
+    let compileflag="-o %< "
+    exec compilecmd." % ".compileflag
 endfunc
 
 func! CompileCode()
@@ -237,8 +223,95 @@ func! RunResult()
             exec "!bash ./%"
         elseif &filetype == "fortran"
             exec "! ./%<"
-        elseif &filetype == "mma"
-            exec "!math -script ./%"
         endif
 endfunc
+"---------------------add by fanghuan -----------------"
+" indent-guides setting
+" 随 vim 自启动
+let g:indent_guides_enable_on_vim_startup=1
+" 从第二层开始可视化显示缩进
+let g:indent_guides_start_level=2
+" 色块宽度
+set scrolloff=3
+ab {{{  {{{  fold start
+ab }}}  }}}  fold end
+"{{{ 进行版权声明的设置
+map <F4> :call TitleDet()<cr>
+function TitleDet() "{{{ function fold start
+"判断前10行代码里面，是否有Last modified这个单词，
+"如果没有的话，代表没有添加过作者信息，需要新添加；
+"如果有的话，那么只需要更新即可
+    let CommentFlag = FileDet()
+    let n=1
+    "默认为添加
+    while n < 200
+        let Line = strpart(getline(n),2,4)
+        if Line == 'Last'
+            call UpdateTitle(CommentFlag,n)
+            return
+        endif
+        let n = n + 1
+    endwhile
+    call AddTitle(CommentFlag)
+    unlet CommentFlag
+endfunction "}}} function fold end
+
+function FileDet() "{{{ function fold start  根据文件类型确定注释符号
+	"let Suffix = tolower(expand("%:e"))
+	"let FileName = tolower(expand("%:t"))
+	"let FirstChar = strpart(FileName,0,1) "get the first letter of filename
+	"if FirstChar == '.'
+	"if  empty(Suffix)
+	"	let CommentFlag = "#"
+	"elseif Suffix=="ncl"
+	"	let CommentFlag = ";"
+	"elseif match(["f","f90","f77","for"],Suffix)>=0
+	"	let CommentFlag = "!"
+	"elseif Suffix == "sh"
+	"	let CommentFlag = "#"
+	"elseif match(Suffix,"vim")>=0
+	"	let CommentFlag= '"'
+	"endif
+	if  &filetype == "python" || &filetype == "sh" || &filetype == "expect"
+		let CommentFlag = "#"
+	elseif &filetype == "ncl"
+		let CommentFlag = ";"
+	elseif &filetype == "matlab"
+		let CommentFlag = "%"
+	elseif &filetype == "vim"
+		let CommentFlag = '"'
+	elseif &filetype == "fortran"
+		let CommentFlag = "!"
+	else
+		let CommentFlag = " "
+	endif
+	return CommentFlag
+endfunction "}}} function fold end
+
+function AddTitle(CommentFlag) "{{{ function fold start 添加或更新copyright
+    call append(1,a:CommentFlag."==========================================================")
+    call append(2,a:CommentFlag." Author: fanghuan - fanghuan_nju@163.com")
+    call append(3,a:CommentFlag." Filename: ".expand("%:t"))
+    call append(4,a:CommentFlag." Creat time: ".strftime("%Y-%m-%d %H:%M:%S"))
+    call append(5,a:CommentFlag." {{{ comment flod start-----------------------")
+    call append(6,a:CommentFlag." Description: ")
+    call append(7,a:CommentFlag." Last modified: ".strftime("%Y-%m-%d %H:%M:%S"))
+    call append(8,a:CommentFlag." }}} comment flod end")
+    call append(9,a:CommentFlag."==========================================================")
+    echohl WarningMsg | echo "Successful in adding the copyright." | echohl None
+endf "}}} function fold end
+
+function UpdateTitle(CommentFlag,Line) "{{{ function fold start 更新最近修改时间和文件名
+    "normal m'
+    "execute '/; Last modified:/s@:.*$@\=strftime(": %Y-%m-%d %H:%M:%S")@'
+    "normal ''
+    "normal mk
+    execute '/'.a:CommentFlag.' Filename:/s@:.*$@\=": ".expand("%:t")@'
+    "execute "noh"
+    "normal 'k
+    call append(a:Line+0,a:CommentFlag." ---------------------------------------------")
+    call append(a:Line+1,a:CommentFlag." Description: ")
+    call append(a:Line+2,a:CommentFlag." Last modified: ".strftime("%Y-%m-%d %H:%M:%S"))
+    echohl WarningMsg | echo "Successful in updating the copy right." | echohl None
+endfunction "}}} function fold end
 "}}}
