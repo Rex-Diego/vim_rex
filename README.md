@@ -1,6 +1,7 @@
 #Main feature
 This configure is specified for NCL users, which provide:
 - NCL syntax highlight(as discribed in the official editor enhancement pages)
+Thanks to Fanghuan's hard work, now we can view the official function, precedure, resource manual through tags jump(Shortcut:g])!
 - Improved dictionary for IDE-like auto-popup-completion
 - One-key run for several programing languages, including C,Fortran,Java,Python,bash,NCL,MMA, which allows you to Run all these code files with one key (namely `F10`) and without quitting Vim.
 - Some other normal configures are discribed below.
@@ -8,7 +9,7 @@ This configure is specified for NCL users, which provide:
 #Shortcuts
 - `F2`Save up
 - `F3`Save up and quit
-- `F4`Quit without saving
+- `F4`Record the editing information
 - `F5`Previous buffer
 - `F6`Next buffer
 - `F7`Syntax on and off
