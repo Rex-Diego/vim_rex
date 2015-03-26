@@ -1,6 +1,0 @@
-  Option: -f ncludef.tags
-  Option: --langdef=ncl
-  Option: --langmap=ncl:.ncl
-    Setting ncl language map: .ncl
-  Option: --regex-ncl=/^[[:space:]]*function[[:space:]]+([a-zA-Z0-9_]+)[:blank:]*.*/\1/f,function/
-  Option: --regex-ncl=/^[[:space:]]*procedure[[:space:]]+([a-zA-Z0-9_]+)[:blank:]*.*/\1/p,procedure/
