@@ -1,0 +1,1188 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+AdvectGradient	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function AdvectGradient (u:numeric, v:numeric, x:numeric \\$/;"	f
+CloseKML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure CloseKML(FileName[1]:string)$/;"	p
+Close_KML_Document	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Close_KML_Document(FileName[1]:string)$/;"	p
+Close_KML_Folder	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Close_KML_Folder(FileName[1]:string)$/;"	p
+Close_KML_Link	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Close_KML_Link(FileName[1]:string)$/;"	p
+Close_KML_MultiGeometry	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Close_KML_MultiGeometry(FileName[1]:string)$/;"	p
+Close_KML_NetworkLink	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Close_KML_NetworkLink(FileName[1]:string)$/;"	p
+Close_KML_Placemark	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Close_KML_Placemark(FileName[1]:string)$/;"	p
+Close_KML_Style	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Close_KML_Style(FileName[1]:string)$/;"	p
+Collect_KMLs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Collect_KMLs(outFileName[1]:string, inFileList[*]:string, inOpt[1]:logical)$/;"	p
+ColorNegDashZeroPosContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ColorNegDashZeroPosContour(plot:graphic,cneg:string,czero:string,\\$/;"	f
+ColorShadeLeGeContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ColorShadeLeGeContour(plot:graphic,nval:float,cneg:string,pval:float,\\$/;"	f
+ESMF_copy_varcoords	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure ESMF_copy_varcoords(sd:numeric,sd_regrid:numeric,\\$/;"	p
+ESMF_copy_varmeta	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure ESMF_copy_varmeta(sd,sd_regrid,wgt_file_name[1]:string, \\$/;"	p
+ESMF_regrid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function ESMF_regrid(srcData:numeric, opt[1]:logical)$/;"	f
+ESMF_regrid_gen_weights	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure ESMF_regrid_gen_weights(srcGridFile[1]:string, dstGridFile[1]:string, \\$/;"	p
+ESMF_regrid_with_weights	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function ESMF_regrid_with_weights(srcData:numeric,wgtFile[1]:string, opt[1]:logical)$/;"	f
+FILWGTS	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure FILWGTS (nwgt[*]:integer, ihp[1]:integer \\$/;"	p
+FixZeroContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function FixZeroContour (CNLVLS[*]:float, label:string)$/;"	f
+FixZeroContourEps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function FixZeroContourEps (CNLVLS[*]:float, label:string, eps:numeric)$/;"	f
+FixZeroContour_HALEY	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function FixZeroContour_HALEY(LEVELS[*]:numeric, label:string)  $/;"	f
+GetAltModeNumber	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function GetAltModeNumber(AltMode[1]:string)$/;"	f
+GetFillColor	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function GetFillColor(cnlvls[*]:numeric,cmapt,data:numeric)$/;"	f
+GetFillColorIndex	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function GetFillColorIndex(cnlvls[*]:numeric,indices[*]:integer,data:numeric)$/;"	f
+GetOverlayPlot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function GetOverlayPlot (plot:graphic, ClassName:string, PlotIndex:integer)$/;"	f
+Gray2RGBA	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function Gray2RGBA(inData[*]:double,inOpt[1]:logical)$/;"	f
+Gray2cIndex	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function Gray2cIndex(inData[*]:double,inOpt[1]:logical)$/;"	f
+IntegrateHybrid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function IntegrateHybrid (X:numeric, dp:numeric, con[1]:numeric \\$/;"	f
+IntegratePlevel	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function IntegratePlevel (X:numeric, dp:numeric, con[1]:numeric \\$/;"	f
+LOG2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^  function LOG2(x:numeric)$/;"	f
+LatLonValues	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/xyplot/xy10n.ncl	/^procedure LatLonValues($/;"	p
+Measurements2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Measurements2KML(FileName[1]:string, \\$/;"	p
+NegDashLineContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function NegDashLineContour (plot:graphic) $/;"	f
+NewCosWeight	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function NewCosWeight (y:numeric)$/;"	f
+NormCosWgtGlobe	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function NormCosWgtGlobe (lat:numeric)$/;"	f
+OpenKML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure OpenKML(FileName[1]:string)$/;"	p
+Open_KML_Document	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Open_KML_Document(FileName[1]:string)$/;"	p
+Open_KML_Folder	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Open_KML_Folder(FileName[1]:string, NameString[1]:string)$/;"	p
+Open_KML_Link	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Open_KML_Link(FileName[1]:string)$/;"	p
+Open_KML_MultiGeometry	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Open_KML_MultiGeometry(FileName[1]:string)$/;"	p
+Open_KML_NetworkLink	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Open_KML_NetworkLink(FileName[1]:string, IDStr[1]:string)$/;"	p
+Open_KML_Placemark	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Open_KML_Placemark(FileName[1]:string, NameStr[1]:string)$/;"	p
+Open_KML_Style	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Open_KML_Style(FileName[1]:string, ISStr[1]:string)$/;"	p
+POPlonReorderGM	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function POPlonReorderGM (x:numeric)   $/;"	f
+Path2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Path2KML(FileName[1]:string, \\$/;"	p
+Point2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Point2KML(FileName[1]:string, inOpt[1]:logical)$/;"	p
+Points2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Points2KML(FileName[1]:string, NameString[1]:string)$/;"	p
+PopCoord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^procedure PopCoord (x:numeric, gDst:string $/;"	p
+PopLatLon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function PopLatLon (x:numeric, gridSrc:string, gridDst:string \\$/;"	f
+PopLatLon2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function PopLatLon2(x:numeric, gridSrc:string, gridDst:string \\$/;"	f
+PopLatLon2D	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function PopLatLon2D (x[*][*]:numeric, ny:integer, mx:integer \\$/;"	f
+PopLatLonV	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function PopLatLonV (u:numeric , v:numeric          \\$/;"	f
+PopLatLonV2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function PopLatLonV2(u:numeric , v:numeric, rotin:numeric \\$/;"	f
+PotTemp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function PotTemp (p:numeric, t:numeric, opt:integer)$/;"	f
+PotVortHybrid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function PotVortHybrid\\$/;"	f
+PotVortIsobaric	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function PotVortIsobaric\\$/;"	f
+RGBtoCmap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function RGBtoCmap (fName:string)$/;"	f
+RasterTimeSeries2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure RasterTimeSeries2KML(FileName[1]:string,\\$/;"	p
+SHP2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure SHP2KML(SHPFileName[1]:string, FileName[1]:string, inOpt[1]:logical)$/;"	p
+SPECXY_ANAL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function SPECXY_ANAL(X[*]:numeric, Y[*]:numeric   \\$/;"	f
+SPECX_ANAL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function SPECX_ANAL(X[*]:numeric, iopt[1]:integer, jave[1]:integer, pct[1]:numeric)$/;"	f
+SetZeroLineThickness	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function SetZeroLineThickness(plot:graphic,tval:float) $/;"	f
+ShadeCOI	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ShadeCOI(wks:graphic,plot:graphic,w,time, gsres:logical)$/;"	f
+ShadeGeLeContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ShadeGeLeContour (plot:graphic$/;"	f
+ShadeGeLeContourDensity	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ShadeGeLeContourDensity (plot:graphic ,CnGe:float, CnLe:float \\$/;"	f
+ShadeGtContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ShadeGtContour (plot:graphic, CnGt:float, FillPatGt:integer ) $/;"	f
+ShadeLeGeContourDensity	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ShadeLeGeContourDensity (plot:graphic$/;"	f
+ShadeLtContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ShadeLtContour (plot:graphic, CnLt:float, FillPatLt:integer ) $/;"	f
+ShadeLtGtContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ShadeLtGtContour (plot:graphic$/;"	f
+SqrtCosWeight	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function SqrtCosWeight (y:numeric)$/;"	f
+StaticStability	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function StaticStability (p:numeric, t:numeric, sopt)$/;"	f
+TimeSourceStamp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure TimeSourceStamp (wks:graphic, chSize:float, Data:string )$/;"	p
+ToHex	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function ToHex(inData[1]:numeric)$/;"	f
+UnstructData2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure UnstructData2KML(FileName[1]:string, \\$/;"	p
+UnstructGrid2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure UnstructGrid2KML(FileName[1]:string, \\$/;"	p
+UnstructVelocity2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure UnstructVelocity2KML(FileName[1]:string, \\$/;"	p
+Velocity2KML	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure Velocity2KML(FileName[1]:string, \\$/;"	p
+WRF_Times2Udunits_c	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^function WRF_Times2Udunits_c(Times:character, opt)$/;"	f
+WRF_Times2double_c	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^function WRF_Times2double_c(Times:character, opt)$/;"	f
+WRF_Times_to_udunits	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^function WRF_Times_to_udunits(Times:character, opt)$/;"	f
+WRF_Times_to_ymdh	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^function WRF_Times_to_ymdh(Times:character, opt)$/;"	f
+WRF_Times_to_ymdhms	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^function WRF_Times_to_ymdhms(Times:character, opt)$/;"	f
+WRF_map_c	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^procedure WRF_map_c (f:file, res:logical, opt)$/;"	p
+WRF_resLamCon_c	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^procedure WRF_resLamCon_c (f:file, res:logical, opt)$/;"	p
+WindRoseBasic	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function WindRoseBasic (wks:graphic, wspd:numeric, wdir:numeric \\$/;"	f
+WindRoseBasicF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function WindRoseBasicF(wks:graphic, wspd[*]:numeric, wdir[*]:numeric \\$/;"	f
+WindRoseColor	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function WindRoseColor (wks:graphic, wspd:numeric, wdir:numeric \\$/;"	f
+WindRoseColorF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function WindRoseColorF(wks:graphic, wspd[*]:numeric, wdir[*]:numeric \\$/;"	f
+WindRoseThickLine	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function WindRoseThickLine (wks:graphic, wspd:numeric, wdir:numeric \\$/;"	f
+WindRoseThickLineF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function WindRoseThickLineF(wks:graphic, wspd[*]:numeric, wdir[*]:numeric \\$/;"	f
+ZeroGoneNegDashLineContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ZeroGoneNegDashLineContour(plot:graphic) $/;"	f
+ZeroLineContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ZeroLineContour (plot:graphic) $/;"	f
+ZeroLineContourThick	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ZeroLineContourThick (plot:graphic, Thick:integer) $/;"	f
+ZeroNegDashLineContour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ZeroNegDashLineContour (plot:graphic) $/;"	f
+ZeroNegDashLineContourOverlay	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function ZeroNegDashLineContourOverlay (plot:graphic) $/;"	f
+_SetMainTitle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure _SetMainTitle(nc_file:file,wks[1]:graphic,cn[1]:graphic,opts)$/;"	p
+aam_local	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/ccm_func.ncl	/^function aam_local(u[*][*][*][*]:numeric,dp[*][*][*][*],fin:file)$/;"	f
+add90LatX	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function add90LatX (Data[*][*]:numeric)$/;"	f
+add90LatY	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function add90LatY(Data[*][*]:numeric)$/;"	f
+addHorVertLines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure addHorVertLines(wks[1]:graphic, plot[1]:graphic \\$/;"	p
+addHorVertLinesCross	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function addHorVertLinesCross(wks[1]:graphic, plot[1]:graphic \\$/;"	f
+addTime	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure addTime(dd[1]:integer,hh[1]:integer,mm[1]:integer,ss[1]:integer, \\$/;"	p
+add_KML_Address	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Address(FileName[1]:string, AddressStr[1]:string)$/;"	p
+add_KML_AltMode	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_AltMode(FileName[1]:string, AltMode[1]:string)$/;"	p
+add_KML_Altitude	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Altitude(FileName[1]:string, Altitude[1]:numeric)$/;"	p
+add_KML_Color	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Color(FileName[1]:string, \\$/;"	p
+add_KML_ColorMapStyles	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function add_KML_ColorMapStyles(FileName[1]:string, inOpt[1]:logical)$/;"	f
+add_KML_Coordinates	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Coordinates(FileName[1]:string, \\$/;"	p
+add_KML_Description	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Description(FileName[1]:string, DescStr[1]:string)$/;"	p
+add_KML_East	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_East(FileName[1]:string, East[1]:numeric)$/;"	p
+add_KML_Extrude	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Extrude(FileName[1]:string, Yes[1]:logical)$/;"	p
+add_KML_Fill	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Fill(FileName[1]:string, Yes[1]:logical)$/;"	p
+add_KML_FlyToView	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_FlyToView(FileName[1]:string, Yes[1]:logical)$/;"	p
+add_KML_GOverlay	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_GOverlay(FileName[1]:string, \\$/;"	p
+add_KML_Heading	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Heading(FileName[1]:string, Heading[1]:numeric)$/;"	p
+add_KML_HideChildrenStyle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_HideChildrenStyle(FileName[1]:string)$/;"	p
+add_KML_Href	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Href(FileName[1]:string, hrefLink[1]:string)$/;"	p
+add_KML_Icon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Icon(FileName[1]:string, hrefLink[1]:string)$/;"	p
+add_KML_IconStyle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_IconStyle(FileName[1]:string, \\$/;"	p
+add_KML_InnerBoundaryIs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_InnerBoundaryIs(FileName[1]:string, \\$/;"	p
+add_KML_LatLonBox	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_LatLonBox(FileName[1]:string, \\$/;"	p
+add_KML_LineString	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_LineString(FileName[1]:string, \\$/;"	p
+add_KML_LineStyle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_LineStyle(FileName[1]:string, \\$/;"	p
+add_KML_LinearRing	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_LinearRing(FileName[1]:string,lat[*]:numeric, lon[*]:numeric, h[*]:numeric)$/;"	p
+add_KML_Name	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Name(FileName[1]:string, NameString[1]:string)$/;"	p
+add_KML_North	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_North(FileName[1]:string, North[1]:numeric)$/;"	p
+add_KML_Open	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Open(FileName[1]:string, Yes[1]:logical)$/;"	p
+add_KML_OuterBoundaryIs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_OuterBoundaryIs(FileName[1]:string, \\$/;"	p
+add_KML_Outline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Outline(FileName[1]:string, Yes[1]:logical)$/;"	p
+add_KML_Point	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Point(FileName[1]:string, \\$/;"	p
+add_KML_PolyStyle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_PolyStyle(FileName[1]:string, \\$/;"	p
+add_KML_Polygon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Polygon(FileName[1]:string, \\$/;"	p
+add_KML_Range	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Range(FileName[1]:string, Range[1]:numeric)$/;"	p
+add_KML_Rotation	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Rotation(FileName[1]:string, Rotation[1]:numeric)$/;"	p
+add_KML_South	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_South(FileName[1]:string, South[1]:numeric)$/;"	p
+add_KML_StyleUrl	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_StyleUrl(FileName[1]:string, StyleID[1]:string)$/;"	p
+add_KML_Tessellate	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Tessellate(FileName[1]:string, Yes[1]:logical)$/;"	p
+add_KML_TimeSpan	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_TimeSpan(FileName[1]:string, \\$/;"	p
+add_KML_TimeStamp_When	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_TimeStamp_When(FileName[1]:string, TimeTagStr[1]:string)$/;"	p
+add_KML_Visibility	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Visibility(FileName[1]:string, Yes[1]:logical)$/;"	p
+add_KML_West	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_West(FileName[1]:string, West[1]:numeric)$/;"	p
+add_KML_Width	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_Width(FileName[1]:string, WidthValue[1]:numeric)$/;"	p
+add_KML_nSidedPolygon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure add_KML_nSidedPolygon(FileName[1]:string, \\$/;"	p
+add_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure add_labelbar(wks:graphic,plot,zone:integer, \\$/;"	p
+add_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure add_labelbar(wks:graphic,plot,zone:integer, \\$/;"	p
+add_lat_labels_xaxis	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure add_lat_labels_xaxis(plot:graphic,min_lat:numeric,max_lat:numeric,\\$/;"	p
+add_lat_labels_xaxis	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure add_lat_labels_xaxis(plot:graphic,min_lat:numeric,max_lat:numeric,\\$/;"	p
+add_lat_labels_yaxis	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure add_lat_labels_yaxis(plot:graphic,min_lat:numeric,max_lat:numeric,\\$/;"	p
+add_lat_labels_yaxis	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure add_lat_labels_yaxis(plot:graphic,min_lat:numeric,max_lat:numeric,\\$/;"	p
+add_latlon2d_debug_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure add_latlon2d_debug_info(data)$/;"	p
+add_latlon2d_debug_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure add_latlon2d_debug_info(data)$/;"	p
+add_latlon_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure add_latlon_labels(plot:graphic,data:numeric,res:logical)$/;"	p
+add_latlon_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure add_latlon_labels(plot:graphic,data:numeric,res:logical)$/;"	p
+add_lon_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure add_lon_labels(plot:graphic,min_lon:numeric,max_lon:numeric,\\$/;"	p
+add_lon_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure add_lon_labels(plot:graphic,min_lon:numeric,max_lon:numeric,\\$/;"	p
+add_map_tickmarks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure add_map_tickmarks(wks:graphic,map:graphic,tmres:logical, \\$/;"	p
+add_map_tickmarks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure add_map_tickmarks(wks:graphic,map:graphic,tmres:logical, \\$/;"	p
+add_subtitles	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure add_subtitles(wks:graphic,plot:graphic,left_string:logical,\\$/;"	p
+add_subtitles	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure add_subtitles(wks:graphic,plot:graphic,left_string:logical,\\$/;"	p
+add_white_space	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function add_white_space(str:string,maxlen:integer)$/;"	f
+addcyclic	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsun09n.ncl	/^function addcyclic(data[*][*]:float)$/;"	f
+addcyclic	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsun11n.ncl	/^function addcyclic(data[*][*]:float)$/;"	f
+addfiles_GetVar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function addfiles_GetVar (f:list, fils[*]:string, varName:string)$/;"	f
+advectGradient	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function advectGradient (u:numeric, v:numeric, x:numeric \\$/;"	f
+advect_gradient	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function advect_gradient (u:numeric, v:numeric, x:numeric \\$/;"	f
+advect_var	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function advect_var (u:numeric, v:numeric, x:numeric,gridType[1]:integer $/;"	f
+apply_dtrend_LeftDim	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function apply_dtrend_LeftDim(x:numeric, wgt[*]:numeric, opt[1]:integer)$/;"	f
+area_conserve_remap_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function area_conserve_remap_Wrap (xi[*]:numeric,yi[*]:numeric, fi:numeric \\$/;"	f
+area_earth_region	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function area_earth_region (lat1[*]:numeric, lat2[*]:numeric \\$/;"	f
+area_global_rectilinear_grid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function area_global_rectilinear_grid (lat[*]:numeric, lon[*], opt[1]:logical)$/;"	f
+area_hi2lores_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function area_hi2lores_Wrap (xi[*]:numeric,yi[*]:numeric, fi:numeric, wrapX:logical \\$/;"	f
+area_polar_region	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function area_polar_region (lat[1]:numeric, opt[1]:logical)$/;"	f
+array_append_record	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function array_append_record (x1, x2, iopt:integer)$/;"	f
+assignFillValue	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure assignFillValue(var_from:numeric, var_to:numeric)$/;"	p
+assigndata	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/xyplot/xy07n.ncl	/^procedure assigndata($/;"	p
+assigndata	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/xyplot/xy08n.ncl	/^procedure assigndata($/;"	p
+attsetvalues_check	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure attsetvalues_check(plot:graphic,res:logical)$/;"	p
+attsetvalues_check	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure attsetvalues_check(plot:graphic,res:logical)$/;"	p
+auto_to_SCRIP	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure auto_to_SCRIP(srcFile[1]:string,VarName[1]:string, \\$/;"	p
+band_pass_area_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function band_pass_area_time \\$/;"	f
+band_pass_area_time_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure band_pass_area_time_plot(           \\ $/;"	p
+band_pass_area_time_plot_cam	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure band_pass_area_time_plot_cam(          \\ $/;"	p
+band_pass_hovmueller	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function band_pass_hovmueller(                         \\$/;"	f
+band_pass_hovmueller_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure band_pass_hovmueller_plot( x[*][*]:numeric    \\  ; (time,lon)$/;"	p
+band_pass_latlon_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function band_pass_latlon_time \\$/;"	f
+boxplot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function boxplot (wks:graphic,x[*]:numeric,y[*][*]:numeric,boxOpts:logical,plotres:logical,lineres:logical)$/;"	f
+byte2flt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function byte2flt (xB)$/;"	f
+byte2flt_hdf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function byte2flt_hdf (xB:byte)$/;"	f
+cal_proleptic	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/calendar_decode2.ncl	/^function cal_proleptic (time:numeric, option:integer, base_year:integer)$/;"	f
+calcDayAnomTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function calcDayAnomTLL (x[*][*][*]:numeric, yyyyddd:integer, clmDay[*][*][*]:numeric)   $/;"	f
+calcDayAnomTLLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^ function calcDayAnomTLLL (x[*][*][*][*]:numeric, yyyyddd:integer, clmDay[*][*][*][*]:numeric)   $/;"	f
+calcMonAnomLLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function calcMonAnomLLLT (x[*][*][*][*]:numeric, xAve[*][*][*][12]:numeric)$/;"	f
+calcMonAnomLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function calcMonAnomLLT (x[*][*][*]:numeric, xAve[*][*][12]:numeric)$/;"	f
+calcMonAnomTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function calcMonAnomTLL (x[*][*][*]:numeric, xAve[12][*][*]:numeric)$/;"	f
+calcMonAnomTLLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function calcMonAnomTLLL (x[*][*][*][*]:numeric, xAve[12][*][*][*]:numeric)$/;"	f
+calcMonAnomTXXX	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/calcMonAnomTXXX.ncl	/^function calcMonAnomTXXX(x:numeric, x_clm:numeric)$/;"	f
+calcMonStandardizeAnomTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function calcMonStandardizeAnomTLL (x[*][*][*]:numeric, opt:integer)$/;"	f
+calc_SCRIP_corners_boundaries	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure calc_SCRIP_corners_boundaries(lat2d[*][*],lon2d[*][*], \\$/;"	p
+calc_SCRIP_corners_boundaries_2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure calc_SCRIP_corners_boundaries_2(ll2d[*][*],grid_corner_ll,\\$/;"	p
+calc_SCRIP_corners_noboundaries	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure calc_SCRIP_corners_noboundaries(lat2d[*][*],lon2d[*][*], \\$/;"	p
+calc_day_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function calc_day_values(x, arith[1]:string, nDim[1]:integer, opt[1]:logical)  $/;"	f
+calculate_monthly_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function calculate_monthly_values (x:numeric, arith:string, nDim[1]:integer, opt[1]:logical)$/;"	f
+calculate_zonal_means	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function calculate_zonal_means(data2,res2)$/;"	f
+calculate_zonal_means	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function calculate_zonal_means(data2,res2)$/;"	f
+calendar_decode2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/calendar_decode2.ncl	/^function calendar_decode2 (time:numeric, option:integer)$/;"	f
+cat2Var	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function cat2Var (xa, xb)$/;"	f
+cat_strings	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function cat_strings(str_array)$/;"	f
+cat_strings	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function cat_strings(str_array)$/;"	f
+cd_convert	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function cd_convert( dateFrom:numeric, unitsTo:string )$/;"	f
+cd_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/cd_string.ncl	/^function cd_string( time[*]:numeric, inFormat:string )$/;"	f
+cdnlp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function cdnlp(sp[*]:numeric, z:numeric)$/;"	f
+changeCase	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function changeCase (x:string, opt:string)$/;"	f
+changeCaseChar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function changeCaseChar (x:string)$/;"	f
+check_ESMF_dims	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function check_ESMF_dims(fid[1]:file,verbose[1]:logical)$/;"	f
+check_ESMF_vars	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function check_ESMF_vars(fid[1]:file,verbose[1]:logical)$/;"	f
+check_SCRIP_dims	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function check_SCRIP_dims(fid[1]:file,verbose[1]:logical)$/;"	f
+check_SCRIP_vars	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function check_SCRIP_vars(fid[1]:file,verbose[1]:logical)$/;"	f
+check_attr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function check_attr(res:logical,att_name:string,att_value, \\$/;"	f
+check_attr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function check_attr(res:logical,att_name:string,att_value, \\$/;"	f
+check_both_atts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure check_both_atts(opt,att1,att2,attval)$/;"	p
+check_class_name	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function check_class_name(plot:graphic,plot_type:string)$/;"	f
+check_class_name	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function check_class_name(plot:graphic,plot_type:string)$/;"	f
+check_for_coord_arrays	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure check_for_coord_arrays(data:numeric,res:logical,type:string)$/;"	p
+check_for_coord_arrays	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure check_for_coord_arrays(data:numeric,res:logical,type:string)$/;"	p
+check_for_file	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure check_for_file(fname,opt)$/;"	p
+check_for_irreg2loglin	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure check_for_irreg2loglin(res:logical,xlinear:logical, \\$/;"	p
+check_for_irreg2loglin	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure check_for_irreg2loglin(res:logical,xlinear:logical, \\$/;"	p
+check_for_lon_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure check_for_lon_coord(data:numeric,res:logical,type:string)$/;"	p
+check_for_lon_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure check_for_lon_coord(data:numeric,res:logical,type:string)$/;"	p
+check_for_subtitles	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure check_for_subtitles(res:logical,left:logical,center:logical,\\$/;"	p
+check_for_subtitles	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure check_for_subtitles(res:logical,left:logical,center:logical,\\$/;"	p
+check_for_tickmarks_off	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure check_for_tickmarks_off(res:logical)$/;"	p
+check_for_tickmarks_off	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure check_for_tickmarks_off(res:logical)$/;"	p
+check_for_x_lat_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure check_for_x_lat_coord(data:numeric,res:logical,type:string)$/;"	p
+check_for_x_lat_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure check_for_x_lat_coord(data:numeric,res:logical,type:string)$/;"	p
+check_for_y_lat_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure check_for_y_lat_coord(data:numeric,res:logical,type:string)$/;"	p
+check_for_y_lat_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure check_for_y_lat_coord(data:numeric,res:logical,type:string)$/;"	p
+check_grid_type	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function check_grid_type(grid_type[1]:string)$/;"	f
+circle_ll	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure circle_ll(wks:graphic,plt:graphic,x0:numeric,y0:numeric,r:numeric,res:logical)$/;"	p
+clmDayHr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmDayHr(z:numeric, yyyymmddhh[*]:integer)$/;"	f
+clmDayTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmDayTLL (x[*][*][*]:numeric, yyyyddd:integer)   $/;"	f
+clmDayTLLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmDayTLLL (x[*][*][*][*]:numeric, yyyyddd:integer)   $/;"	f
+clmMon2clmDay	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmMon2clmDay( x:numeric, retOrder:integer, opt:integer )$/;"	f
+clmMonLLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmMonLLLT (x[*][*][*][*]:numeric)$/;"	f
+clmMonLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmMonLLT (x[*][*][*]:numeric)$/;"	f
+clmMonTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmMonTLL (x[*][*][*]:numeric)$/;"	f
+clmMonTLLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function clmMonTLLL (x[*][*][*][*]:numeric)$/;"	f
+clmMonTXXX	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/clmMonTXXX.ncl	/^function clmMonTXXX(x:numeric, min_years:integer)$/;"	f
+closest_val	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function closest_val(xVal[1]:snumeric, x:snumeric)$/;"	f
+closest_val_original	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function closest_val_original(var2ck:numeric,array2ck[*])$/;"	f
+component_copy_VarCoords	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure component_copy_VarCoords (x, y)$/;"	p
+compute_device_coords	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function compute_device_coords(plot,res)$/;"	f
+compute_device_coords	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function compute_device_coords(plot,res)$/;"	f
+compute_hist_vals	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function compute_hist_vals(xx,binlocs,nbinlocs[1]:integer, \\$/;"	f
+compute_hist_vals	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function compute_hist_vals(xx,binlocs,nbinlocs[1]:integer, \\$/;"	f
+convert_color_to_rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function convert_color_to_rgba(wks,colors)$/;"	f
+convert_color_to_rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function convert_color_to_rgba(wks,colors)$/;"	f
+copy_CV_2_pop	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^procedure copy_CV_2_pop(var_from,var_to, iOffSet:integer)  $/;"	p
+copy_VA_pop	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^procedure copy_VA_pop(var_from,var_to)    $/;"	p
+copy_VarAtts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarAtts(var_from,var_to)    $/;"	p
+copy_VarAtts_except	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarAtts_except(var_from,var_to, Except [*]:string)    $/;"	p
+copy_VarCoords	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarCoords(var_from,var_to)  $/;"	p
+copy_VarCoords_1	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarCoords_1(var_from,var_to)  $/;"	p
+copy_VarCoords_2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarCoords_2(var_from,var_to)  $/;"	p
+copy_VarCoords_n	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarCoords_n(var_from,var_to,dims_to_copy)$/;"	p
+copy_VarCoords_not_n	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarCoords_not_n(var_from,var_to,dims_to_skip)$/;"	p
+copy_VarCoords_skipDim0	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copy_VarCoords_skipDim0(var_from,var_to)  $/;"	p
+copy_VarMeta	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^  procedure copy_VarMeta (var_from,var_to)$/;"	p
+copy_var_atts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure copy_var_atts(var_from,var_to,att_names)$/;"	p
+copy_var_atts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure copy_var_atts(var_from,var_to,att_names)$/;"	p
+copyatt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure copyatt(var_to,var_from) $/;"	p
+count_unique_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function count_unique_values(vals)$/;"	f
+create_canvas	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function create_canvas(wks:graphic)$/;"	f
+create_canvas	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function create_canvas(wks:graphic)$/;"	f
+create_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function create_labelbar(wks:graphic, nbox:integer, colors, labels, \\$/;"	f
+create_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function create_labelbar(wks:graphic, nbox:integer, colors, labels, \\$/;"	f
+create_rmpPopFileName	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function create_rmpPopFileName (gridSrc:string, gridDst:string \\$/;"	f
+create_rmpPopFileName2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function create_rmpPopFileName2(gridSrc:string, gridDst:string \\$/;"	f
+create_rotPopFileName	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function create_rotPopFileName (gridSrc:string, gridDst:string) $/;"	f
+crossp3	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function crossp3(a[*][3]:numeric,b[*][3]:numeric)$/;"	f
+cshstringtolist	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function cshstringtolist(cshlist:string)$/;"	f
+cssgrid_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function cssgrid_Wrap (lati[*]:numeric,loni[*]:numeric, fi:numeric  \\$/;"	f
+curvilinear_to_SCRIP	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure curvilinear_to_SCRIP(FName[1]:string,lat2d[*][*]:numeric,\\$/;"	p
+date_expand	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function date_expand(date[*]:numeric, opt:integer)$/;"	f
+dble2flt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dble2flt (xD)$/;"	f
+dec2SymAsym	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^  function dec2SymAsym( x[*][*], nlat[1], N2[1], N[1] )   ; x(lat,lon)$/;"	f
+decimalPlaces	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function decimalPlaces(x:numeric, nDec:integer, Round:logical)$/;"	f
+decompose2SymAsym	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function decompose2SymAsym( z, iret[1] )$/;"	f
+delete_VarAtts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure delete_VarAtts (x, ATTS)$/;"	p
+delete_attrs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure delete_attrs(opts:logical)$/;"	p
+dimWrapString	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dimWrapString(str[1]:string,val:numeric,dims[*]:integer)$/;"	f
+dim_avg_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_avg_Wrap (x:numeric)     $/;"	f
+dim_avg_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_avg_n_Wrap (x:numeric,dim_args[*])$/;"	f
+dim_avg_wgt_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_avg_wgt_Wrap (x:numeric, w[*]:numeric, opt[1]:integer)     $/;"	f
+dim_avg_wgt_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_avg_wgt_n_Wrap (x:numeric, w[*]:numeric, opt[1]:integer, \\$/;"	f
+dim_cumsum_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_cumsum_Wrap (x:numeric,opt:integer)$/;"	f
+dim_cumsum_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_cumsum_n_Wrap (x:numeric,opt:integer,dims[1]:integer)$/;"	f
+dim_dimsizes	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function dim_dimsizes(inData,dim[1]:integer)$/;"	f
+dim_max_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_max_n_Wrap (x:numeric,dims[*]:integer)$/;"	f
+dim_min_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_min_n_Wrap (x:numeric,dims[*]:integer)$/;"	f
+dim_rmsd_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_rmsd_Wrap (x:numeric, y:numeric)     $/;"	f
+dim_rmsd_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_rmsd_n_Wrap (x:numeric, y:numeric, dims[*]:integer)$/;"	f
+dim_rmvmean_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_rmvmean_Wrap (x:numeric)     $/;"	f
+dim_rmvmean_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_rmvmean_n_Wrap (x:numeric,dims[*]:integer)$/;"	f
+dim_rmvmed_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_rmvmed_Wrap (x:numeric)     $/;"	f
+dim_rmvmed_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_rmvmed_n_Wrap (x:numeric,dims[*]:integer)$/;"	f
+dim_standardize_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_standardize_Wrap (x:numeric, opt:integer)     $/;"	f
+dim_standardize_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_standardize_n_Wrap (x:numeric, opt:integer, dims[*]:integer)$/;"	f
+dim_stddev_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_stddev_Wrap (x:numeric)     $/;"	f
+dim_stddev_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_stddev_n_Wrap (x:numeric,dims[*]:integer)$/;"	f
+dim_sum_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_sum_Wrap (x:numeric)     $/;"	f
+dim_sum_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_sum_n_Wrap (x:numeric,dims[*]:integer)$/;"	f
+dim_sum_wgt_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_sum_wgt_Wrap (x:numeric, w[*]:numeric, opt[1]:integer )  $/;"	f
+dim_sum_wgt_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_sum_wgt_n_Wrap (x:numeric, w[*]:numeric, opt[1]:integer, \\$/;"	f
+dim_variance_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_variance_Wrap (x:numeric)     $/;"	f
+dim_variance_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dim_variance_n_Wrap (x:numeric, dims[*]:integer)$/;"	f
+dimnames_to_indexes	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dimnames_to_indexes(var_from,dim_args[*])$/;"	f
+dpres_hybrid_ccm_se	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dpres_hybrid_ccm_se(ps:numeric,p0[1]:numeric,hya[*]:numeric,hyb[*]:numeric)$/;"	f
+dpres_plevel_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dpres_plevel_Wrap(plev[*]:numeric, psfc:numeric, ptop[1]:numeric, opt:integer)$/;"	f
+dpres_sigma	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dpres_sigma (ps:numeric, sigma[*]:numeric, sigma_top[1]:numeric)$/;"	f
+drawNDCGrid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure drawNDCGrid(wks:graphic) $/;"	p
+draw_and_frame	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure draw_and_frame(wks:graphic,plot:graphic,calldraw:logical, \\$/;"	p
+draw_and_frame	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure draw_and_frame(wks:graphic,plot:graphic,calldraw:logical, \\$/;"	p
+draw_bb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure draw_bb(plot:graphic,opts:logical)$/;"	p
+draw_bb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure draw_bb(plot:graphic,opts:logical)$/;"	p
+draw_bounded_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/basic/basic08n.ncl	/^procedure draw_bounded_plot(id:graphic, keep_aspect: logical,$/;"	p
+draw_box	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm20n.ncl	/^procedure draw_box(wks:graphic, xll[1]:float, yll[1]:float, xur[1]:float,$/;"	p
+draw_color_palette	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^procedure draw_color_palette(wks,colors,opt)$/;"	p
+draw_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/basic/basic06n.ncl	/^procedure draw_plot(id:graphic, x:float, y:float, scale:float)$/;"	p
+draw_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/basic/basic06n.ncl	/^procedure draw_text(id:graphic, x:float, y:float, height:float)$/;"	p
+drw_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm07n.ncl	/^procedure drw_text(label:string, xpos:float, ypos:float, height:float, \\$/;"	p
+drw_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm08n.ncl	/^procedure drw_text(label:string, xpos:float, ypos:float, height:float, \\$/;"	p
+drw_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm10n.ncl	/^procedure drw_text(label:string, xpos:float, ypos:float, height:float, \\$/;"	p
+drw_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm11n.ncl	/^procedure drw_text(label:string, xpos:float, ypos:float, height:float, \\$/;"	p
+dtrend_leftdim	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dtrend_leftdim(x:numeric, opt[1]:logical)$/;"	f
+dv2uvF_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dv2uvF_Wrap (dv)$/;"	f
+dv2uvG_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function dv2uvG_Wrap (dv)$/;"	f
+energy_a	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^ function energy_a(u[*][*][*][*]:numeric,   v[*][*][*][*]:numeric\\$/;"	f
+eofMeta	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure eofMeta (data:numeric, neval:integer, eof:numeric)$/;"	p
+eofTsMeta	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure eofTsMeta (data:numeric, eof:numeric, eofTs:numeric)$/;"	p
+eof_varimax_reorder	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure eof_varimax_reorder ( eofr )$/;"	p
+eofcor_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofcor_Wrap (data:numeric, neval:integer) $/;"	f
+eofcor_pcmsg_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofcor_pcmsg_Wrap (data:numeric, neval:integer, pcrit:numeric) $/;"	f
+eofcor_ts_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofcor_ts_Wrap (data:numeric, eof:numeric)$/;"	f
+eofcov_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofcov_Wrap (data:numeric, neval:integer) $/;"	f
+eofcov_pcmsg_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofcov_pcmsg_Wrap (data:numeric, neval:integer, pcrit:numeric) $/;"	f
+eofcov_ts_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofcov_ts_Wrap (data:numeric, eof:numeric)$/;"	f
+eoftsData2eof	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eoftsData2eof (eof_ts[*][*], data:numeric, option:logical )$/;"	f
+eofunc_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofunc_Wrap (data:numeric, neval:integer, optEOF:logical) $/;"	f
+eofunc_north	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofunc_north(eval[*]:numeric, N[1]:integer, prinfo[1]:logical)$/;"	f
+eofunc_ts_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofunc_ts_Wrap (data:numeric, eof:numeric, optETS:logical)$/;"	f
+eofunc_varimax_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function eofunc_varimax_Wrap (eof:numeric, optEVX:integer)$/;"	f
+eofunc_varimax_reorder	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure eofunc_varimax_reorder ( eofr )$/;"	p
+epsZero	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure epsZero (X:numeric, eps:numeric)$/;"	p
+escorc_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function escorc_Wrap(x:numeric, y:numeric)$/;"	f
+escorc_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function escorc_n_Wrap(x:numeric,y:numeric,xdims[*]:integer,\\$/;"	f
+eta2isop_wrf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function eta2isop_wrf(fwrf, varName[1]:string, prs_iso[*]:numeric \\$/;"	f
+extractAsciiRows	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function extractAsciiRows(fName:string,OPT:logical)$/;"	f
+extract_filevaratts_hdf5	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function extract_filevaratts_hdf5( hinfo[*][2]:string, name_to_extract[1]:string)$/;"	f
+f2fosh_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function f2fosh_Wrap (x:numeric)$/;"	f
+f2foshv_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure f2foshv_Wrap (u:numeric, v:numeric, uNew:numeric, vNew:numeric)$/;"	p
+f2fsh_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function f2fsh_Wrap (x:numeric, newDims)$/;"	f
+f2fshv_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure f2fshv_Wrap (u:numeric, v:numeric, uNew:numeric, vNew:numeric)$/;"	p
+f2gsh_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function f2gsh_Wrap (x:numeric, newDims, twave:numeric)$/;"	f
+f2gshv_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure f2gshv_Wrap (u:numeric, v:numeric, uNew:numeric, vNew:numeric,\\ $/;"	p
+fbindirSwap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure fbindirSwap (infile:string, dims \\$/;"	p
+fbinseqSwap1	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure fbinseqSwap1(in_file[1]:string, outfile[1]:string \\$/;"	p
+fbinseqSwap2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure fbinseqSwap2(in_file[1]:string, outfile[1]:string, \\$/;"	p
+fill_bw_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function fill_bw_xy(wks,plot,xx:numeric,yy:numeric,res:logical)$/;"	f
+fill_bw_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function fill_bw_xy(wks,plot,xx:numeric,yy:numeric,res:logical)$/;"	f
+fill_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure fill_res(res1:logical,res2:logical,ncr[2]:integer,attnames[*]:string)$/;"	p
+fill_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure fill_res(res1:logical,res2:logical,ncr[2]:integer,attnames[*]:string)$/;"	p
+fill_xy2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function fill_xy2(wks,plot,xi[*]:numeric,yi1[*]:numeric,yi2[*]:numeric, \\$/;"	f
+fill_xy2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function fill_xy2(wks,plot,xi[*]:numeric,yi1[*]:numeric,yi2[*]:numeric, \\$/;"	f
+fill_xy_ref	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function fill_xy_ref(wks:graphic,xy:graphic,xin[*]:numeric,yin[*]:numeric,\\$/;"	f
+fill_xy_ref	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function fill_xy_ref(wks:graphic,xy:graphic,xin[*]:numeric,yin[*]:numeric,\\$/;"	f
+filled_bars	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure filled_bars(x,y,xabove,yabove,xbelow,ybelow,xequal,yequal,\\$/;"	p
+filled_bars	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure filled_bars(x,y,xabove,yabove,xbelow,ybelow,xequal,yequal,\\$/;"	p
+find_cross_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function find_cross_xy(x1:numeric,x2:numeric,y11:numeric,y12:numeric, \\$/;"	f
+find_cross_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function find_cross_xy(x1:numeric,x2:numeric,y11:numeric,y12:numeric, \\$/;"	f
+fix_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure fix_labelbar(plot:graphic,font_height:numeric,res)$/;"	p
+fix_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure fix_labelbar(plot:graphic,font_height:numeric,res)$/;"	p
+fix_latlon2d_debug_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure fix_latlon2d_debug_info(ldata)$/;"	p
+fix_latlon2d_debug_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure fix_latlon2d_debug_info(ldata)$/;"	p
+fix_skewt_colormap_for_ncgm	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function fix_skewt_colormap_for_ncgm(wks,use_my_cmap[1]:logical)$/;"	f
+fix_zero_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function fix_zero_contour(levels)$/;"	f
+fix_zero_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function fix_zero_contour(levels)$/;"	f
+flt2dble	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function flt2dble (xF:float) $/;"	f
+flt2string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function flt2string ( x:float )$/;"	f
+fo2fsh_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function fo2fsh_Wrap (x:numeric)$/;"	f
+fo2fshv_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure fo2fshv_Wrap (u:numeric, v:numeric, uNew:numeric, vNew:numeric)$/;"	p
+fran	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/xyplot/xy07n.ncl	/^function fran( $/;"	f
+g2fsh_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function g2fsh_Wrap (x:numeric, newDims)$/;"	f
+g2fshv_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure g2fshv_Wrap (u:numeric, v:numeric, uNew:numeric, vNew:numeric)$/;"	p
+g2gsh_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function g2gsh_Wrap (x:numeric, newDims, twave:numeric)$/;"	f
+g2gshv_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure g2gshv_Wrap (u:numeric, v:numeric, uNew:numeric, vNew:numeric,\\$/;"	p
+genCmapCnLvl	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure genCmapCnLvl (wks:graphic, nCnLvl:integer, hueLeft, hueRight)$/;"	p
+genCmapColorWheelInternal	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure genCmapColorWheelInternal (wks:graphic, ncol:integer, hueRange:float)$/;"	p
+genCmapHueRangeInternal	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function genCmapHueRangeInternal (hueLeft, hueRight) $/;"	f
+genCmapLb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure genCmapLb (wks:graphic, plot:graphic \\  ; changed 4 Aug 99$/;"	p
+genCmapManualRes	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure genCmapManualRes (wks:graphic, res ,hueLeft, hueRight)$/;"	p
+genCmapMnMxCnInt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure genCmapMnMxCnInt (wks:graphic \\$/;"	p
+genCmapMnMxSpan	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure genCmapMnMxSpan (wks:graphic, plot:graphic\\$/;"	p
+genCmapNameCol	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure genCmapNameCol (wks:graphic, colors[*]:string)$/;"	p
+genDispersionCurves	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure genDispersionCurves( nWaveType[1]:integer      \\$/;"	p
+genNormalDist	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function genNormalDist(xAve[1]:numeric, xStd[1]:numeric, opt:logical) $/;"	f
+gen_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/contourplot/cn05n.ncl	/^function gen_colormap( )$/;"	f
+generate_sample_indices	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function generate_sample_indices(N[1], method[1]:integer)$/;"	f
+generate_unique_indices	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function generate_unique_indices( N )$/;"	f
+geni	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm21n.ncl	/^procedure geni(mlow[1]:integer, mhgh[1]:integer, \\$/;"	p
+genpnt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm21n.ncl	/^function genpnt(rlat[1]:float, rlon[1]:float, space[645]:float)$/;"	f
+genrs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm21n.ncl	/^procedure genrs(rlat[*]:float, rlon[*]:float)$/;"	p
+get1Dindex	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function get1Dindex (cv[*],  cvWant[*])$/;"	f
+get1Dindex_Collapse	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function get1Dindex_Collapse (cv[*]:numeric,cvWant[*]:numeric)$/;"	f
+get1Dindex_Exclude	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function get1Dindex_Exclude (cv[*]:numeric,cvExclude[*]:numeric)$/;"	f
+getFilePath	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^  function getFilePath(colorMapName:string)$/;"	f
+getFillValue	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getFillValue (x)$/;"	f
+getLongName	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getLongName(x)$/;"	f
+getSkewTColorIndex	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function getSkewTColorIndex (wks:graphic, color:string)$/;"	f
+getSubString	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getSubString (s[*]:string, iStrt:integer, iLast:integer)$/;"	f
+getTimeFromBnds	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getTimeFromBnds(f, opt[1]:logical)   ; f is of type 'list' or 'file'$/;"	f
+getVarDimNames	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getVarDimNames (x)$/;"	f
+getVarFillValue	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getVarFillValue (x)$/;"	f
+get_KML_IconHref	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function get_KML_IconHref(IconName[1]:string)$/;"	f
+get_allowed_lat_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_lat_units()$/;"	f
+get_allowed_lat_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_lat_units()$/;"	f
+get_allowed_latnames	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_latnames()$/;"	f
+get_allowed_latnames	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_latnames()$/;"	f
+get_allowed_lon_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_lon_units()$/;"	f
+get_allowed_lon_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_lon_units()$/;"	f
+get_allowed_lonnames	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_lonnames()$/;"	f
+get_allowed_lonnames	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_lonnames()$/;"	f
+get_allowed_pres_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_pres_units()$/;"	f
+get_allowed_pres_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_pres_units()$/;"	f
+get_allowed_pres_units_hpa	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_pres_units_hpa()$/;"	f
+get_allowed_pres_units_hpa	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_pres_units_hpa()$/;"	f
+get_allowed_pres_units_mb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_pres_units_mb()$/;"	f
+get_allowed_pres_units_mb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_pres_units_mb()$/;"	f
+get_allowed_pres_units_pa	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_allowed_pres_units_pa()$/;"	f
+get_allowed_pres_units_pa	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_allowed_pres_units_pa()$/;"	f
+get_att_value	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function get_att_value(opt,attname:string,default_val)$/;"	f
+get_bar_widths	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_bar_widths(x,ncurves,res2)$/;"	f
+get_bar_widths	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_bar_widths(x,ncurves,res2)$/;"	f
+get_bb_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_bb_res(res:logical)$/;"	f
+get_bb_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_bb_res(res:logical)$/;"	f
+get_cnLevels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function get_cnLevels (plot:graphic) $/;"	f
+get_color_index	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function get_color_index(cmapt,cnlvls[*]:numeric,value[1]:numeric)$/;"	f
+get_color_rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function get_color_rgba(cmapt,cnlvls[*]:numeric,value[1]:numeric)$/;"	f
+get_color_type	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_color_type(colors)$/;"	f
+get_color_type	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_color_type(colors)$/;"	f
+get_colormap_names	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_colormap_names()$/;"	f
+get_colormap_names	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_colormap_names()$/;"	f
+get_contour_levels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_contour_levels(plot:graphic)$/;"	f
+get_contour_levels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_contour_levels(plot:graphic)$/;"	f
+get_contour_line_thicknesses	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_contour_line_thicknesses(plot:graphic)$/;"	f
+get_contour_line_thicknesses	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_contour_line_thicknesses(plot:graphic)$/;"	f
+get_coordinate_system_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function get_coordinate_system_string(Opt[1]:logical)$/;"	f
+get_csm_long_name_units_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_csm_long_name_units_string(data)$/;"	f
+get_csm_long_name_units_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_csm_long_name_units_string(data)$/;"	f
+get_display_mode	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_display_mode(res:logical,name:string,value)$/;"	f
+get_display_mode	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_display_mode(res:logical,name:string,value)$/;"	f
+get_dst_grid_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function get_dst_grid_info(opt)$/;"	f
+get_file_suffix	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function get_file_suffix (filName[1]:string, opt:integer)$/;"	f
+get_flags	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function get_flags (plot:graphic) $/;"	f
+get_lat_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_lat_labels(lat_values:numeric)$/;"	f
+get_lat_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_lat_labels(lat_values:numeric)$/;"	f
+get_lat_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_lat_values(min_lat:numeric,max_lat:numeric,lat_spacing:numeric,\\$/;"	f
+get_lat_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_lat_values(min_lat:numeric,max_lat:numeric,lat_spacing:numeric,\\$/;"	f
+get_lon_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_lon_labels(lon_values:numeric)$/;"	f
+get_lon_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_lon_labels(lon_values:numeric)$/;"	f
+get_lon_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_lon_values(min_lon:numeric,max_lon:numeric,lon_spacing:numeric,\\$/;"	f
+get_lon_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_lon_values(min_lon:numeric,max_lon:numeric,lon_spacing:numeric,\\$/;"	f
+get_long_name_units_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_long_name_units_string(data)$/;"	f
+get_long_name_units_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_long_name_units_string(data)$/;"	f
+get_mask_name	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function get_mask_name(opt)$/;"	f
+get_named_color_list	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_named_color_list()$/;"	f
+get_named_color_list	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_named_color_list()$/;"	f
+get_nearest_grid_pts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function get_nearest_grid_pts(obslat[*]:numeric, obslon[*]:numeric        \\$/;"	f
+get_non_missing_pairs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_non_missing_pairs(x[*]:numeric,y[*]:numeric)$/;"	f
+get_non_missing_pairs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_non_missing_pairs(x[*]:numeric,y[*]:numeric)$/;"	f
+get_overlay_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_overlay_plot(plot:graphic,class_name:string,plot_index:integer)$/;"	f
+get_overlay_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_overlay_plot(plot:graphic,class_name:string,plot_index:integer)$/;"	f
+get_plot_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_plot_labelbar(plot:graphic)$/;"	f
+get_plot_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_plot_labelbar(plot:graphic)$/;"	f
+get_plot_not_loglin	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_plot_not_loglin(plot:graphic)$/;"	f
+get_plot_not_loglin	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_plot_not_loglin(plot:graphic)$/;"	f
+get_polar_type	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_polar_type(res:logical)$/;"	f
+get_polar_type	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_polar_type(res:logical)$/;"	f
+get_res_eq	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_res_eq(res,res_prefix:string)$/;"	f
+get_res_eq	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_res_eq(res,res_prefix:string)$/;"	f
+get_res_eq_replace	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_res_eq_replace(res,res_prefix:string,rep_prefix:string)$/;"	f
+get_res_eq_replace	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_res_eq_replace(res,res_prefix:string,rep_prefix:string)$/;"	f
+get_res_ne	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_res_ne(res,res_prefix:string)$/;"	f
+get_res_ne	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_res_ne(res,res_prefix:string)$/;"	f
+get_res_value	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_res_value(res,resname:string,default_val)$/;"	f
+get_res_value	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_res_value(res,resname:string,default_val)$/;"	f
+get_res_value_keep	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_res_value_keep(res,resname:string,default_val)$/;"	f
+get_res_value_keep	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_res_value_keep(res,resname:string,default_val)$/;"	f
+get_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_resources(res:logical)$/;"	f
+get_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_resources(res:logical)$/;"	f
+get_rgb_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function get_rgb_values(named_colors)$/;"	f
+get_rgb_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function get_rgb_values(named_colors)$/;"	f
+get_src_grid_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function get_src_grid_info(opt,data)$/;"	f
+get_start_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function get_start_time()$/;"	f
+get_unique_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function get_unique_values(vals)$/;"	f
+get_valid_long_name_value	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_valid_long_name_value(data)$/;"	f
+get_valid_long_name_value	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_valid_long_name_value(data)$/;"	f
+get_valid_long_names	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_valid_long_names()$/;"	f
+get_valid_long_names	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_valid_long_names()$/;"	f
+get_valid_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_valid_units()$/;"	f
+get_valid_units	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_valid_units()$/;"	f
+get_valid_units_value	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function get_valid_units_value(data)$/;"	f
+get_valid_units_value	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function get_valid_units_value(data)$/;"	f
+getdat	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/mapplot/mp03n.ncl	/^function getdat ($/;"	f
+getfilevaratts_hdf5	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getfilevaratts_hdf5( f, attName[1]:string )$/;"	f
+getind_latlon2d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function getind_latlon2d(lat2d[*][*]:numeric,lon2d[*][*]:numeric \\$/;"	f
+grad_rich_num_atm	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function grad_rich_num_atm(th:numeric, u:numeric, v:numeric ,z:numeric, ndim[1]:integer)$/;"	f
+grib_stime2COARDStime	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function grib_stime2COARDStime(stime[*]:string, tunits:string)$/;"	f
+grib_stime2itime	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function grib_stime2itime(stime[*]:string)$/;"	f
+gsn_add_annotation	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_annotation(plot:graphic, anno:graphic, resources:logical)$/;"	f
+gsn_add_annotation	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_annotation(plot:graphic, anno:graphic, resources:logical)$/;"	f
+gsn_add_cyclic_point	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_add_cyclic_point(data:numeric)$/;"	f
+gsn_add_cyclic_point	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_add_cyclic_point(data:numeric)$/;"	f
+gsn_add_polygon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_polygon(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	f
+gsn_add_polygon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_polygon(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	f
+gsn_add_polyline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_polyline(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	f
+gsn_add_polyline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_polyline(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	f
+gsn_add_polymarker	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_polymarker(wks:graphic,plotid:graphic,x:numeric,\\$/;"	f
+gsn_add_polymarker	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_polymarker(wks:graphic,plotid:graphic,x:numeric,\\$/;"	f
+gsn_add_primitive	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_primitive(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	f
+gsn_add_primitive	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_primitive(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	f
+gsn_add_shapefile_polygons	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_shapefile_polygons(wks,plots[*]:graphic,fname:string,gnres)$/;"	f
+gsn_add_shapefile_polygons	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_shapefile_polygons(wks,plots[*]:graphic,fname:string,gnres)$/;"	f
+gsn_add_shapefile_polylines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_shapefile_polylines(wks,plots[*]:graphic,fname:string,lnres)$/;"	f
+gsn_add_shapefile_polylines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_shapefile_polylines(wks,plots[*]:graphic,fname:string,lnres)$/;"	f
+gsn_add_shapefile_polymarkers	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_shapefile_polymarkers(wks,plots[*]:graphic,fname:string,mkres)$/;"	f
+gsn_add_shapefile_polymarkers	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_shapefile_polymarkers(wks,plots[*]:graphic,fname:string,mkres)$/;"	f
+gsn_add_shapefile_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_shapefile_text(wks,plot,fname[1]:string,vname[1]:string,txres)$/;"	f
+gsn_add_shapefile_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_shapefile_text(wks,plot,fname[1]:string,vname[1]:string,txres)$/;"	f
+gsn_add_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_add_text(wks:graphic,plotid:graphic,texto:string, \\$/;"	f
+gsn_add_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_add_text(wks:graphic,plotid:graphic,texto:string, \\$/;"	f
+gsn_attach_plots	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_attach_plots(oldbaseplot:graphic,oldplots:graphic, \\$/;"	f
+gsn_attach_plots	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_attach_plots(oldbaseplot:graphic,oldplots:graphic, \\$/;"	f
+gsn_blank_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_blank_plot(wks:graphic,res:logical)$/;"	f
+gsn_blank_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_blank_plot(wks:graphic,res:logical)$/;"	f
+gsn_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_contour(wks:graphic, data:numeric, resources:logical )$/;"	f
+gsn_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_contour(wks:graphic, data:numeric, resources:logical )$/;"	f
+gsn_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_contour_map(wks:graphic,data:numeric,\\$/;"	f
+gsn_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_contour_map(wks:graphic,data:numeric,\\$/;"	f
+gsn_contour_shade	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_contour_shade(plot:graphic,lowval:numeric,highval:numeric,\\$/;"	f
+gsn_contour_shade	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_contour_shade(plot:graphic,lowval:numeric,highval:numeric,\\$/;"	f
+gsn_coordinates	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_coordinates(wks[1]:graphic,plot[1]:graphic, \\$/;"	p
+gsn_coordinates	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_coordinates(wks[1]:graphic,plot[1]:graphic, \\$/;"	p
+gsn_create_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_create_labelbar(wks:graphic, nbox:integer, labels:string, \\$/;"	f
+gsn_create_labelbar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_create_labelbar(wks:graphic, nbox:integer, labels:string, \\$/;"	f
+gsn_create_labelbar_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_create_labelbar_ndc(wks:graphic, nbox:integer, labels:string, \\$/;"	f
+gsn_create_labelbar_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_create_labelbar_ndc(wks:graphic, nbox:integer, labels:string, \\$/;"	f
+gsn_create_legend	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_create_legend(wks:graphic, nitems:integer, labels:string, \\$/;"	f
+gsn_create_legend	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_create_legend(wks:graphic, nitems:integer, labels:string, \\$/;"	f
+gsn_create_legend_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_create_legend_ndc(wks:graphic, nitems:integer, labels:string, \\$/;"	f
+gsn_create_legend_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_create_legend_ndc(wks:graphic, nitems:integer, labels:string, \\$/;"	f
+gsn_create_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_create_text(wks:graphic, text:string, resources:logical )$/;"	f
+gsn_create_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_create_text(wks:graphic, text:string, resources:logical )$/;"	f
+gsn_create_text_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_create_text_ndc(wks:graphic, texto:string, xo:numeric, \\$/;"	f
+gsn_create_text_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_create_text_ndc(wks:graphic, texto:string, xo:numeric, \\$/;"	f
+gsn_csm_attach_zonal_means	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_attach_zonal_means(wks,map_object,zdata,zres)$/;"	f
+gsn_csm_attach_zonal_means	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_attach_zonal_means(wks,map_object,zdata,zres)$/;"	f
+gsn_csm_blank_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_blank_plot(wks:graphic,res:logical)$/;"	f
+gsn_csm_blank_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_blank_plot(wks:graphic,res:logical)$/;"	f
+gsn_csm_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_contour(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_contour(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_contour_map(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_contour_map(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_contour_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_contour_map_ce(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_contour_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_contour_map_ce(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_contour_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_contour_map_other(wks:graphic,data:numeric,\\$/;"	f
+gsn_csm_contour_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_contour_map_other(wks:graphic,data:numeric,\\$/;"	f
+gsn_csm_contour_map_overlay	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_contour_map_overlay(wks:graphic,data1:numeric,data2:numeric, \\$/;"	f
+gsn_csm_contour_map_overlay	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_contour_map_overlay(wks:graphic,data1:numeric,data2:numeric, \\$/;"	f
+gsn_csm_contour_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_contour_map_polar(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_contour_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_contour_map_polar(wks:graphic,data:numeric,resources:logical)$/;"	f
+gsn_csm_hov	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_hov(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_hov	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_hov(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_lat_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_lat_time(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_lat_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_lat_time(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_map(wks:graphic,resources:logical)$/;"	f
+gsn_csm_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_map(wks:graphic,resources:logical)$/;"	f
+gsn_csm_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_map_ce(wks:graphic,resources:logical)$/;"	f
+gsn_csm_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_map_ce(wks:graphic,resources:logical)$/;"	f
+gsn_csm_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_map_other(wks:graphic,resources:logical)$/;"	f
+gsn_csm_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_map_other(wks:graphic,resources:logical)$/;"	f
+gsn_csm_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_map_polar(wks:graphic,resources:logical)$/;"	f
+gsn_csm_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_map_polar(wks:graphic,resources:logical)$/;"	f
+gsn_csm_pres_hgt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_pres_hgt(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_pres_hgt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_pres_hgt(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_pres_hgt_streamline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_pres_hgt_streamline(wks:graphic,data[*][*]:numeric, \\$/;"	f
+gsn_csm_pres_hgt_streamline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_pres_hgt_streamline(wks:graphic,data[*][*]:numeric, \\$/;"	f
+gsn_csm_pres_hgt_vector	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_pres_hgt_vector(wks:graphic,data[*][*]:numeric, \\$/;"	f
+gsn_csm_pres_hgt_vector	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_pres_hgt_vector(wks:graphic,data[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline(wks:graphic,u[*][*]:numeric,v[*][*],\\$/;"	f
+gsn_csm_streamline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline(wks:graphic,u[*][*]:numeric,v[*][*],\\$/;"	f
+gsn_csm_streamline_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_contour_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_contour_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_contour_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_contour_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_contour_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_contour_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_contour_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_map(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_map(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_scalar_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_scalar_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_scalar_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_scalar_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_streamline_scalar_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_streamline_scalar_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_streamline_scalar_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_time_lat	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_time_lat(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_time_lat	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_time_lat(wks:graphic,data[*][*]:numeric,resources:logical)$/;"	f
+gsn_csm_vector	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector(wks:graphic,u[*][*]:numeric,v[*][*],resources:logical)$/;"	f
+gsn_csm_vector	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector(wks:graphic,u[*][*]:numeric,v[*][*],resources:logical)$/;"	f
+gsn_csm_vector_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_map(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_map(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_map_ce(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_map_ce(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_vector_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_vector_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric, \\$/;"	f
+gsn_csm_vector_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric, \\$/;"	f
+gsn_csm_vector_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_vector_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_vector_scalar_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_scalar_map_ce	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map_ce(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_scalar_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_scalar_map_other	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map_other(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_csm_vector_scalar_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_vector_scalar_map_polar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_vector_scalar_map_polar(wks:graphic,u[*][*]:numeric, \\$/;"	f
+gsn_csm_x2y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_x2y(wks:graphic, x1:numeric, x2:numeric, y1:numeric, \\$/;"	f
+gsn_csm_x2y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_x2y(wks:graphic, x1:numeric, x2:numeric, y1:numeric, \\$/;"	f
+gsn_csm_x2y2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_x2y2(wks:graphic, x1:numeric, x2:numeric, \\$/;"	f
+gsn_csm_x2y2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_x2y2(wks:graphic, x1:numeric, x2:numeric, \\$/;"	f
+gsn_csm_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_xy(wks:graphic,x:numeric,y:numeric,resources:logical)$/;"	f
+gsn_csm_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_xy(wks:graphic,x:numeric,y:numeric,resources:logical)$/;"	f
+gsn_csm_xy2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_xy2(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+gsn_csm_xy2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_xy2(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+gsn_csm_xy3	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_xy3(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+gsn_csm_xy3	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_xy3(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+gsn_csm_y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_y(wks:graphic, y:numeric, resources:logical )$/;"	f
+gsn_csm_y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_y(wks:graphic, y:numeric, resources:logical )$/;"	f
+gsn_csm_zonal_means	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_csm_zonal_means(wks,zdata,zres)$/;"	f
+gsn_csm_zonal_means	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_csm_zonal_means(wks,zdata,zres)$/;"	f
+gsn_define_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_define_colormap(wks:graphic, cmap)$/;"	p
+gsn_define_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_define_colormap(wks:graphic, cmap)$/;"	p
+gsn_draw_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_draw_colormap(wks)$/;"	p
+gsn_draw_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_draw_colormap(wks)$/;"	p
+gsn_draw_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_draw_named_colors(wks:graphic,colors[*]:string, box[2]:integer)$/;"	p
+gsn_draw_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_draw_named_colors(wks:graphic,colors[*]:string, box[2]:integer)$/;"	p
+gsn_geop_hgt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function gsn_geop_hgt( p[*]:numeric )$/;"	f
+gsn_geop_hgt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function gsn_geop_hgt( p[*]:numeric )$/;"	f
+gsn_histogram	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_histogram(wks[1]:graphic,xdata, resources:logical)$/;"	f
+gsn_histogram	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_histogram(wks[1]:graphic,xdata, resources:logical)$/;"	f
+gsn_labelbar_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_labelbar_ndc(wks:graphic, nbox:integer, labels:string, \\$/;"	p
+gsn_labelbar_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_labelbar_ndc(wks:graphic, nbox:integer, labels:string, \\$/;"	p
+gsn_legend_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_legend_ndc(wks:graphic, nitems:integer, labels:string, \\$/;"	p
+gsn_legend_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_legend_ndc(wks:graphic, nitems:integer, labels:string, \\$/;"	p
+gsn_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_map(wks:graphic, projection:string, resources:logical )$/;"	f
+gsn_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_map(wks:graphic, projection:string, resources:logical )$/;"	f
+gsn_merge_colormaps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_merge_colormaps(wks:graphic,cmap1,cmap2)$/;"	p
+gsn_merge_colormaps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_merge_colormaps(wks:graphic,cmap1,cmap2)$/;"	p
+gsn_open_cairo	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_open_cairo(type:string, name[1]:string)$/;"	f
+gsn_open_cairo	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_open_cairo(type:string, name[1]:string)$/;"	f
+gsn_open_image	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_open_image(type:string,name[1]:string)$/;"	f
+gsn_open_image	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_open_image(type:string,name[1]:string)$/;"	f
+gsn_open_ncgm	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_open_ncgm(name[1]:string)$/;"	f
+gsn_open_ncgm	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_open_ncgm(name[1]:string)$/;"	f
+gsn_open_pdf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_open_pdf(type:string, name[1]:string)$/;"	f
+gsn_open_pdf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_open_pdf(type:string, name[1]:string)$/;"	f
+gsn_open_ps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_open_ps(type:string,name[1]:string)$/;"	f
+gsn_open_ps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_open_ps(type:string,name[1]:string)$/;"	f
+gsn_open_wks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_open_wks(type[1]:string,name[1]:string)$/;"	f
+gsn_open_wks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_open_wks(type[1]:string,name[1]:string)$/;"	f
+gsn_open_x11	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_open_x11(name[1]:string,res[1]:string)$/;"	f
+gsn_open_x11	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_open_x11(name[1]:string,res[1]:string)$/;"	f
+gsn_panel	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_panel(wks:graphic,plot[*]:graphic,dims[*]:integer,\\$/;"	p
+gsn_panel	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_panel(wks:graphic,plot[*]:graphic,dims[*]:integer,\\$/;"	p
+gsn_panel_return	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_panel_return(wks:graphic,plot[*]:graphic,dims[*]:integer,\\$/;"	f
+gsn_panel_return	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_panel_return(wks:graphic,plot[*]:graphic,dims[*]:integer,\\$/;"	f
+gsn_polygon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_polygon(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	p
+gsn_polygon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_polygon(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	p
+gsn_polygon_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_polygon_ndc(wks:graphic,x[*]:numeric,y[*]:numeric,\\$/;"	p
+gsn_polygon_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_polygon_ndc(wks:graphic,x[*]:numeric,y[*]:numeric,\\$/;"	p
+gsn_polyline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_polyline(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	p
+gsn_polyline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_polyline(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	p
+gsn_polyline_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_polyline_ndc(wks:graphic,x[*]:numeric,y[*]:numeric,\\$/;"	p
+gsn_polyline_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_polyline_ndc(wks:graphic,x[*]:numeric,y[*]:numeric,\\$/;"	p
+gsn_polymarker	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_polymarker(wks:graphic,plotid:graphic,x:numeric,\\$/;"	p
+gsn_polymarker	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_polymarker(wks:graphic,plotid:graphic,x:numeric,\\$/;"	p
+gsn_polymarker_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_polymarker_ndc(wks:graphic,x:numeric,y:numeric,\\$/;"	p
+gsn_polymarker_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_polymarker_ndc(wks:graphic,x:numeric,y:numeric,\\$/;"	p
+gsn_primitive	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_primitive(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	p
+gsn_primitive	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_primitive(wks:graphic,plotid:graphic,x[*]:numeric,\\$/;"	p
+gsn_retrieve_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_retrieve_colormap(wks:graphic)$/;"	f
+gsn_retrieve_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_retrieve_colormap(wks:graphic)$/;"	f
+gsn_reverse_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_reverse_colormap(wks:graphic)$/;"	p
+gsn_reverse_colormap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_reverse_colormap(wks:graphic)$/;"	p
+gsn_shapefile_polylines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_shapefile_polylines(wks,plot,fname:string,lnres)$/;"	p
+gsn_shapefile_polylines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_shapefile_polylines(wks,plot,fname:string,lnres)$/;"	p
+gsn_streamline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_streamline(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_streamline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_streamline(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_streamline_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_streamline_contour(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_streamline_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_streamline_contour(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_streamline_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_streamline_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_streamline_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_streamline_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_streamline_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_streamline_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_streamline_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_streamline_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_streamline_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_streamline_scalar_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_streamline_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_streamline_scalar_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_table	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_table(wks:graphic,ncr[2]:integer,x[2]:numeric, \\$/;"	p
+gsn_table	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_table(wks:graphic,ncr[2]:integer,x[2]:numeric, \\$/;"	p
+gsn_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_text(wks:graphic,plotid:graphic,texto:string,xo:numeric, \\$/;"	p
+gsn_text	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_text(wks:graphic,plotid:graphic,texto:string,xo:numeric, \\$/;"	p
+gsn_text_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsn_text_ndc(wks:graphic, text:string, x:numeric, \\$/;"	p
+gsn_text_ndc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsn_text_ndc(wks:graphic, text:string, x:numeric, \\$/;"	p
+gsn_vector	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_vector(wks:graphic, u[*][*]:numeric, v[*][*]:numeric, \\$/;"	f
+gsn_vector	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_vector(wks:graphic, u[*][*]:numeric, v[*][*]:numeric, \\$/;"	f
+gsn_vector_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_vector_contour(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_vector_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_vector_contour(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_vector_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_vector_contour_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_vector_contour_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_vector_contour_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_vector_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_vector_map(wks:graphic, u[*][*]:numeric, v[*][*]:numeric, \\$/;"	f
+gsn_vector_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_vector_map(wks:graphic, u[*][*]:numeric, v[*][*]:numeric, \\$/;"	f
+gsn_vector_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_vector_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_vector_scalar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_vector_scalar(wks:graphic,u[*][*]:numeric,v[*][*]:numeric,\\$/;"	f
+gsn_vector_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_vector_scalar_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_vector_scalar_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_vector_scalar_map(wks:graphic,u[*][*]:numeric,\\$/;"	f
+gsn_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_xy(wks:graphic, x:numeric, y:numeric, resources:logical )$/;"	f
+gsn_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_xy(wks:graphic, x:numeric, y:numeric, resources:logical )$/;"	f
+gsn_y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function gsn_y(wks:graphic, y:numeric, resources:logical )$/;"	f
+gsn_y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function gsn_y(wks:graphic, y:numeric, resources:logical )$/;"	f
+gsnp_point_tickmarks_outward	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsnp_point_tickmarks_outward(plot:graphic,res:logical, \\$/;"	p
+gsnp_point_tickmarks_outward	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsnp_point_tickmarks_outward(plot:graphic,res:logical, \\$/;"	p
+gsnp_scale_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsnp_scale_plot(plot:graphic,scalar_prefix,res:logical)$/;"	p
+gsnp_scale_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsnp_scale_plot(plot:graphic,scalar_prefix,res:logical)$/;"	p
+gsnp_shape_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsnp_shape_plot(plot:graphic)$/;"	p
+gsnp_shape_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsnp_shape_plot(plot:graphic)$/;"	p
+gsnp_turn_off_tickmarks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsnp_turn_off_tickmarks(res:logical)$/;"	p
+gsnp_turn_off_tickmarks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsnp_turn_off_tickmarks(res:logical)$/;"	p
+gsnp_uniform_tickmark_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsnp_uniform_tickmark_labels(plot:graphic,res:logical, \\$/;"	p
+gsnp_uniform_tickmark_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsnp_uniform_tickmark_labels(plot:graphic,res:logical, \\$/;"	p
+gsnp_write_debug_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure gsnp_write_debug_info(data1,data2,data3,gsn_name[1]:string,\\$/;"	p
+gsnp_write_debug_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure gsnp_write_debug_info(data1,data2,data3,gsn_name[1]:string,\\$/;"	p
+hide_KML_Children	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^procedure hide_KML_Children(FileName[1]:string)$/;"	p
+histX	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function histX (x[*]:numeric)             ; 13 Sept 2003$/;"	f
+histY	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function histY (y[*]:numeric)             ; 13 Sept 2003$/;"	f
+hist_columns	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function hist_columns(wks[1]:graphic,xy[1]:graphic,binvalues:numeric, \\$/;"	f
+hist_columns	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function hist_columns(wks[1]:graphic,xy[1]:graphic,binvalues:numeric, \\$/;"	f
+hsv2rgb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function hsv2rgb (h_old[*]:float,s_old[*]:float,v_old[*]:float)$/;"	f
+hsv2rgb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function hsv2rgb (h_old[*]:float,s_old[*]:float,v_old[*]:float)$/;"	f
+ht_surface	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/ccm_func.ncl	/^function ht_surface (gwt[*]:numeric,oro[*][*]:numeric,fsns[*][*]:numeric, \\$/;"	f
+hyi2hyo_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function hyi2hyo_Wrap(p0,hyai,hybi,psfc,xi,hyao,hybo,option)$/;"	f
+icObjAnal_1d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function icObjAnal_1d(x[*],y[*],z[*],lon[*],lat[*],dcrit[*]:numeric,opt:logical)$/;"	f
+icObjAnal_2d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function icObjAnal_2d(x[*],y[*],z[*],lon2d[*][*],lat2d[*][*],dcrit[*]:numeric,opt:logical)$/;"	f
+ilapsF_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function ilapsF_Wrap (zlap:numeric, zlmbda:numeric)$/;"	f
+ilapsG_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function ilapsG_Wrap (zlap:numeric, zlmbda:numeric)$/;"	f
+indStrSubset	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function indStrSubset(S[1]:string, s[1]:string)$/;"	f
+ind_nearest_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function ind_nearest_coord ( z[*]:numeric, zgrid[*]:numeric, iopt:integer) $/;"	f
+indexcolor2rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function indexcolor2rgba(wks,color_indexes[*])$/;"	f
+indexcolor2rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function indexcolor2rgba(wks,color_indexes[*])$/;"	f
+infoTimeStamp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure infoTimeStamp ( wks:graphic, chSize:float, FileInfo:string )$/;"	p
+int2dble	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function int2dble(i:integer)$/;"	f
+int2flt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function int2flt(i:integer)$/;"	f
+int2p_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function int2p_Wrap (xi:numeric, fi:numeric, xo:numeric, linlog[1]:integer)$/;"	f
+int2p_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function int2p_n_Wrap (xi:numeric, fi:numeric, xo:numeric, \\$/;"	f
+isConstantSpace	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function isConstantSpace(z[*]:numeric, epsz[1]:numeric)$/;"	f
+isEqualSpace	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function isEqualSpace(z[*]:numeric, epsz[1]:numeric)$/;"	f
+isLatorLon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function isLatorLon(fid,VarNames[*]:string)$/;"	f
+isMonotonic	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function isMonotonic(x[*]:numeric)          $/;"	f
+isNumerical	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^  function isNumerical(s:string)$/;"	f
+isStrSubset	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function isStrSubset(S[1]:string, s[1]:string)$/;"	f
+is_ESMF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function is_ESMF(FileName[1]:string,verbose[1]:logical)$/;"	f
+is_SCRIP	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function is_SCRIP(FileName[1]:string,verbose[1]:logical)$/;"	f
+is_cairo_eps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_cairo_eps(wtype)$/;"	f
+is_cairo_eps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_cairo_eps(wtype)$/;"	f
+is_cairo_pdf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_cairo_pdf(wtype)$/;"	f
+is_cairo_pdf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_cairo_pdf(wtype)$/;"	f
+is_cairo_png	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_cairo_png(wtype)$/;"	f
+is_cairo_png	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_cairo_png(wtype)$/;"	f
+is_cairo_ps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_cairo_ps(wtype)$/;"	f
+is_cairo_ps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_cairo_ps(wtype)$/;"	f
+is_cairo_svg	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_cairo_svg(wtype)$/;"	f
+is_cairo_svg	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_cairo_svg(wtype)$/;"	f
+is_cairo_wks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_cairo_wks(wtype)$/;"	f
+is_cairo_wks	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_cairo_wks(wtype)$/;"	f
+is_data_1d_or_2d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_data_1d_or_2d(data)$/;"	f
+is_data_1d_or_2d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_data_1d_or_2d(data)$/;"	f
+is_tm_obj_valid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function is_tm_obj_valid(pobj)$/;"	f
+is_tm_obj_valid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function is_tm_obj_valid(pobj)$/;"	f
+is_valid_colormap_names	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_valid_colormap_names(colormap_names[*]:string)$/;"	f
+is_valid_colormap_names	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_valid_colormap_names(colormap_names[*]:string)$/;"	f
+is_valid_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function is_valid_coord(data:numeric,axis:string)$/;"	f
+is_valid_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function is_valid_coord(data:numeric,axis:string)$/;"	f
+is_valid_latlon2d_attr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function is_valid_latlon2d_attr(data:numeric,lstring:string)$/;"	f
+is_valid_latlon2d_attr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function is_valid_latlon2d_attr(data:numeric,lstring:string)$/;"	f
+is_valid_latlon_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function is_valid_latlon_coord(data:numeric,axis:string,latorlon:string,\\$/;"	f
+is_valid_latlon_coord	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function is_valid_latlon_coord(data:numeric,axis:string,latorlon:string,\\$/;"	f
+is_valid_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function is_valid_named_colors(colors[*]:string)$/;"	f
+is_valid_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function is_valid_named_colors(colors[*]:string)$/;"	f
+isatt_LongName	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function isatt_LongName(x)$/;"	f
+isatt_logical_false	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function isatt_logical_false(Opt[1]:logical,AttName[1]:string)$/;"	f
+isatt_logical_true	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function isatt_logical_true(Opt[1]:logical,AttName[1]:string)$/;"	f
+kf_filter	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/kf_filter.ncl	/^function kf_filter( inData[*][*]:float, obsPerDay:numeric, \\\\$/;"	f
+l2_norma	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^ function l2_norma( x[*][*][*][*]:numeric, wy[*], wz )$/;"	f
+l2_normb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^ function l2_normb( x[*][*][*][*]:numeric, wy[*], wz )$/;"	f
+landsea_mask	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function landsea_mask (basemap[*][*]:byte,tlat:numeric,tlon:numeric)$/;"	f
+latGau	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function latGau (nlat, dimName:string, longName:string, units:string)$/;"	f
+latGauWgt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function latGauWgt(nlat,dimName:string,longName:string,units:string)$/;"	f
+latGlobeF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function latGlobeF(nlat,dimName:string,longName:string,units:string)$/;"	f
+latGlobeFo	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function latGlobeFo(nlat,dimName:string,longName:string,units:string)$/;"	f
+latGridF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function latGridF(latStrt[1]:numeric, latLast[1]:numeric, nlat[1]:integer \\$/;"	f
+latLon2Pop_LinearIntS	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function latLon2Pop_LinearIntS (x:numeric, dst_type:string)   $/;"	f
+latRegWgt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function latRegWgt(lat[*]:numeric, nType[1]:string, opt[1]:integer)$/;"	f
+latlon_to_SCRIP	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure latlon_to_SCRIP(FName[1]:string,GridType[1]:string,Opt[1]:logical)$/;"	p
+linint1_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function linint1_Wrap (xi:numeric, fi:numeric, wrapX:logical \\$/;"	f
+linint1_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function linint1_n_Wrap (xi:numeric, fi:numeric, wrapX:logical \\$/;"	f
+linint2_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function linint2_Wrap (xi[*]:numeric,yi[*]:numeric, fi:numeric, wrapX:logical \\$/;"	f
+linint2_points_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function linint2_points_Wrap \\ $/;"	f
+local_max_1d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function local_max_1d( X[*]:numeric  , cyclic:logical \\$/;"	f
+local_min_1d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function local_min_1d( X[*]:numeric  , cyclic:logical \\$/;"	f
+log1px	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function log1px(x:numeric)$/;"	f
+lonFlip	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function lonFlip (x:numeric)   $/;"	f
+lonGM2DateLine	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure lonGM2DateLine (xOld, lonNew) $/;"	p
+lonGlobeF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function lonGlobeF(mlon,dimName:string,longName:string,units:string)$/;"	f
+lonGlobeFo	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function lonGlobeFo(mlon,dimName:string,longName:string,units:string)$/;"	f
+lonGridF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function lonGridF(lonStrt[1]:numeric, lonLast[1]:numeric, nlon[1]:integer \\$/;"	f
+lonPivot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function lonPivot (x:numeric, pivotLon:numeric)$/;"	f
+lower_case	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function lower_case(name:string)$/;"	f
+lower_case	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function lower_case(name:string)$/;"	f
+mask_lambert_conformal	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function mask_lambert_conformal(wks:graphic, maplc:graphic, minlat:numeric,\\$/;"	f
+mask_lambert_conformal	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function mask_lambert_conformal(wks:graphic, maplc:graphic, minlat:numeric,\\$/;"	f
+max2a	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm21n.ncl	/^function max2a(a1[*]:numeric, a2[*]:numeric)$/;"	f
+maximize_bb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function maximize_bb(plot[1]:graphic,res:logical)$/;"	f
+maximize_bb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function maximize_bb(plot[1]:graphic,res:logical)$/;"	f
+maximize_output	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure maximize_output(wks:graphic,psres:logical)$/;"	p
+maximize_output	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure maximize_output(wks:graphic,psres:logical)$/;"	p
+maximize_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure maximize_plot(plot,psres)$/;"	p
+maximize_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure maximize_plot(plot,psres)$/;"	p
+maxind_ind	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function maxind_ind(data:numeric)$/;"	f
+maxrunlen	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function maxrunlen( runs )                     $/;"	f
+merge_VarAtts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function merge_VarAtts(var_from,var_to)    $/;"	f
+merge_levels_sfc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function merge_levels_sfc (x, xsfc, levind[1]:integer)$/;"	f
+min2a	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm21n.ncl	/^function min2a(a1[*]:numeric, a2[*]:numeric)$/;"	f
+mirrorP2P	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function mirrorP2P(p1,po)$/;"	f
+mjo_ApplyLanczosWgt_LeftDim	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function mjo_ApplyLanczosWgt_LeftDim(x:numeric, wgt[*]:numeric, opt[1]:integer)$/;"	f
+mjo_cross	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function mjo_cross (X[*][*][*]:numeric, Y[*][*][*]:numeric \\$/;"	f
+mjo_cross_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure mjo_cross_plot(STC[*][*][*]:numeric \\$/;"	p
+mjo_elimIsolatedValues	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure mjo_elimIsolatedValues(c2, ph1, ph2, iopt)$/;"	p
+mjo_phase_background	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function mjo_phase_background (wks:graphic , opt[1]:logical   )$/;"	f
+mjo_spectra	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure mjo_spectra \\$/;"	p
+mjo_spectra_season	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function mjo_spectra_season \\$/;"	f
+mjo_wavenum_freq_season	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function mjo_wavenum_freq_season \\$/;"	f
+mjo_wavenum_freq_season_plot	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure mjo_wavenum_freq_season_plot (wf[*][*],seaName[1]:string\\$/;"	p
+mjo_xcor_lag	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function mjo_xcor_lag (xio[*]:numeric , y[*][*]:numeric \\ $/;"	f
+mjo_xcor_lag_ovly_panel	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure mjo_xcor_lag_ovly_panel( \\$/;"	p
+mjo_xcor_lag_plot_ovly	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure mjo_xcor_lag_plot_ovly( \\$/;"	p
+mjo_xcor_lag_season	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function mjo_xcor_lag_season(x[*]:numeric, y[*][*]:numeric, mxlag[1]:integer, opt[1]:logical) $/;"	f
+mod	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function mod (r1:numeric, r2:numeric) $/;"	f
+modCheck	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure modCheck (name:string, N, n)$/;"	p
+mon_fullyear	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function mon_fullyear(x:numeric, opt)$/;"	f
+month_name	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function month_name (opt[1]:integer)$/;"	f
+month_to_annual	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function month_to_annual(x:numeric, opt:integer)$/;"	f
+month_to_annual_weighted	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function month_to_annual_weighted(yyyymm[*]:numeric, x:numeric, opt:integer)$/;"	f
+month_to_season	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function month_to_season (xMon:numeric, SEASON:string)$/;"	f
+month_to_season12	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function month_to_season12 (xMon:numeric)$/;"	f
+month_to_seasonN	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function month_to_seasonN (xMon:numeric, SEASON[*]:string)$/;"	f
+monthly_total_to_daily_mean	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function monthly_total_to_daily_mean(yyyymm[*]:numeric, x:numeric, opt:integer)$/;"	f
+mreg_part_corr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function mreg_part_corr(x1,x2,y,opt)$/;"	f
+msgValOutline	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function msgValOutline (wks:graphic, plot:graphic, x[*][*]:float)$/;"	f
+msrcp_mss2local	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure msrcp_mss2local (source:string,target_dir:string,opts:string)$/;"	p
+namDimCheck	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function namDimCheck (name:string, x)$/;"	f
+nameDim	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function nameDim(x,dimNames[*]:string,longName:string,units:string)$/;"	f
+namedcolor2rgb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function namedcolor2rgb(names[*]:string)$/;"	f
+namedcolor2rgb	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function namedcolor2rgb(names[*]:string)$/;"	f
+namedcolor2rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function namedcolor2rgba(names[*]:string)$/;"	f
+namedcolor2rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function namedcolor2rgba(names[*]:string)$/;"	f
+namelist	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function namelist (fname:string)$/;"	f
+natgrid_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function natgrid_Wrap (xi[*]:numeric,yi[*]:numeric, fi:numeric \\$/;"	f
+nchoosek	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/nchoosek.ncl	/^function nchoosek(n,k)$/;"	f
+nextcombination	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/nchoosek.ncl	/^function nextcombination(n,k,ar)$/;"	f
+niceLatLon2D	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function niceLatLon2D(lat2d[*][*], lon2d[*][*])$/;"	f
+norml2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function norml2 (varz[*][*]:numeric,gw[*]:numeric)$/;"	f
+nrand	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/ngmath/nm21n.ncl	/^procedure nrand(first:integer, nextn:integer, result:float)$/;"	p
+numAsciiCol	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function numAsciiCol (fNam:string)$/;"	f
+numAsciiRow	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function numAsciiRow (fNam:string)$/;"	f
+numBinOneRuns	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function numBinOneRuns ( a[*]:integer, nCrit:integer)$/;"	f
+numeric2int	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function numeric2int( x:numeric, opt[1]:integer)$/;"	f
+obj_anal_ic_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function obj_anal_ic_Wrap (xi[*]:numeric,yi[*]:numeric, fi:numeric \\$/;"	f
+obj_anal_ic_deprecated	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function obj_anal_ic_deprecated(X[*],Y[*],Z[*], lon:numeric,lat:numeric \\$/;"	f
+ocean_mask	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/ccm_func.ncl	/^function ocean_mask (oro[*][*]:numeric)$/;"	f
+oft_model	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/ccm_func.ncl	/^function oft_model (gwt[*]:numeric,oro[*][*]:numeric,precc[*][*]:numeric, \\$/;"	f
+oht_model	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/ccm_func.ncl	/^function oht_model (gwt[*]:numeric,oro[*][*]:numeric,fsns[*][*]:numeric, \\$/;"	f
+omega_ccm_driver	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function omega_ccm_driver(p0,psfc,u,v,hyam[*],hybm[*],hyai[*],hybi[*])$/;"	f
+omega_to_w	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function omega_to_w (omega, p, t)$/;"	f
+oneDtostring	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function oneDtostring (x[*])$/;"	f
+ones	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function ones(VarDims[*]:integer,VarType[1]:string)$/;"	f
+outlined_bars	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure outlined_bars(x,y,xinterp,yinterp)$/;"	p
+outlined_bars	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure outlined_bars(x,y,xinterp,yinterp)$/;"	p
+overlay_irregular	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function overlay_irregular(wks,wksname,overlay_plot_object:graphic,\\$/;"	f
+overlay_irregular	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function overlay_irregular(wks,wksname,overlay_plot_object:graphic,\\$/;"	f
+pack_values	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pack_values(var:numeric, packType:string, opt:logical)  $/;"	f
+parse_date_ymd	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/calendar_decode2.ncl	/^function parse_date_ymd (instr:character, delim_str:string)$/;"	f
+partitionString	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function partitionString(s:string , fs:string)$/;"	f
+pattern_cor	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pattern_cor (x, y, w, opt:integer)$/;"	f
+pattern_cor2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pattern_cor2 (x[*][*],y[*][*],w, opt:integer)$/;"	f
+pdfx	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pdfx(x:numeric, nbin[1]:integer, opt:logical)$/;"	f
+pdfx_v510	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pdfx_v510(x:numeric, nbin[1]:integer, opt:logical)$/;"	f
+pdfxy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pdfxy(x:numeric, y:numeric, nbinx[1]:integer, nbiny[1]:integer, opt:logical)$/;"	f
+pdfxy_conform	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pdfxy_conform(x,y,nbinx,nbiny,opt)  ; same arguments as pdfxy$/;"	f
+pdfxy_plt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function pdfxy_plt(wks[1]:graphic, p[*][*], res[1])$/;"	f
+pie_chart	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function pie_chart(wks:graphic, percent[*]:numeric, name[*]:string        \\$/;"	f
+plot_x2y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function plot_x2y(wks:graphic, x1:numeric, x2:numeric, y1:numeric, \\$/;"	f
+plot_x2y	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function plot_x2y(wks:graphic, x1:numeric, x2:numeric, y1:numeric, \\$/;"	f
+plot_x2y2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function plot_x2y2(wks:graphic, x1:numeric, x2:numeric, \\$/;"	f
+plot_x2y2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function plot_x2y2(wks:graphic, x1:numeric, x2:numeric, \\$/;"	f
+plot_xy2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function plot_xy2(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+plot_xy2	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function plot_xy2(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+plot_xy3	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function plot_xy3(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+plot_xy3	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function plot_xy3(wks:graphic, x1:numeric, y1:numeric, y2:numeric, \\$/;"	f
+plt_csm_xy_AddCyclicMonth	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function plt_csm_xy_AddCyclicMonth(wks:graphic, x[12]:numeric, y:numeric, resxy:logical)$/;"	f
+plt_pdfxy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function plt_pdfxy(wks[1]:graphic, p[*][*], res[1])$/;"	f
+pop_latlon_grid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure pop_latlon_grid(wks:graphic,plot:graphic,popgrid:string)$/;"	p
+pop_latlon_grid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure pop_latlon_grid(wks:graphic,plot:graphic,popgrid:string)$/;"	p
+pop_tick_locs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function pop_tick_locs(lonorlat,locs)$/;"	f
+pop_tick_locs	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function pop_tick_locs(lonorlat,locs)$/;"	f
+postRotate_PopLatLon2D	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function postRotate_PopLatLon2D \\$/;"	f
+pot_temp	/data3/users/zy/soft/packman/install/ncl/6.3.0/func.6.3.0.ncl	/^function pot_temp (p:numeric, t:numeric, npr[*]:integer, opt[1]:logical)$/;"	f
+pot_temp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pot_temp (p:numeric, t:numeric, npr[*]:integer, opt[1]:logical)$/;"	f
+pot_vort_hybrid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pot_vort_hybrid\\$/;"	f
+pot_vort_hybrid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function pot_vort_hybrid\\$/;"	f
+pot_vort_isobaric	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pot_vort_isobaric\\$/;"	f
+pot_vort_isobaric	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function pot_vort_isobaric\\$/;"	f
+preRotate_PopLatLon2D	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/popRemap.ncl	/^function preRotate_PopLatLon2D \\$/;"	f
+pres2hybrid_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function pres2hybrid_Wrap(p[*],psfc,p0,xi,hyao,hybo,intflg)$/;"	f
+printMinMax	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure printMinMax (x:numeric,optSpace:logical)  $/;"	p
+printVarInfo	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure printVarInfo (x, xInfo:string)$/;"	p
+print_clock	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure print_clock( \\\\$/;"	p
+print_elapsed_esmf_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure print_elapsed_esmf_time(stime,title)$/;"	p
+print_header	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure print_header(icount:integer,debug)$/;"	p
+print_opts	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure print_opts(opts_name,opts,debug)$/;"	p
+quadroots	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function quadroots(a[1]:numeric, b[1]:numeric, c[1]:numeric)$/;"	f
+rankCheck	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure rankCheck (name:string, x, n:integer)$/;"	p
+rcm2points_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rcm2points_Wrap \\ $/;"	f
+rcm2rgrid_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rcm2rgrid_Wrap (yi[*][*]:numeric,xi[*][*]:numeric, fi:numeric \\$/;"	f
+readAsciiHead	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function readAsciiHead( fName:string, opt)$/;"	f
+readAsciiTable	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function readAsciiTable( fName:string, ncol, datatype:string, opt)$/;"	f
+read_colormap_file	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function read_colormap_file(colorMapName:string)$/;"	f
+read_colormap_files	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function read_colormap_files(colorMapNames[*]:string)$/;"	f
+read_ict	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function read_ict(FileName[1]:string)$/;"	f
+rectilinear_to_SCRIP	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure rectilinear_to_SCRIP(FName[1]:string,lat[*]:numeric,\\$/;"	p
+ref_line_interp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function ref_line_interp(x,y,xinterp,yinterp,ref_line)$/;"	f
+ref_line_interp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function ref_line_interp(x,y,xinterp,yinterp,ref_line)$/;"	f
+reg_multlin_stats	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function reg_multlin_stats(Y[*]:numeric, XP:numeric, opt)$/;"	f
+region_ind	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function region_ind(XLAT[*][*]:numeric, XLON[*][*]:numeric \\$/;"	f
+regline_stats	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function regline_stats(x[*]:numeric, y[*]:numeric)$/;"	f
+relhum_ttd	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function relhum_ttd (t:numeric, td:numeric, opt:integer)$/;"	f
+replaceChars	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure replaceChars (s[1]:string, oldStr[1]:string, newStr[1]:string )$/;"	p
+replaceSingleChar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure replaceSingleChar (s[*]:string, oldStr[1]:string, newStr[1]:string)$/;"	p
+reset_device_coordinates	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure reset_device_coordinates(wks)$/;"	p
+reset_device_coordinates	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure reset_device_coordinates(wks)$/;"	p
+resolveWavesHayashi	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function resolveWavesHayashi ( varfft[*][*][*], nDayWin[1], spd[1] )  ; (2,mlon,nSampWin)$/;"	f
+retrieve_ESMF_lat	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_ESMF_lat(fileName[1]:string)$/;"	f
+retrieve_ESMF_lon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_ESMF_lon(fileName[1]:string)$/;"	f
+retrieve_SCRIP_lat	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_SCRIP_lat(fileName[1]:string)$/;"	f
+retrieve_SCRIP_lon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_SCRIP_lon(fileName[1]:string)$/;"	f
+retrieve_dstGrid_lat	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_dstGrid_lat(fileName[1]:string)$/;"	f
+retrieve_dstGrid_lon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_dstGrid_lon(fileName[1]:string)$/;"	f
+retrieve_srcGrid_lat	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_srcGrid_lat(fileName[1]:string)$/;"	f
+retrieve_srcGrid_lon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function retrieve_srcGrid_lon(fileName[1]:string)$/;"	f
+rgb2rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function rgb2rgba(rgb)$/;"	f
+rgb2rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function rgb2rgba(rgb)$/;"	f
+rgrid2rcm_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rgrid2rcm_Wrap (yi[*]:numeric,xi[*]:numeric, fi:numeric \\$/;"	f
+rho_mwjf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rho_mwjf(t2d[*][*]:numeric,s2d[*][*]:numeric,depth:numeric) $/;"	f
+rht_model	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/ccm_func.ncl	/^function rht_model (gwt[*]:numeric,restoa[*][*]:numeric)$/;"	f
+rmAnnCycle1D	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rmAnnCycle1D (x[*]:numeric)$/;"	f
+rmInsufData	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rmInsufData (y:numeric, dataperc:float)$/;"	f
+rmMonAnnCycLLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rmMonAnnCycLLLT (x[*][*][*][*]:numeric)$/;"	f
+rmMonAnnCycLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rmMonAnnCycLLT (x[*][*][*]:numeric)$/;"	f
+rmMonAnnCycTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rmMonAnnCycTLL (x[*][*][*]:numeric)$/;"	f
+rm_single_dims	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function rm_single_dims (x)$/;"	f
+rmvAnnualCycle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^function rmvAnnualCycle( z[*][*][*], spd[1], nDayTot[1]:integer$/;"	f
+rotate_latlon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure rotate_latlon(lat:snumeric,lon:snumeric,Rot[1]:numeric)$/;"	p
+run_cor	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/run_cor.ncl	/^function run_cor(x[*]:numeric,y[*]:numeric,time[*]:numeric,wSize[1]:integer)$/;"	f
+runave_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function runave_Wrap( x:numeric, nave[1]:integer, kopt[1]:integer)$/;"	f
+runave_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function runave_n_Wrap( x:numeric, nave[1]:integer, kopt[1]:integer, \\$/;"	f
+scalar_field	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function scalar_field(sfname:string,data:numeric,res2:logical)$/;"	f
+scalar_field	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function scalar_field(sfname:string,data:numeric,res2:logical)$/;"	f
+season_name	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function season_name (opt[1]:integer)$/;"	f
+setColorContourClear	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function setColorContourClear (plot:graphic, cLow:numeric, cUp:numeric) $/;"	f
+set_attr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure set_attr(res:logical,att_name:string,att_value)$/;"	p
+set_attr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure set_attr(res:logical,att_name:string,att_value)$/;"	p
+set_axis_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure set_axis_string(plot:graphic,res:logical,data:numeric,axis:string)$/;"	p
+set_axis_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure set_axis_string(plot:graphic,res:logical,data:numeric,axis:string)$/;"	p
+set_cn_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function set_cn_resources (data[*][*]:numeric, res:logical)$/;"	f
+set_labelbar_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure set_labelbar_res(r[1]:logical,type[1]:string)$/;"	p
+set_labelbar_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure set_labelbar_res(r[1]:logical,type[1]:string)$/;"	p
+set_lb_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function set_lb_resources (data[*][*]:numeric, res:logical)$/;"	f
+set_left_subtitle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure set_left_subtitle(data:numeric,res:logical,newres:logical)$/;"	p
+set_left_subtitle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure set_left_subtitle(data:numeric,res:logical,newres:logical)$/;"	p
+set_line_thickness_scale	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function set_line_thickness_scale(plot:graphic,scale)$/;"	f
+set_line_thickness_scale	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function set_line_thickness_scale(plot:graphic,scale)$/;"	f
+set_mp_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function set_mp_resources (res:logical)$/;"	f
+set_mp_wrf_map_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function set_mp_wrf_map_resources(in_file[1]:file,opt_args[1]:logical)   $/;"	f
+set_pos_neg_line_pattern	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function set_pos_neg_line_pattern(plot:graphic,ppattern,npattern)$/;"	f
+set_pos_neg_line_pattern	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function set_pos_neg_line_pattern(plot:graphic,ppattern,npattern)$/;"	f
+set_pres_hgt_axes	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure set_pres_hgt_axes(pres:numeric,res:logical,add_hgt:logical)$/;"	p
+set_pres_hgt_axes	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure set_pres_hgt_axes(pres:numeric,res:logical,add_hgt:logical)$/;"	p
+set_right_subtitle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure set_right_subtitle(data:numeric,res:logical,newres:logical)$/;"	p
+set_right_subtitle	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure set_right_subtitle(data:numeric,res:logical,newres:logical)$/;"	p
+set_subtitles_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^procedure set_subtitles_res(res:logical,plotres:logical)$/;"	p
+set_subtitles_res	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^procedure set_subtitles_res(res:logical,plotres:logical)$/;"	p
+set_title_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function set_title_resources (data[*][*]:numeric, res:logical)$/;"	f
+set_vc_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function set_vc_resources (res:logical)$/;"	f
+set_zero_line_thickness	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function set_zero_line_thickness(plot:graphic,zthickness,cthickness)$/;"	f
+set_zero_line_thickness	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function set_zero_line_thickness(plot:graphic,zthickness,cthickness)$/;"	f
+shift_array	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure shift_array(x[*][*], kmode)$/;"	p
+short2flt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function short2flt (xS)$/;"	f
+short2flt_hdf	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function short2flt_hdf (xS:short)$/;"	f
+shsgc_R42_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function shsgc_R42_Wrap (a:numeric, b:numeric)$/;"	f
+sigma_interface	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function sigma_interface (sigma[*]:numeric, sigma_top[1]:numeric)$/;"	f
+sign_f90	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function sign_f90( X:numeric, Y:numeric )$/;"	f
+sign_matlab	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function sign_matlab( X:numeric )$/;"	f
+size_array	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function size_array(x)$/;"	f
+skewT_BackGround	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewT_BackGround (wks:graphic,  Opts:logical)$/;"	f
+skewT_BackGround_Original	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewT_BackGround_Original (wks:graphic,  Opts:logical)$/;"	f
+skewT_BackGround_Panel	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewT_BackGround_Panel (wks:graphic,  Opts:logical)$/;"	f
+skewT_PlotData	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewT_PlotData (wks:graphic, skewt_bkgd:graphic \\$/;"	f
+skewT_PlotData_Original	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewT_PlotData_Original \\$/;"	f
+skewT_PlotData_Panel	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewT_PlotData_Panel (wks:graphic, skewt_bkgd:graphic \\$/;"	f
+skewtx	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewtx(temp[*]:numeric,y[*]:numeric) ; x-coord given temperature (c)$/;"	f
+skewty	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/skewt_func.ncl	/^function skewty(pres[*]:numeric)            ; y-coord given pressure (mb)$/;"	f
+smooth92d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function smooth92d(var[*][*]:float,p[1]:float,q[1]:float)$/;"	f
+smooth92d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function smooth92d(var[*][*]:float,p[1]:float,q[1]:float)$/;"	f
+smooth93d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function smooth93d(var[*][*][*]:float,p[1]:float,q[1]:float)$/;"	f
+smooth93d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function smooth93d(var[*][*][*]:float,p[1]:float,q[1]:float)$/;"	f
+smth13_n	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function smth13_n (x:numeric, ndim)    ; smth13$/;"	f
+smth9_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function smth9_Wrap(var:numeric, p[1]:numeric, q[1]:numeric, cyclic:logical)$/;"	f
+smthClmDayTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function smthClmDayTLL (clmDay[*][*][*]:numeric, nHarm:integer)$/;"	f
+smthClmDayTLLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function smthClmDayTLLL (clmDay[*][*][*][*]:numeric, nHarm:integer)$/;"	f
+sort_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure sort_xy(x:numeric, y:numeric, eps:numeric, opt:numeric)$/;"	p
+span_color_indexes	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function span_color_indexes(cmapt,ncolors)$/;"	f
+span_color_rgba	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function span_color_rgba(cmapt,ncolors)$/;"	f
+span_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function span_named_colors(named_colors,opt[1]:logical)$/;"	f
+span_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function span_named_colors(named_colors,opt[1]:logical)$/;"	f
+span_two_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function span_two_named_colors(named1[1]:string,named2[1]:string,ncolors,\\$/;"	f
+span_two_named_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function span_two_named_colors(named1[1]:string,named2[1]:string,ncolors,\\$/;"	f
+specx_ci	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function specx_ci (sdof:numeric ,pLow:numeric, pHigh:numeric)$/;"	f
+specxy_ci	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function specxy_ci (sdof:numeric ,pLow:numeric, pHigh:numeric)$/;"	f
+spread_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function spread_colors(wks:graphic,plot:graphic,min_index:integer,\\$/;"	f
+spread_colors	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function spread_colors(wks:graphic,plot:graphic,min_index:integer,\\$/;"	f
+squeeze	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function squeeze(inVar)$/;"	f
+sstLandFill	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^procedure sstLandFill(sst)$/;"	p
+statAsymSym	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure statAsymSym (x[*][*]:numeric, name[1]:string )$/;"	p
+stat_dispersion	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function stat_dispersion (x:numeric, opt[1]:logical )$/;"	f
+stat_mode	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function stat_mode(A[*]:numeric)$/;"	f
+static_stability	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function static_stability (p:numeric, t:numeric, npr[1]:integer, sopt[1]:integer)$/;"	f
+stdMonLLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function stdMonLLLT (x[*][*][*][*]:numeric)$/;"	f
+stdMonLLT	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function stdMonLLT (x[*][*][*]:numeric)$/;"	f
+stdMonTLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function stdMonTLL (x[*][*][*]:numeric)$/;"	f
+stdMonTLLL	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function stdMonTLLL (x[*][*][*][*]:numeric)$/;"	f
+stringtoxxx	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function stringtoxxx(str:string,type:string)$/;"	f
+stringtoxxx	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function stringtoxxx(str:string,type:string)$/;"	f
+svdAkBk2time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function svdAkBk2time (xk[*]:numeric, nsvd:integer, time[*]:numeric \\$/;"	f
+svdHomHet2latlon	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function svdHomHet2latlon (x[*][*]:numeric                \\$/;"	f
+symMinMaxPlt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure symMinMaxPlt (x:numeric, nCnLvl:integer, inOut:logical, res:logical)$/;"	p
+table_attach_columns	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function table_attach_columns (t1[*][*], t2[*][*], iopt:integer)$/;"	f
+table_attach_rows	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function table_attach_rows (t1[*][*], t2[*][*], iopt:integer)$/;"	f
+taper_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function taper_Wrap( x:numeric, pct[1]:numeric, kopt[1]:numeric)$/;"	f
+taper_leftdim	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function taper_leftdim(x:numeric, pct[1]:numeric, opt[1]:integer)$/;"	f
+taper_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function taper_n_Wrap( x:numeric, pct[1]:numeric, kopt[1]:numeric,  \\$/;"	f
+thetaHybrid	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/ccm_func.ncl	/^function thetaHybrid (t:numeric,ps:numeric, P0:numeric \\$/;"	f
+timeCoads2YYYYMM	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function timeCoads2YYYYMM (yrStrt:integer, yrLast:integer, TYPE:string)$/;"	f
+time_axis_labels	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/time_axis_labels.ncl	/^procedure time_axis_labels(time:numeric,resplot:logical,restick:logical)$/;"	p
+time_to_newtime	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function time_to_newtime(time[*]:numeric, new_time_units[1]:string)$/;"	f
+tofloat_wunits	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function tofloat_wunits(x:numeric)$/;"	f
+tofloat_wunits	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function tofloat_wunits(x:numeric)$/;"	f
+totype	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^ function totype( varin, type:string )$/;"	f
+totypeof	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^function totypeof(inVar,outType)$/;"	f
+transpose	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function transpose (x)$/;"	f
+trimBlankRight	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function trimBlankRight (s[*]:string)$/;"	f
+triple2grid_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function triple2grid_Wrap (xi[*]:numeric,yi[*]:numeric, fi:numeric \\$/;"	f
+unique_values_opt	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/utilities.ncl	/^function unique_values_opt(vals,opt)$/;"	f
+unstructured_to_ESMF	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure unstructured_to_ESMF(FName[1]:string,inLat,inLon,Opt[1]:logical)$/;"	p
+unstructured_to_SCRIP	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure unstructured_to_SCRIP(FName[1]:string,inLat,inLon,Opt[1]:logical)$/;"	p
+upperTriCntr	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function upperTriCntr(wks:graphic,x[*][*]:numeric,label:string,RES:logical)$/;"	f
+ut_convert	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function ut_convert( dateFrom:numeric, unitsTo:string )$/;"	f
+ut_string	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/ut_string.ncl	/^function ut_string( time[*]:numeric, inFormat:string )$/;"	f
+uv2dvF_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function uv2dvF_Wrap (u:numeric, v:numeric)$/;"	f
+uv2dvG_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function uv2dvG_Wrap (u:numeric, v:numeric)$/;"	f
+uv2vrF_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function uv2vrF_Wrap (u:numeric, v:numeric)$/;"	f
+uv2vrG_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function uv2vrG_Wrap (u:numeric, v:numeric)$/;"	f
+vector_field	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^function vector_field(vfname:string,u:numeric,v:numeric,res2:logical)$/;"	f
+vector_field	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^function vector_field(vfname:string,u:numeric,v:numeric,res2:logical)$/;"	f
+vertint	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function vertint (X:numeric, dp:numeric, con[1]:numeric \\$/;"	f
+vr2uvF_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function vr2uvF_Wrap (vr)$/;"	f
+vr2uvG_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function vr2uvG_Wrap (vr)$/;"	f
+w_to_omega	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function w_to_omega (w, p, t)$/;"	f
+wallClockElapseTime	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^procedure wallClockElapseTime(wcStrt:string, title:string, opt:integer)$/;"	p
+wave_number_spc	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function wave_number_spc (x:numeric, gridType:string)$/;"	f
+wgt_areaave_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function wgt_areaave_Wrap (x:numeric, wgty[*]:numeric, wgtx[*]:numeric, opt:integer)$/;"	f
+wgt_runave_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function wgt_runave_Wrap( x:numeric, wgt[*]:numeric, kopt[1]:integer)$/;"	f
+wgt_runave_leftdim	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function wgt_runave_leftdim(x:numeric, wgt[*]:numeric, opt[1]:integer)$/;"	f
+wgt_runave_n_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function wgt_runave_n_Wrap( x:numeric, wgt[*]:numeric, kopt[1]:integer, \\$/;"	f
+wgt_vertical_int	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/shea_util.ncl	/^function wgt_vertical_int (X:numeric, dp:numeric, lev_dim[1]:integer, iopt:integer)$/;"	f
+wigley	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsun10n.ncl	/^function wigley(time:integer)$/;"	f
+wind_component	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function wind_component(wspd:numeric, wdir:numeric, opt:integer)$/;"	f
+wind_direction	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function wind_direction(u:numeric, v:numeric, opt:integer)$/;"	f
+wkSpaceTime	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure wkSpaceTime (x[*][*][*]:numeric                  \\$/;"	p
+wkSpaceTime_cam	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/diagnostics_cam.ncl	/^procedure wkSpaceTime_cam                    \\  $/;"	p
+wr_GenBogusData	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function wr_GenBogusData (nMax:integer) $/;"	f
+wr_GenBogusDataRandom	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/wind_rose.ncl	/^function wr_GenBogusDataRandom (nMax:integer) $/;"	f
+wrf_contour	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_contour(nc_file:file,wks[1]: graphic, data[*][*]:numeric, \\$/;"	f
+wrf_contour_ps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_contour_ps(nc_file:file,wks[1]: graphic, data[*][*]:numeric, \\$/;"	f
+wrf_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_map(wks[1]:graphic,in_file[1]:file,opt_args[1]:logical)   $/;"	f
+wrf_map_overlay	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure wrf_map_overlay(wks:graphic,base[1]:graphic, \\$/;"	p
+wrf_map_overlays	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_map_overlays(in_file[1]:file, \\$/;"	f
+wrf_map_resources	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_map_resources(in_file[1]:file,map_args[1]:logical)   $/;"	f
+wrf_map_zoom	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_map_zoom(wks[1]:graphic,in_file[1]:file,opt_args[1]:logical, \\$/;"	f
+wrf_mapres_c	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^procedure wrf_mapres_c(f:file, res:logical, opt)$/;"	p
+wrf_overlay	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure wrf_overlay(wks:graphic, plots[*]:graphic, \\$/;"	p
+wrf_overlays	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_overlays(in_file[1]:file, \\$/;"	f
+wrf_times_c	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRF_contributed.ncl	/^function wrf_times_c(Times:character, opt:integer)$/;"	f
+wrf_user_getvar	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_getvar( file_handle, varin[*]:string, time_in:integer )$/;"	f
+wrf_user_getvar_from_files	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_getvar_from_files( nc_files:string, varin[*]:string, time[*]:integer, opts_args:logical )$/;"	f
+wrf_user_ij_to_ll	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_ij_to_ll( file_handle, i:numeric, j:numeric, \\$/;"	f
+wrf_user_intrp2d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_intrp2d( var2d:numeric, \\$/;"	f
+wrf_user_intrp3d	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_intrp3d( var3d:numeric, z_in:numeric, \\$/;"	f
+wrf_user_latlon_to_ij	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_latlon_to_ij( nc_file:file, latitude:numeric, \\$/;"	f
+wrf_user_list_times	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_list_times( nc_file )$/;"	f
+wrf_user_ll_to_ij	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_ll_to_ij( file_handle, longitude:numeric, latitude:numeric, \\$/;"	f
+wrf_user_set_xy	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_set_xy( var:numeric, xp:numeric, yp:numeric, x1:numeric, \\$/;"	f
+wrf_user_unstagger	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_unstagger( varin:numeric, unstagDim:string )$/;"	f
+wrf_user_vert_interp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_user_vert_interp(file_handle,field:numeric, \\$/;"	f
+wrf_vector	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_vector(nc_file:file,wks[1]: graphic, data_u[*][*]:numeric, \\$/;"	f
+wrf_vector_ps	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_vector_ps(nc_file:file,wks[1]: graphic, \\$/;"	f
+wrf_wps_dom	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_wps_dom(wks[1]:graphic,opt_args[1]:logical,lnres[1]:logical,txres[1]:logical) $/;"	f
+wrf_wps_map	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^function wrf_wps_map(wks[1]:graphic,opt_args[1]:logical)   $/;"	f
+write_debug_res_file	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure write_debug_res_file(resfname[1]:string)$/;"	p
+write_debug_res_file	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure write_debug_res_file(resfname[1]:string)$/;"	p
+write_grid_description_file	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/esmf/ESMF_regridding.ncl	/^procedure write_grid_description_file(srcData,which_grid,opt)$/;"	p
+write_latlon2d_lines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure write_latlon2d_lines(ldata, ldata_name[1]:string, thelines, numlines)$/;"	p
+write_latlon2d_lines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure write_latlon2d_lines(ldata, ldata_name[1]:string, thelines, numlines)$/;"	p
+write_lines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_code.ncl	/^procedure write_lines(strs, thelines, numlines)$/;"	p
+write_lines	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_code.ncl	/^procedure write_lines(strs, thelines, numlines)$/;"	p
+write_wrf_debug_info	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure write_wrf_debug_info(wks[1]:graphic,data1,data2, \\$/;"	p
+write_wrf_debug_script	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/wrf/WRFUserARW.ncl	/^procedure write_wrf_debug_script(wks,debug_file,wrf_func_name)$/;"	p
+xy_ref_interp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclex/gsun/gsn_csm.ncl	/^function xy_ref_interp(x1:numeric,x2:numeric,y1:numeric,y2:numeric, \\$/;"	f
+xy_ref_interp	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/gsn_csm.ncl	/^function xy_ref_interp(x1:numeric,x2:numeric,y1:numeric,y2:numeric, \\$/;"	f
+yyyyddd_to_yyyymmdd	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyyddd_to_yyyymmdd ( yyyyddd[*]:integer )$/;"	f
+yyyymm2yyyyFrac	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymm2yyyyFrac (yyyymm:integer)$/;"	f
+yyyymm_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymm_time (yrStrt:integer, yrLast:integer, TYPE:string)$/;"	f
+yyyymm_to_yyyyfrac	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymm_to_yyyyfrac (yyyymm[*]:numeric, mmOffset[1]:numeric)$/;"	f
+yyyymmdd2yyyyFrac	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymmdd2yyyyFrac (yyyymmdd:numeric, ddOffset[1]:numeric)$/;"	f
+yyyymmdd_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymmdd_time (yrStrt:integer, yrLast:integer, TYPE:string)$/;"	f
+yyyymmdd_to_yyyyddd	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymmdd_to_yyyyddd (yyyymmdd[*]:integer)$/;"	f
+yyyymmdd_to_yyyyfrac	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymmdd_to_yyyyfrac (yyyymmdd:numeric, ddOffset:numeric)$/;"	f
+yyyymmddhh2yyyyFrac	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymmddhh2yyyyFrac (yyyymmddhh[*]:numeric)$/;"	f
+yyyymmddhh_time	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymmddhh_time (yrStrt[1]:integer, yrLast[1]:integer, hrStep[1]:integer, TYPE:string)$/;"	f
+yyyymmddhh_to_yyyyfrac	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function yyyymmddhh_to_yyyyfrac (yyyymmddhh:numeric, hhOffset[1]:numeric)$/;"	f
+zeros	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/contrib/NCL_GETools.ncl	/^function zeros(VarDims[*]:integer,VarType[1]:string)$/;"	f
+zonalAve	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function zonalAve (x:numeric)$/;"	f
+zonal_mpsi_Wrap	/data3/users/zy/soft/packman/install/ncl/6.3.0/lib/ncarg/nclscripts/csm/contributed.ncl	/^function zonal_mpsi_Wrap (v:numeric, lat[*]:numeric, p[*]:numeric, ps:numeric)$/;"	f

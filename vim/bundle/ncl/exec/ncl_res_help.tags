@@ -1,0 +1,1492 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+amDataXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amDataXF$/;"	r
+amDataYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amDataYF$/;"	r
+amJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amJust$/;"	r
+amOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amOn$/;"	r
+amOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amOrthogonalPosF$/;"	r
+amParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amParallelPosF$/;"	r
+amResizeNotify	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amResizeNotify$/;"	r
+amSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amSide$/;"	r
+amTrackData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amTrackData$/;"	r
+amViewId	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amViewId$/;"	r
+amZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   amZone$/;"	r
+appDefaultParent	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   appDefaultParent$/;"	r
+appFileSuffix	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   appFileSuffix$/;"	r
+appResources	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   appResources$/;"	r
+appSysDir	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   appSysDir$/;"	r
+appUsrDir	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   appUsrDir$/;"	r
+caCopyArrays	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caCopyArrays$/;"	r
+caXArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caXArray$/;"	r
+caXCast	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caXCast$/;"	r
+caXMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caXMaxV$/;"	r
+caXMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caXMinV$/;"	r
+caXMissingV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caXMissingV$/;"	r
+caYArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caYArray$/;"	r
+caYCast	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caYCast$/;"	r
+caYMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caYMaxV$/;"	r
+caYMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caYMinV$/;"	r
+caYMissingV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   caYMissingV$/;"	r
+cnCellFillEdgeColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnCellFillEdgeColor$/;"	r
+cnCellFillMissingValEdgeColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnCellFillMissingValEdgeColor$/;"	r
+cnConpackParams	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConpackParams$/;"	r
+cnConstFLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelAngleF$/;"	r
+cnConstFLabelBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelBackgroundColor$/;"	r
+cnConstFLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelConstantSpacingF$/;"	r
+cnConstFLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFont$/;"	r
+cnConstFLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFontAspectF$/;"	r
+cnConstFLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFontColor$/;"	r
+cnConstFLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFontHeightF$/;"	r
+cnConstFLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFontQuality$/;"	r
+cnConstFLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFontThicknessF$/;"	r
+cnConstFLabelFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFormat$/;"	r
+cnConstFLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelFuncCode$/;"	r
+cnConstFLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelJust$/;"	r
+cnConstFLabelOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelOn$/;"	r
+cnConstFLabelOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelOrthogonalPosF$/;"	r
+cnConstFLabelParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelParallelPosF$/;"	r
+cnConstFLabelPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelPerimColor$/;"	r
+cnConstFLabelPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelPerimOn$/;"	r
+cnConstFLabelPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelPerimSpaceF$/;"	r
+cnConstFLabelPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelPerimThicknessF$/;"	r
+cnConstFLabelSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelSide$/;"	r
+cnConstFLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelString$/;"	r
+cnConstFLabelTextDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelTextDirection$/;"	r
+cnConstFLabelZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFLabelZone$/;"	r
+cnConstFUseInfoLabelRes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnConstFUseInfoLabelRes$/;"	r
+cnExplicitLabelBarLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnExplicitLabelBarLabelsOn$/;"	r
+cnExplicitLegendLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnExplicitLegendLabelsOn$/;"	r
+cnExplicitLineLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnExplicitLineLabelsOn$/;"	r
+cnFillBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillBackgroundColor$/;"	r
+cnFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillColor$/;"	r
+cnFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillColors$/;"	r
+cnFillDotSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillDotSizeF$/;"	r
+cnFillDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillDrawOrder$/;"	r
+cnFillMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillMode$/;"	r
+cnFillOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillOn$/;"	r
+cnFillOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillOpacityF$/;"	r
+cnFillPalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillPalette$/;"	r
+cnFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillPattern$/;"	r
+cnFillPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillPatterns$/;"	r
+cnFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillScaleF$/;"	r
+cnFillScales	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFillScales$/;"	r
+cnFixFillBleed	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnFixFillBleed$/;"	r
+cnGridBoundFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnGridBoundFillColor$/;"	r
+cnGridBoundFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnGridBoundFillPattern$/;"	r
+cnGridBoundFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnGridBoundFillScaleF$/;"	r
+cnGridBoundPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnGridBoundPerimColor$/;"	r
+cnGridBoundPerimDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnGridBoundPerimDashPattern$/;"	r
+cnGridBoundPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnGridBoundPerimOn$/;"	r
+cnGridBoundPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnGridBoundPerimThicknessF$/;"	r
+cnHighLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelAngleF$/;"	r
+cnHighLabelBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelBackgroundColor$/;"	r
+cnHighLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelConstantSpacingF$/;"	r
+cnHighLabelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelCount$/;"	r
+cnHighLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFont$/;"	r
+cnHighLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFontAspectF$/;"	r
+cnHighLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFontColor$/;"	r
+cnHighLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFontHeightF$/;"	r
+cnHighLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFontQuality$/;"	r
+cnHighLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFontThicknessF$/;"	r
+cnHighLabelFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFormat$/;"	r
+cnHighLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelFuncCode$/;"	r
+cnHighLabelPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelPerimColor$/;"	r
+cnHighLabelPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelPerimOn$/;"	r
+cnHighLabelPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelPerimSpaceF$/;"	r
+cnHighLabelPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelPerimThicknessF$/;"	r
+cnHighLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelString$/;"	r
+cnHighLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLabelsOn$/;"	r
+cnHighLowLabelOverlapMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighLowLabelOverlapMode$/;"	r
+cnHighUseLineLabelRes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnHighUseLineLabelRes$/;"	r
+cnInfoLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelAngleF$/;"	r
+cnInfoLabelBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelBackgroundColor$/;"	r
+cnInfoLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelConstantSpacingF$/;"	r
+cnInfoLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFont$/;"	r
+cnInfoLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFontAspectF$/;"	r
+cnInfoLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFontColor$/;"	r
+cnInfoLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFontHeightF$/;"	r
+cnInfoLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFontQuality$/;"	r
+cnInfoLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFontThicknessF$/;"	r
+cnInfoLabelFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFormat$/;"	r
+cnInfoLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelFuncCode$/;"	r
+cnInfoLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelJust$/;"	r
+cnInfoLabelOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelOn$/;"	r
+cnInfoLabelOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelOrthogonalPosF$/;"	r
+cnInfoLabelParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelParallelPosF$/;"	r
+cnInfoLabelPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelPerimColor$/;"	r
+cnInfoLabelPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelPerimOn$/;"	r
+cnInfoLabelPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelPerimSpaceF$/;"	r
+cnInfoLabelPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelPerimThicknessF$/;"	r
+cnInfoLabelSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelSide$/;"	r
+cnInfoLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelString$/;"	r
+cnInfoLabelTextDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelTextDirection$/;"	r
+cnInfoLabelZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnInfoLabelZone$/;"	r
+cnLabelBarEndLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLabelBarEndLabelsOn$/;"	r
+cnLabelBarEndStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLabelBarEndStyle$/;"	r
+cnLabelDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLabelDrawOrder$/;"	r
+cnLabelMasking	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLabelMasking$/;"	r
+cnLabelScaleFactorF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLabelScaleFactorF$/;"	r
+cnLabelScaleValueF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLabelScaleValueF$/;"	r
+cnLabelScalingMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLabelScalingMode$/;"	r
+cnLegendLevelFlags	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLegendLevelFlags$/;"	r
+cnLevelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLevelCount$/;"	r
+cnLevelFlag	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLevelFlag$/;"	r
+cnLevelFlags	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLevelFlags$/;"	r
+cnLevelSelectionMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLevelSelectionMode$/;"	r
+cnLevelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLevelSpacingF$/;"	r
+cnLevels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLevels$/;"	r
+cnLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineColor$/;"	r
+cnLineColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineColors$/;"	r
+cnLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineDashPattern$/;"	r
+cnLineDashPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineDashPatterns$/;"	r
+cnLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineDashSegLenF$/;"	r
+cnLineDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineDrawOrder$/;"	r
+cnLineLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelAngleF$/;"	r
+cnLineLabelBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelBackgroundColor$/;"	r
+cnLineLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelConstantSpacingF$/;"	r
+cnLineLabelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelCount$/;"	r
+cnLineLabelDensityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelDensityF$/;"	r
+cnLineLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFont$/;"	r
+cnLineLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFontAspectF$/;"	r
+cnLineLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFontColor$/;"	r
+cnLineLabelFontColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFontColors$/;"	r
+cnLineLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFontHeightF$/;"	r
+cnLineLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFontQuality$/;"	r
+cnLineLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFontThicknessF$/;"	r
+cnLineLabelFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFormat$/;"	r
+cnLineLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelFuncCode$/;"	r
+cnLineLabelInterval	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelInterval$/;"	r
+cnLineLabelPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelPerimColor$/;"	r
+cnLineLabelPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelPerimOn$/;"	r
+cnLineLabelPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelPerimSpaceF$/;"	r
+cnLineLabelPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelPerimThicknessF$/;"	r
+cnLineLabelPlacementMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelPlacementMode$/;"	r
+cnLineLabelStrings	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelStrings$/;"	r
+cnLineLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineLabelsOn$/;"	r
+cnLinePalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLinePalette$/;"	r
+cnLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineThicknessF$/;"	r
+cnLineThicknesses	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLineThicknesses$/;"	r
+cnLinesOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLinesOn$/;"	r
+cnLowLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelAngleF$/;"	r
+cnLowLabelBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelBackgroundColor$/;"	r
+cnLowLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelConstantSpacingF$/;"	r
+cnLowLabelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelCount$/;"	r
+cnLowLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFont$/;"	r
+cnLowLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFontAspectF$/;"	r
+cnLowLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFontColor$/;"	r
+cnLowLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFontHeightF$/;"	r
+cnLowLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFontQuality$/;"	r
+cnLowLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFontThicknessF$/;"	r
+cnLowLabelFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFormat$/;"	r
+cnLowLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelFuncCode$/;"	r
+cnLowLabelPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelPerimColor$/;"	r
+cnLowLabelPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelPerimOn$/;"	r
+cnLowLabelPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelPerimSpaceF$/;"	r
+cnLowLabelPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelPerimThicknessF$/;"	r
+cnLowLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelString$/;"	r
+cnLowLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowLabelsOn$/;"	r
+cnLowUseHighLabelRes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnLowUseHighLabelRes$/;"	r
+cnMaxDataValueFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMaxDataValueFormat$/;"	r
+cnMaxLevelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMaxLevelCount$/;"	r
+cnMaxLevelValF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMaxLevelValF$/;"	r
+cnMaxPointDistanceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMaxPointDistanceF$/;"	r
+cnMinLevelValF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMinLevelValF$/;"	r
+cnMissingValFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValFillColor$/;"	r
+cnMissingValFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValFillPattern$/;"	r
+cnMissingValFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValFillScaleF$/;"	r
+cnMissingValPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValPerimColor$/;"	r
+cnMissingValPerimDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValPerimDashPattern$/;"	r
+cnMissingValPerimGridBoundOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValPerimGridBoundOn$/;"	r
+cnMissingValPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValPerimOn$/;"	r
+cnMissingValPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMissingValPerimThicknessF$/;"	r
+cnMonoFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoFillColor$/;"	r
+cnMonoFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoFillPattern$/;"	r
+cnMonoFillScale	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoFillScale$/;"	r
+cnMonoLevelFlag	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoLevelFlag$/;"	r
+cnMonoLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoLineColor$/;"	r
+cnMonoLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoLineDashPattern$/;"	r
+cnMonoLineLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoLineLabelFontColor$/;"	r
+cnMonoLineThickness	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnMonoLineThickness$/;"	r
+cnNoDataLabelOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnNoDataLabelOn$/;"	r
+cnNoDataLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnNoDataLabelString$/;"	r
+cnOutOfRangeFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnOutOfRangeFillColor$/;"	r
+cnOutOfRangeFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnOutOfRangeFillPattern$/;"	r
+cnOutOfRangeFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnOutOfRangeFillScaleF$/;"	r
+cnOutOfRangePerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnOutOfRangePerimColor$/;"	r
+cnOutOfRangePerimDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnOutOfRangePerimDashPattern$/;"	r
+cnOutOfRangePerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnOutOfRangePerimOn$/;"	r
+cnOutOfRangePerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnOutOfRangePerimThicknessF$/;"	r
+cnRasterCellSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnRasterCellSizeF$/;"	r
+cnRasterMinCellSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnRasterMinCellSizeF$/;"	r
+cnRasterModeOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnRasterModeOn$/;"	r
+cnRasterSampleFactorF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnRasterSampleFactorF$/;"	r
+cnRasterSmoothingOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnRasterSmoothingOn$/;"	r
+cnScalarFieldData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnScalarFieldData$/;"	r
+cnSmoothingDistanceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnSmoothingDistanceF$/;"	r
+cnSmoothingOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnSmoothingOn$/;"	r
+cnSmoothingTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnSmoothingTensionF$/;"	r
+cnSpanFillPalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnSpanFillPalette$/;"	r
+cnSpanLinePalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   cnSpanLinePalette$/;"	r
+ctCopyTables	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctCopyTables$/;"	r
+ctXElementSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctXElementSize$/;"	r
+ctXMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctXMaxV$/;"	r
+ctXMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctXMinV$/;"	r
+ctXMissingV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctXMissingV$/;"	r
+ctXTable	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctXTable$/;"	r
+ctXTableLengths	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctXTableLengths$/;"	r
+ctXTableType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctXTableType$/;"	r
+ctYElementSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctYElementSize$/;"	r
+ctYMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctYMaxV$/;"	r
+ctYMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctYMinV$/;"	r
+ctYMissingV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctYMissingV$/;"	r
+ctYTable	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctYTable$/;"	r
+ctYTableLengths	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctYTableLengths$/;"	r
+ctYTableType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   ctYTableType$/;"	r
+dcDelayCompute	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   dcDelayCompute$/;"	r
+errBuffer	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   errBuffer$/;"	r
+errFileName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   errFileName$/;"	r
+errFilePtr	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   errFilePtr$/;"	r
+errLevel	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   errLevel$/;"	r
+errPrint	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   errPrint$/;"	r
+errUnitNumber	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   errUnitNumber$/;"	r
+gsClipOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsClipOn$/;"	r
+gsEdgeColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsEdgeColor$/;"	r
+gsEdgeDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsEdgeDashPattern$/;"	r
+gsEdgeDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsEdgeDashSegLenF$/;"	r
+gsEdgeThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsEdgeThicknessF$/;"	r
+gsEdgesOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsEdgesOn$/;"	r
+gsFillBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFillBackgroundColor$/;"	r
+gsFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFillColor$/;"	r
+gsFillDotSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFillDotSizeF$/;"	r
+gsFillIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFillIndex$/;"	r
+gsFillLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFillLineThicknessF$/;"	r
+gsFillOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFillOpacityF$/;"	r
+gsFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFillScaleF$/;"	r
+gsFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFont$/;"	r
+gsFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFontAspectF$/;"	r
+gsFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFontColor$/;"	r
+gsFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFontHeightF$/;"	r
+gsFontOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFontOpacityF$/;"	r
+gsFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFontQuality$/;"	r
+gsFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsFontThicknessF$/;"	r
+gsLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineColor$/;"	r
+gsLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineDashPattern$/;"	r
+gsLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineDashSegLenF$/;"	r
+gsLineLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelConstantSpacingF$/;"	r
+gsLineLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelFont$/;"	r
+gsLineLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelFontAspectF$/;"	r
+gsLineLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelFontColor$/;"	r
+gsLineLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelFontHeightF$/;"	r
+gsLineLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelFontQuality$/;"	r
+gsLineLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelFontThicknessF$/;"	r
+gsLineLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelFuncCode$/;"	r
+gsLineLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineLabelString$/;"	r
+gsLineOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineOpacityF$/;"	r
+gsLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsLineThicknessF$/;"	r
+gsMarkerColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsMarkerColor$/;"	r
+gsMarkerIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsMarkerIndex$/;"	r
+gsMarkerOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsMarkerOpacityF$/;"	r
+gsMarkerSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsMarkerSizeF$/;"	r
+gsMarkerThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsMarkerThicknessF$/;"	r
+gsTextAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsTextAngleF$/;"	r
+gsTextConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsTextConstantSpacingF$/;"	r
+gsTextDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsTextDirection$/;"	r
+gsTextFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsTextFuncCode$/;"	r
+gsTextJustification	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsTextJustification$/;"	r
+gsnAboveYRefLineBarColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnAboveYRefLineBarColors$/;"	r
+gsnAboveYRefLineBarFillScales	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnAboveYRefLineBarFillScales$/;"	r
+gsnAboveYRefLineBarPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnAboveYRefLineBarPatterns$/;"	r
+gsnAboveYRefLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnAboveYRefLineColor$/;"	r
+gsnAddCyclic	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnAddCyclic$/;"	r
+gsnAttachBorderOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnAttachBorderOn$/;"	r
+gsnAttachPlotsXAxis	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnAttachPlotsXAxis$/;"	r
+gsnBelowYRefLineBarColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnBelowYRefLineBarColors$/;"	r
+gsnBelowYRefLineBarFillScales	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnBelowYRefLineBarFillScales$/;"	r
+gsnBelowYRefLineBarPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnBelowYRefLineBarPatterns$/;"	r
+gsnBelowYRefLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnBelowYRefLineColor$/;"	r
+gsnBoxMargin	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnBoxMargin$/;"	r
+gsnCenterString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnCenterString$/;"	r
+gsnCenterStringFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnCenterStringFontColor$/;"	r
+gsnCenterStringFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnCenterStringFontHeightF$/;"	r
+gsnCenterStringOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnCenterStringOrthogonalPosF$/;"	r
+gsnCenterStringParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnCenterStringParallelPosF$/;"	r
+gsnContourLineThicknessesScale	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnContourLineThicknessesScale$/;"	r
+gsnContourNegLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnContourNegLineDashPattern$/;"	r
+gsnContourPosLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnContourPosLineDashPattern$/;"	r
+gsnContourZeroLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnContourZeroLineThicknessF$/;"	r
+gsnDebugWriteFileName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnDebugWriteFileName$/;"	r
+gsnDraw	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnDraw$/;"	r
+gsnFrame	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnFrame$/;"	r
+gsnHistogramBarWidthPercent	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramBarWidthPercent$/;"	r
+gsnHistogramBinIntervals	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramBinIntervals$/;"	r
+gsnHistogramBinMissing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramBinMissing$/;"	r
+gsnHistogramBinWidth	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramBinWidth$/;"	r
+gsnHistogramClassIntervals	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramClassIntervals$/;"	r
+gsnHistogramCompare	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramCompare$/;"	r
+gsnHistogramComputePercentages	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramComputePercentages$/;"	r
+gsnHistogramComputePercentagesNoMissing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramComputePercentagesNoMissing$/;"	r
+gsnHistogramDiscreteBinValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramDiscreteBinValues$/;"	r
+gsnHistogramDiscreteClassValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramDiscreteClassValues$/;"	r
+gsnHistogramHorizontal	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramHorizontal$/;"	r
+gsnHistogramMinMaxBinsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramMinMaxBinsOn$/;"	r
+gsnHistogramNumberOfBins	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramNumberOfBins$/;"	r
+gsnHistogramPercentSign	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramPercentSign$/;"	r
+gsnHistogramSelectNiceIntervals	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnHistogramSelectNiceIntervals$/;"	r
+gsnLeftString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnLeftString$/;"	r
+gsnLeftStringFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnLeftStringFontColor$/;"	r
+gsnLeftStringFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnLeftStringFontHeightF$/;"	r
+gsnLeftStringOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnLeftStringOrthogonalPosF$/;"	r
+gsnLeftStringParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnLeftStringParallelPosF$/;"	r
+gsnMajorLatSpacing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnMajorLatSpacing$/;"	r
+gsnMajorLonSpacing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnMajorLonSpacing$/;"	r
+gsnMaskLambertConformal	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnMaskLambertConformal$/;"	r
+gsnMaskLambertConformalOutlineOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnMaskLambertConformalOutlineOn$/;"	r
+gsnMaximize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnMaximize$/;"	r
+gsnMinorLatSpacing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnMinorLatSpacing$/;"	r
+gsnMinorLonSpacing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnMinorLonSpacing$/;"	r
+gsnPanelBottom	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelBottom$/;"	r
+gsnPanelCenter	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelCenter$/;"	r
+gsnPanelDebug	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelDebug$/;"	r
+gsnPanelFigureStrings	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelFigureStrings$/;"	r
+gsnPanelFigureStringsBackgroundFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelFigureStringsBackgroundFillColor$/;"	r
+gsnPanelFigureStringsFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelFigureStringsFontHeightF$/;"	r
+gsnPanelFigureStringsPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelFigureStringsPerimOn$/;"	r
+gsnPanelLabelBar	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelLabelBar$/;"	r
+gsnPanelLeft	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelLeft$/;"	r
+gsnPanelRight	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelRight$/;"	r
+gsnPanelRowSpec	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelRowSpec$/;"	r
+gsnPanelScalePlotIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelScalePlotIndex$/;"	r
+gsnPanelTop	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelTop$/;"	r
+gsnPanelXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelXF$/;"	r
+gsnPanelXWhiteSpacePercent	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelXWhiteSpacePercent$/;"	r
+gsnPanelYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelYF$/;"	r
+gsnPanelYWhiteSpacePercent	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPanelYWhiteSpacePercent$/;"	r
+gsnPaperHeight	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPaperHeight$/;"	r
+gsnPaperMargin	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPaperMargin$/;"	r
+gsnPaperOrientation	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPaperOrientation$/;"	r
+gsnPaperWidth	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPaperWidth$/;"	r
+gsnPolar	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPolar$/;"	r
+gsnPolarLabelDistance	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPolarLabelDistance$/;"	r
+gsnPolarLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPolarLabelFont$/;"	r
+gsnPolarLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPolarLabelFontHeightF$/;"	r
+gsnPolarLabelSpacing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPolarLabelSpacing$/;"	r
+gsnPolarTime	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPolarTime$/;"	r
+gsnPolarUT	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnPolarUT$/;"	r
+gsnRightString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnRightString$/;"	r
+gsnRightStringFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnRightStringFontColor$/;"	r
+gsnRightStringFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnRightStringFontHeightF$/;"	r
+gsnRightStringOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnRightStringOrthogonalPosF$/;"	r
+gsnRightStringParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnRightStringParallelPosF$/;"	r
+gsnScalarContour	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnScalarContour$/;"	r
+gsnScale	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnScale$/;"	r
+gsnShape	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnShape$/;"	r
+gsnSpreadColorEnd	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnSpreadColorEnd$/;"	r
+gsnSpreadColorStart	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnSpreadColorStart$/;"	r
+gsnSpreadColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnSpreadColors$/;"	r
+gsnStringFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnStringFont$/;"	r
+gsnStringFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnStringFontColor$/;"	r
+gsnStringFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnStringFontHeightF$/;"	r
+gsnTickMarksOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnTickMarksOn$/;"	r
+gsnXAxisIrregular2Linear	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXAxisIrregular2Linear$/;"	r
+gsnXAxisIrregular2Log	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXAxisIrregular2Log$/;"	r
+gsnXRefLine	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXRefLine$/;"	r
+gsnXRefLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXRefLineColor$/;"	r
+gsnXRefLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXRefLineDashPattern$/;"	r
+gsnXRefLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXRefLineThicknessF$/;"	r
+gsnXYAboveFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYAboveFillColors$/;"	r
+gsnXYBarChart	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChart$/;"	r
+gsnXYBarChartBarWidth	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartBarWidth$/;"	r
+gsnXYBarChartColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartColors$/;"	r
+gsnXYBarChartColors2	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartColors2$/;"	r
+gsnXYBarChartFillDotSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartFillDotSizeF$/;"	r
+gsnXYBarChartFillLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartFillLineThicknessF$/;"	r
+gsnXYBarChartFillOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartFillOpacityF$/;"	r
+gsnXYBarChartFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartFillScaleF$/;"	r
+gsnXYBarChartOutlineOnly	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartOutlineOnly$/;"	r
+gsnXYBarChartOutlineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartOutlineThicknessF$/;"	r
+gsnXYBarChartPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartPatterns$/;"	r
+gsnXYBarChartPatterns2	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBarChartPatterns2$/;"	r
+gsnXYBelowFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYBelowFillColors$/;"	r
+gsnXYFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYFillColors$/;"	r
+gsnXYFillOpacities	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYFillOpacities$/;"	r
+gsnXYLeftFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYLeftFillColors$/;"	r
+gsnXYRightFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnXYRightFillColors$/;"	r
+gsnYAxisIrregular2Linear	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYAxisIrregular2Linear$/;"	r
+gsnYAxisIrregular2Log	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYAxisIrregular2Log$/;"	r
+gsnYRefLine	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYRefLine$/;"	r
+gsnYRefLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYRefLineColor$/;"	r
+gsnYRefLineColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYRefLineColors$/;"	r
+gsnYRefLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYRefLineDashPattern$/;"	r
+gsnYRefLineDashPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYRefLineDashPatterns$/;"	r
+gsnYRefLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYRefLineThicknessF$/;"	r
+gsnYRefLineThicknesses	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnYRefLineThicknesses$/;"	r
+gsnZonalMean	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnZonalMean$/;"	r
+gsnZonalMeanXMaxF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnZonalMeanXMaxF$/;"	r
+gsnZonalMeanXMinF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnZonalMeanXMinF$/;"	r
+gsnZonalMeanYRefLine	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   gsnZonalMeanYRefLine$/;"	r
+lbAutoManage	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbAutoManage$/;"	r
+lbBottomMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBottomMarginF$/;"	r
+lbBoxCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxCount$/;"	r
+lbBoxFractions	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxFractions$/;"	r
+lbBoxLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxLineColor$/;"	r
+lbBoxLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxLineDashPattern$/;"	r
+lbBoxLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxLineDashSegLenF$/;"	r
+lbBoxLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxLineThicknessF$/;"	r
+lbBoxLinesOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxLinesOn$/;"	r
+lbBoxMajorExtentF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxMajorExtentF$/;"	r
+lbBoxMinorExtentF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxMinorExtentF$/;"	r
+lbBoxSizing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbBoxSizing$/;"	r
+lbFillBackground	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillBackground$/;"	r
+lbFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillColor$/;"	r
+lbFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillColors$/;"	r
+lbFillDotSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillDotSizeF$/;"	r
+lbFillLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillLineThicknessF$/;"	r
+lbFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillPattern$/;"	r
+lbFillPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillPatterns$/;"	r
+lbFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillScaleF$/;"	r
+lbFillScales	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbFillScales$/;"	r
+lbJustification	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbJustification$/;"	r
+lbLabelAlignment	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelAlignment$/;"	r
+lbLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelAngleF$/;"	r
+lbLabelAutoStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelAutoStride$/;"	r
+lbLabelBarOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelBarOn$/;"	r
+lbLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelConstantSpacingF$/;"	r
+lbLabelDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelDirection$/;"	r
+lbLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelFont$/;"	r
+lbLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelFontAspectF$/;"	r
+lbLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelFontColor$/;"	r
+lbLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelFontHeightF$/;"	r
+lbLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelFontQuality$/;"	r
+lbLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelFontThicknessF$/;"	r
+lbLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelFuncCode$/;"	r
+lbLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelJust$/;"	r
+lbLabelOffsetF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelOffsetF$/;"	r
+lbLabelPosition	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelPosition$/;"	r
+lbLabelStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelStride$/;"	r
+lbLabelStrings	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelStrings$/;"	r
+lbLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLabelsOn$/;"	r
+lbLeftMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbLeftMarginF$/;"	r
+lbMaxLabelLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbMaxLabelLenF$/;"	r
+lbMinLabelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbMinLabelSpacingF$/;"	r
+lbMonoFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbMonoFillColor$/;"	r
+lbMonoFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbMonoFillPattern$/;"	r
+lbMonoFillScale	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbMonoFillScale$/;"	r
+lbOrientation	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbOrientation$/;"	r
+lbPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbPerimColor$/;"	r
+lbPerimDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbPerimDashPattern$/;"	r
+lbPerimDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbPerimDashSegLenF$/;"	r
+lbPerimFill	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbPerimFill$/;"	r
+lbPerimFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbPerimFillColor$/;"	r
+lbPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbPerimOn$/;"	r
+lbPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbPerimThicknessF$/;"	r
+lbRasterFillOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbRasterFillOn$/;"	r
+lbRightMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbRightMarginF$/;"	r
+lbTitleAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleAngleF$/;"	r
+lbTitleConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleConstantSpacingF$/;"	r
+lbTitleDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleDirection$/;"	r
+lbTitleExtentF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleExtentF$/;"	r
+lbTitleFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleFont$/;"	r
+lbTitleFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleFontAspectF$/;"	r
+lbTitleFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleFontColor$/;"	r
+lbTitleFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleFontHeightF$/;"	r
+lbTitleFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleFontQuality$/;"	r
+lbTitleFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleFontThicknessF$/;"	r
+lbTitleFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleFuncCode$/;"	r
+lbTitleJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleJust$/;"	r
+lbTitleOffsetF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleOffsetF$/;"	r
+lbTitleOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleOn$/;"	r
+lbTitlePosition	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitlePosition$/;"	r
+lbTitleString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTitleString$/;"	r
+lbTopMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lbTopMarginF$/;"	r
+lgAutoManage	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgAutoManage$/;"	r
+lgBottomMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBottomMarginF$/;"	r
+lgBoxBackground	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxBackground$/;"	r
+lgBoxLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxLineColor$/;"	r
+lgBoxLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxLineDashPattern$/;"	r
+lgBoxLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxLineDashSegLenF$/;"	r
+lgBoxLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxLineThicknessF$/;"	r
+lgBoxLinesOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxLinesOn$/;"	r
+lgBoxMajorExtentF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxMajorExtentF$/;"	r
+lgBoxMinorExtentF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgBoxMinorExtentF$/;"	r
+lgDashIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgDashIndex$/;"	r
+lgDashIndexes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgDashIndexes$/;"	r
+lgItemCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgItemCount$/;"	r
+lgItemOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgItemOrder$/;"	r
+lgItemPlacement	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgItemPlacement$/;"	r
+lgItemPositions	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgItemPositions$/;"	r
+lgItemType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgItemType$/;"	r
+lgItemTypes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgItemTypes$/;"	r
+lgJustification	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgJustification$/;"	r
+lgLabelAlignment	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelAlignment$/;"	r
+lgLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelAngleF$/;"	r
+lgLabelAutoStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelAutoStride$/;"	r
+lgLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelConstantSpacingF$/;"	r
+lgLabelDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelDirection$/;"	r
+lgLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelFont$/;"	r
+lgLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelFontAspectF$/;"	r
+lgLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelFontColor$/;"	r
+lgLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelFontHeightF$/;"	r
+lgLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelFontQuality$/;"	r
+lgLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelFontThicknessF$/;"	r
+lgLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelFuncCode$/;"	r
+lgLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelJust$/;"	r
+lgLabelOffsetF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelOffsetF$/;"	r
+lgLabelPosition	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelPosition$/;"	r
+lgLabelStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelStride$/;"	r
+lgLabelStrings	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelStrings$/;"	r
+lgLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLabelsOn$/;"	r
+lgLeftMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLeftMarginF$/;"	r
+lgLegendOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLegendOn$/;"	r
+lgLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineColor$/;"	r
+lgLineColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineColors$/;"	r
+lgLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineDashSegLenF$/;"	r
+lgLineDashSegLens	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineDashSegLens$/;"	r
+lgLineLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelConstantSpacingF$/;"	r
+lgLineLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFont$/;"	r
+lgLineLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFontAspectF$/;"	r
+lgLineLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFontColor$/;"	r
+lgLineLabelFontColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFontColors$/;"	r
+lgLineLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFontHeightF$/;"	r
+lgLineLabelFontHeights	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFontHeights$/;"	r
+lgLineLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFontQuality$/;"	r
+lgLineLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFontThicknessF$/;"	r
+lgLineLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelFuncCode$/;"	r
+lgLineLabelStrings	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelStrings$/;"	r
+lgLineLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineLabelsOn$/;"	r
+lgLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineThicknessF$/;"	r
+lgLineThicknesses	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgLineThicknesses$/;"	r
+lgMarkerColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerColor$/;"	r
+lgMarkerColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerColors$/;"	r
+lgMarkerIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerIndex$/;"	r
+lgMarkerIndexes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerIndexes$/;"	r
+lgMarkerSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerSizeF$/;"	r
+lgMarkerSizes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerSizes$/;"	r
+lgMarkerThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerThicknessF$/;"	r
+lgMarkerThicknesses	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMarkerThicknesses$/;"	r
+lgMonoDashIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoDashIndex$/;"	r
+lgMonoItemType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoItemType$/;"	r
+lgMonoLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoLineColor$/;"	r
+lgMonoLineDashSegLen	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoLineDashSegLen$/;"	r
+lgMonoLineLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoLineLabelFontColor$/;"	r
+lgMonoLineLabelFontHeight	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoLineLabelFontHeight$/;"	r
+lgMonoLineThickness	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoLineThickness$/;"	r
+lgMonoMarkerColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoMarkerColor$/;"	r
+lgMonoMarkerIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoMarkerIndex$/;"	r
+lgMonoMarkerSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoMarkerSize$/;"	r
+lgMonoMarkerThickness	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgMonoMarkerThickness$/;"	r
+lgOrientation	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgOrientation$/;"	r
+lgPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgPerimColor$/;"	r
+lgPerimDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgPerimDashPattern$/;"	r
+lgPerimDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgPerimDashSegLenF$/;"	r
+lgPerimFill	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgPerimFill$/;"	r
+lgPerimFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgPerimFillColor$/;"	r
+lgPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgPerimOn$/;"	r
+lgPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgPerimThicknessF$/;"	r
+lgRightMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgRightMarginF$/;"	r
+lgTitleAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleAngleF$/;"	r
+lgTitleConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleConstantSpacingF$/;"	r
+lgTitleDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleDirection$/;"	r
+lgTitleExtentF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleExtentF$/;"	r
+lgTitleFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleFont$/;"	r
+lgTitleFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleFontAspectF$/;"	r
+lgTitleFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleFontColor$/;"	r
+lgTitleFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleFontHeightF$/;"	r
+lgTitleFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleFontQuality$/;"	r
+lgTitleFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleFontThicknessF$/;"	r
+lgTitleFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleFuncCode$/;"	r
+lgTitleJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleJust$/;"	r
+lgTitleOffsetF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleOffsetF$/;"	r
+lgTitleOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleOn$/;"	r
+lgTitlePosition	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitlePosition$/;"	r
+lgTitleString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTitleString$/;"	r
+lgTopMarginF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   lgTopMarginF$/;"	r
+mpAreaGroupCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpAreaGroupCount (MapPlot)$/;"	r
+mpAreaMaskingOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpAreaMaskingOn (MapPlot)$/;"	r
+mpAreaNames	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpAreaNames (MapPlot)$/;"	r
+mpAreaTypes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpAreaTypes (MapPlot)$/;"	r
+mpBottomAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpBottomAngleF (MapTransformation)$/;"	r
+mpBottomMapPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpBottomMapPosF (MapTransformation)$/;"	r
+mpBottomNDCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpBottomNDCF (MapTransformation)$/;"	r
+mpBottomNPCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpBottomNPCF (MapTransformation)$/;"	r
+mpBottomPointLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpBottomPointLatF (MapTransformation)$/;"	r
+mpBottomPointLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpBottomPointLonF (MapTransformation)$/;"	r
+mpBottomWindowF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpBottomWindowF (MapTransformation)$/;"	r
+mpCenterLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpCenterLatF (MapTransformation)$/;"	r
+mpCenterLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpCenterLonF (MapTransformation)$/;"	r
+mpCenterRotF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpCenterRotF (MapTransformation)$/;"	r
+mpCountyLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpCountyLineColor (MapPlot)$/;"	r
+mpCountyLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpCountyLineDashPattern (MapPlot)$/;"	r
+mpCountyLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpCountyLineDashSegLenF (MapPlot)$/;"	r
+mpCountyLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpCountyLineThicknessF (MapPlot)$/;"	r
+mpDataBaseVersion	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpDataBaseVersion (MapPlot)$/;"	r
+mpDataResolution	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpDataResolution (MapPlot)$/;"	r
+mpDataSetName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpDataSetName (MapPlot)$/;"	r
+mpDefaultFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpDefaultFillColor (MapPlot)$/;"	r
+mpDefaultFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpDefaultFillPattern (MapPlot)$/;"	r
+mpDefaultFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpDefaultFillScaleF (MapPlot)$/;"	r
+mpDynamicAreaGroups	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpDynamicAreaGroups (MapPlot)$/;"	r
+mpEllipticalBoundary	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpEllipticalBoundary (MapTransformation)$/;"	r
+mpFillAreaSpecifiers	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillAreaSpecifiers (MapPlot)$/;"	r
+mpFillBoundarySets	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillBoundarySets (MapPlot)$/;"	r
+mpFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillColor (MapPlot)$/;"	r
+mpFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillColors (MapPlot)$/;"	r
+mpFillDotSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillDotSizeF (MapPlot)$/;"	r
+mpFillDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillDrawOrder (MapPlot)$/;"	r
+mpFillOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillOn (MapPlot)$/;"	r
+mpFillPatternBackground	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillPatternBackground (MapPlot)$/;"	r
+mpFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillPattern (MapPlot)$/;"	r
+mpFillPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillPatterns (MapPlot)$/;"	r
+mpFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillScaleF (MapPlot)$/;"	r
+mpFillScales	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFillScales (MapPlot)$/;"	r
+mpFixedAreaGroups	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpFixedAreaGroups (MapPlot)$/;"	r
+mpGeophysicalLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGeophysicalLineColor (MapPlot)$/;"	r
+mpGeophysicalLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGeophysicalLineDashPattern (MapPlot)$/;"	r
+mpGeophysicalLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGeophysicalLineDashSegLenF (MapPlot)$/;"	r
+mpGeophysicalLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGeophysicalLineThicknessF (MapPlot)$/;"	r
+mpGreatCircleLinesOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGreatCircleLinesOn (MapTransformation)$/;"	r
+mpGridAndLimbDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridAndLimbDrawOrder (MapPlot)$/;"	r
+mpGridAndLimbOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridAndLimbOn (MapPlot)$/;"	r
+mpGridLatSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridLatSpacingF (MapPlot)$/;"	r
+mpGridLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridLineColor (MapPlot)$/;"	r
+mpGridLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridLineDashPattern (MapPlot)$/;"	r
+mpGridLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridLineDashSegLenF (MapPlot)$/;"	r
+mpGridLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridLineThicknessF (MapPlot)$/;"	r
+mpGridLonSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridLonSpacingF (MapPlot)$/;"	r
+mpGridMaskMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridMaskMode (MapPlot)$/;"	r
+mpGridMaxLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridMaxLatF (MapPlot)$/;"	r
+mpGridPolarLonSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridPolarLonSpacingF (MapPlot)$/;"	r
+mpGridSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpGridSpacingF (MapPlot)$/;"	r
+mpInlandWaterFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpInlandWaterFillColor (MapPlot)$/;"	r
+mpInlandWaterFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpInlandWaterFillPattern (MapPlot)$/;"	r
+mpInlandWaterFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpInlandWaterFillScaleF (MapPlot)$/;"	r
+mpLabelDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLabelDrawOrder (MapPlot)$/;"	r
+mpLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLabelFontColor (MapPlot)$/;"	r
+mpLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLabelFontHeightF (MapPlot)$/;"	r
+mpLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLabelsOn (MapPlot)$/;"	r
+mpLambertMeridianF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLambertMeridianF (MapTransformation)$/;"	r
+mpLambertParallel1F	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLambertParallel1F (MapTransformation)$/;"	r
+mpLambertParallel2F	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLambertParallel2F (MapTransformation)$/;"	r
+mpLandFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLandFillColor (MapPlot)$/;"	r
+mpLandFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLandFillPattern (MapPlot)$/;"	r
+mpLandFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLandFillScaleF (MapPlot)$/;"	r
+mpLeftAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftAngleF (MapTransformation)$/;"	r
+mpLeftCornerLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftCornerLatF (MapTransformation)$/;"	r
+mpLeftCornerLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftCornerLonF (MapTransformation)$/;"	r
+mpLeftMapPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftMapPosF (MapTransformation)$/;"	r
+mpLeftNDCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftNDCF (MapTransformation)$/;"	r
+mpLeftNPCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftNPCF (MapTransformation)$/;"	r
+mpLeftPointLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftPointLatF (MapTransformation)$/;"	r
+mpLeftPointLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftPointLonF (MapTransformation)$/;"	r
+mpLeftWindowF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLeftWindowF (MapTransformation)$/;"	r
+mpLimbLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLimbLineColor (MapPlot)$/;"	r
+mpLimbLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLimbLineDashPattern (MapPlot)$/;"	r
+mpLimbLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLimbLineDashSegLenF (MapPlot)$/;"	r
+mpLimbLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLimbLineThicknessF (MapPlot)$/;"	r
+mpLimitMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpLimitMode (MapTransformation)$/;"	r
+mpMaskAreaSpecifiers	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMaskAreaSpecifiers (MapPlot)$/;"	r
+mpMaskOutlineSpecifiers	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMaskOutlineSpecifiers (MapPlot)$/;"	r
+mpMaxLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMaxLatF (MapTransformation)$/;"	r
+mpMaxLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMaxLonF (MapTransformation)$/;"	r
+mpMinLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMinLatF (MapTransformation)$/;"	r
+mpMinLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMinLonF (MapTransformation)$/;"	r
+mpMonoFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMonoFillColor (MapPlot)$/;"	r
+mpMonoFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMonoFillPattern (MapPlot)$/;"	r
+mpMonoFillScale	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpMonoFillScale (MapPlot)$/;"	r
+mpNationalLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpNationalLineColor (MapPlot)$/;"	r
+mpNationalLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpNationalLineDashPattern (MapPlot)$/;"	r
+mpNationalLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpNationalLineDashSegLenF (MapPlot)$/;"	r
+mpNationalLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpNationalLineThicknessF (MapPlot)$/;"	r
+mpOceanFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOceanFillColor (MapPlot)$/;"	r
+mpOceanFillPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOceanFillPattern (MapPlot)$/;"	r
+mpOceanFillScaleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOceanFillScaleF (MapPlot)$/;"	r
+mpOutlineBoundarySets	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOutlineBoundarySets (MapPlot)$/;"	r
+mpOutlineDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOutlineDrawOrder (MapPlot)$/;"	r
+mpOutlineMaskingOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOutlineMaskingOn (MapPlot)$/;"	r
+mpOutlineOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOutlineOn (MapPlot)$/;"	r
+mpOutlineSpecifiers	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpOutlineSpecifiers (MapPlot)$/;"	r
+mpPerimDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpPerimDrawOrder (MapPlot)$/;"	r
+mpPerimLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpPerimLineColor (MapPlot)$/;"	r
+mpPerimLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpPerimLineDashPattern (MapPlot)$/;"	r
+mpPerimLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpPerimLineDashSegLenF (MapPlot)$/;"	r
+mpPerimLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpPerimLineThicknessF (MapPlot)$/;"	r
+mpPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpPerimOn (MapPlot)$/;"	r
+mpProjection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpProjection (MapTransformation)$/;"	r
+mpProvincialLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpProvincialLineColor (MapPlot)$/;"	r
+mpProvincialLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpProvincialLineDashPattern (MapPlot)$/;"	r
+mpProvincialLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpProvincialLineDashSegLenF (MapPlot)$/;"	r
+mpProvincialLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpProvincialLineThicknessF (MapPlot)$/;"	r
+mpRelativeCenterLat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRelativeCenterLat (MapTransformation)$/;"	r
+mpRelativeCenterLon	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRelativeCenterLon (MapTransformation)$/;"	r
+mpRightAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightAngleF (MapTransformation)$/;"	r
+mpRightCornerLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightCornerLatF (MapTransformation)$/;"	r
+mpRightCornerLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightCornerLonF (MapTransformation)$/;"	r
+mpRightMapPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightMapPosF (MapTransformation)$/;"	r
+mpRightNDCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightNDCF (MapTransformation)$/;"	r
+mpRightNPCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightNPCF (MapTransformation)$/;"	r
+mpRightPointLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightPointLatF (MapTransformation)$/;"	r
+mpRightPointLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightPointLonF (MapTransformation)$/;"	r
+mpRightWindowF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpRightWindowF (MapTransformation)$/;"	r
+mpSatelliteAngle1F	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSatelliteAngle1F (MapTransformation)$/;"	r
+mpSatelliteAngle2F	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSatelliteAngle2F (MapTransformation)$/;"	r
+mpSatelliteDistF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSatelliteDistF (MapTransformation)$/;"	r
+mpShapeMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpShapeMode (MapPlot)$/;"	r
+mpSpecifiedFillColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSpecifiedFillColors (MapPlot)$/;"	r
+mpSpecifiedFillDirectIndexing	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSpecifiedFillDirectIndexing (MapPlot)$/;"	r
+mpSpecifiedFillPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSpecifiedFillPatterns (MapPlot)$/;"	r
+mpSpecifiedFillPriority	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSpecifiedFillPriority (MapPlot)$/;"	r
+mpSpecifiedFillScales	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpSpecifiedFillScales (MapPlot)$/;"	r
+mpTopAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpTopAngleF (MapTransformation)$/;"	r
+mpTopMapPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpTopMapPosF (MapTransformation)$/;"	r
+mpTopNDCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpTopNDCF (MapTransformation)$/;"	r
+mpTopNPCF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpTopNPCF (MapTransformation)$/;"	r
+mpTopPointLatF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpTopPointLatF (MapTransformation)$/;"	r
+mpTopPointLonF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpTopPointLonF (MapTransformation)$/;"	r
+mpTopWindowF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpTopWindowF (MapTransformation)$/;"	r
+mpUSStateLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpUSStateLineColor (MapPlot)$/;"	r
+mpUSStateLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpUSStateLineDashPattern (MapPlot)$/;"	r
+mpUSStateLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpUSStateLineDashSegLenF (MapPlot)$/;"	r
+mpUSStateLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   mpUSStateLineThicknessF (MapPlot)$/;"	r
+pmAnnoManagers	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmAnnoManagers$/;"	r
+pmAnnoViews	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmAnnoViews$/;"	r
+pmLabelBarDisplayMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarDisplayMode$/;"	r
+pmLabelBarHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarHeightF$/;"	r
+pmLabelBarKeepAspect	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarKeepAspect$/;"	r
+pmLabelBarOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarOrthogonalPosF$/;"	r
+pmLabelBarParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarParallelPosF$/;"	r
+pmLabelBarSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarSide$/;"	r
+pmLabelBarWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarWidthF$/;"	r
+pmLabelBarZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLabelBarZone$/;"	r
+pmLegendDisplayMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendDisplayMode$/;"	r
+pmLegendHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendHeightF$/;"	r
+pmLegendKeepAspect	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendKeepAspect$/;"	r
+pmLegendOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendOrthogonalPosF$/;"	r
+pmLegendParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendParallelPosF$/;"	r
+pmLegendSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendSide$/;"	r
+pmLegendWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendWidthF$/;"	r
+pmLegendZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmLegendZone$/;"	r
+pmOverlaySequenceIds	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmOverlaySequenceIds$/;"	r
+pmTickMarkDisplayMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmTickMarkDisplayMode$/;"	r
+pmTickMarkZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmTickMarkZone$/;"	r
+pmTitleDisplayMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmTitleDisplayMode$/;"	r
+pmTitleZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   pmTitleZone$/;"	r
+prGraphicStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   prGraphicStyle$/;"	r
+prPolyType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   prPolyType$/;"	r
+prXArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   prXArray$/;"	r
+prYArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   prYArray$/;"	r
+sfCopyData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfCopyData (MeshScalarField)$/;"	r
+sfCopyData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfCopyData (MeshScalarField)$/;"	r
+sfDataArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfDataArray (MeshScalarField)$/;"	r
+sfDataArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfDataArray (MeshScalarField)$/;"	r
+sfDataMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfDataMaxV (MeshScalarField)$/;"	r
+sfDataMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfDataMaxV (MeshScalarField)$/;"	r
+sfDataMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfDataMinV (MeshScalarField)$/;"	r
+sfDataMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfDataMinV (MeshScalarField)$/;"	r
+sfElementNodes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfElementNodes (MeshScalarField)$/;"	r
+sfExchangeDimensions	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfExchangeDimensions (ScalarField)$/;"	r
+sfFirstNodeIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfFirstNodeIndex (MeshScalarField)$/;"	r
+sfMissingValueV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfMissingValueV (MeshScalarField)$/;"	r
+sfMissingValueV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfMissingValueV (MeshScalarField)$/;"	r
+sfXArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXArray (MeshScalarField)$/;"	r
+sfXArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXArray (MeshScalarField)$/;"	r
+sfXCActualEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCActualEndF (MeshScalarField)$/;"	r
+sfXCActualEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCActualEndF (MeshScalarField)$/;"	r
+sfXCActualStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCActualStartF (MeshScalarField)$/;"	r
+sfXCActualStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCActualStartF (MeshScalarField)$/;"	r
+sfXCEndIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCEndIndex (ScalarField)$/;"	r
+sfXCEndSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCEndSubsetV (ScalarField)$/;"	r
+sfXCEndV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCEndV (ScalarField)$/;"	r
+sfXCStartIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCStartIndex (ScalarField)$/;"	r
+sfXCStartSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCStartSubsetV (ScalarField)$/;"	r
+sfXCStartV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCStartV (ScalarField)$/;"	r
+sfXCStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCStride (ScalarField)$/;"	r
+sfXCellBounds	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfXCellBounds (MeshScalarField)$/;"	r
+sfYArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYArray (MeshScalarField)$/;"	r
+sfYArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYArray (MeshScalarField)$/;"	r
+sfYCActualEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCActualEndF (MeshScalarField)$/;"	r
+sfYCActualEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCActualEndF (MeshScalarField)$/;"	r
+sfYCActualStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCActualStartF (MeshScalarField)$/;"	r
+sfYCActualStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCActualStartF (MeshScalarField)$/;"	r
+sfYCEndIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCEndIndex (ScalarField)$/;"	r
+sfYCEndSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCEndSubsetV (ScalarField)$/;"	r
+sfYCEndV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCEndV (ScalarField)$/;"	r
+sfYCStartIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCStartIndex (ScalarField)$/;"	r
+sfYCStartSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCStartSubsetV (ScalarField)$/;"	r
+sfYCStartV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCStartV (ScalarField)$/;"	r
+sfYCStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCStride (ScalarField)$/;"	r
+sfYCellBounds	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   sfYCellBounds (MeshScalarField)$/;"	r
+stArrowLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stArrowLengthF$/;"	r
+stArrowStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stArrowStride$/;"	r
+stCrossoverCheckCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stCrossoverCheckCount$/;"	r
+stExplicitLabelBarLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stExplicitLabelBarLabelsOn$/;"	r
+stLabelBarEndLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLabelBarEndLabelsOn$/;"	r
+stLabelFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLabelFormat$/;"	r
+stLengthCheckCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLengthCheckCount$/;"	r
+stLevelColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLevelColors$/;"	r
+stLevelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLevelCount$/;"	r
+stLevelPalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLevelPalette$/;"	r
+stLevelSelectionMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLevelSelectionMode$/;"	r
+stLevelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLevelSpacingF$/;"	r
+stLevels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLevels$/;"	r
+stLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLineColor$/;"	r
+stLineOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLineOpacityF$/;"	r
+stLineStartStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLineStartStride$/;"	r
+stLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stLineThicknessF$/;"	r
+stMapDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMapDirection$/;"	r
+stMaxLevelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMaxLevelCount$/;"	r
+stMaxLevelValF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMaxLevelValF$/;"	r
+stMinArrowSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMinArrowSpacingF$/;"	r
+stMinDistanceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMinDistanceF$/;"	r
+stMinLevelValF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMinLevelValF$/;"	r
+stMinLineSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMinLineSpacingF$/;"	r
+stMinStepFactorF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMinStepFactorF$/;"	r
+stMonoLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stMonoLineColor$/;"	r
+stNoDataLabelOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stNoDataLabelOn$/;"	r
+stNoDataLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stNoDataLabelString$/;"	r
+stScalarFieldData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stScalarFieldData$/;"	r
+stScalarMissingValColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stScalarMissingValColor$/;"	r
+stSpanLevelPalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stSpanLevelPalette$/;"	r
+stStepSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stStepSizeF$/;"	r
+stStreamlineDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stStreamlineDrawOrder$/;"	r
+stUseScalarArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stUseScalarArray$/;"	r
+stVectorFieldData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stVectorFieldData$/;"	r
+stZeroFLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelAngleF$/;"	r
+stZeroFLabelBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelBackgroundColor$/;"	r
+stZeroFLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelConstantSpacingF$/;"	r
+stZeroFLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelFont$/;"	r
+stZeroFLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelFontAspectF$/;"	r
+stZeroFLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelFontColor$/;"	r
+stZeroFLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelFontHeightF$/;"	r
+stZeroFLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelFontQuality$/;"	r
+stZeroFLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelFontThicknessF$/;"	r
+stZeroFLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelFuncCode$/;"	r
+stZeroFLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelJust$/;"	r
+stZeroFLabelOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelOn$/;"	r
+stZeroFLabelOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelOrthogonalPosF$/;"	r
+stZeroFLabelParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelParallelPosF$/;"	r
+stZeroFLabelPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelPerimColor$/;"	r
+stZeroFLabelPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelPerimOn$/;"	r
+stZeroFLabelPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelPerimSpaceF$/;"	r
+stZeroFLabelPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelPerimThicknessF$/;"	r
+stZeroFLabelSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelSide$/;"	r
+stZeroFLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelString$/;"	r
+stZeroFLabelTextDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelTextDirection$/;"	r
+stZeroFLabelZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   stZeroFLabelZone$/;"	r
+tfDoNDCOverlay	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tfDoNDCOverlay$/;"	r
+tfPlotManagerOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tfPlotManagerOn$/;"	r
+tfPolyDrawList	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tfPolyDrawList$/;"	r
+tfPolyDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tfPolyDrawOrder$/;"	r
+tiDeltaF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiDeltaF$/;"	r
+tiMainAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainAngleF$/;"	r
+tiMainConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainConstantSpacingF$/;"	r
+tiMainDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainDirection$/;"	r
+tiMainFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainFont$/;"	r
+tiMainFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainFontAspectF$/;"	r
+tiMainFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainFontColor$/;"	r
+tiMainFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainFontHeightF$/;"	r
+tiMainFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainFontQuality$/;"	r
+tiMainFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainFontThicknessF$/;"	r
+tiMainFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainFuncCode$/;"	r
+tiMainJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainJust$/;"	r
+tiMainOffsetXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainOffsetXF$/;"	r
+tiMainOffsetYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainOffsetYF$/;"	r
+tiMainOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainOn$/;"	r
+tiMainPosition	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainPosition$/;"	r
+tiMainSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainSide$/;"	r
+tiMainString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiMainString$/;"	r
+tiUseMainAttributes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiUseMainAttributes$/;"	r
+tiXAxisAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisAngleF$/;"	r
+tiXAxisConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisConstantSpacingF$/;"	r
+tiXAxisDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisDirection$/;"	r
+tiXAxisFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisFont$/;"	r
+tiXAxisFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisFontAspectF$/;"	r
+tiXAxisFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisFontColor$/;"	r
+tiXAxisFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisFontHeightF$/;"	r
+tiXAxisFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisFontQuality$/;"	r
+tiXAxisFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisFontThicknessF$/;"	r
+tiXAxisFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisFuncCode$/;"	r
+tiXAxisJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisJust$/;"	r
+tiXAxisOffsetXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisOffsetXF$/;"	r
+tiXAxisOffsetYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisOffsetYF$/;"	r
+tiXAxisOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisOn$/;"	r
+tiXAxisPosition	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisPosition$/;"	r
+tiXAxisSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisSide$/;"	r
+tiXAxisString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiXAxisString$/;"	r
+tiYAxisAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisAngleF$/;"	r
+tiYAxisConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisConstantSpacingF$/;"	r
+tiYAxisDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisDirection$/;"	r
+tiYAxisFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisFont$/;"	r
+tiYAxisFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisFontAspectF$/;"	r
+tiYAxisFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisFontColor$/;"	r
+tiYAxisFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisFontHeightF$/;"	r
+tiYAxisFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisFontQuality$/;"	r
+tiYAxisFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisFontThicknessF$/;"	r
+tiYAxisFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisFuncCode$/;"	r
+tiYAxisJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisJust$/;"	r
+tiYAxisOffsetXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisOffsetXF$/;"	r
+tiYAxisOffsetYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisOffsetYF$/;"	r
+tiYAxisOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisOn$/;"	r
+tiYAxisPosition	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisPosition$/;"	r
+tiYAxisSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisSide$/;"	r
+tiYAxisString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tiYAxisString$/;"	r
+tmBorderLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmBorderLineColor$/;"	r
+tmBorderThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmBorderThicknessF$/;"	r
+tmEqualizeXYSizes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmEqualizeXYSizes$/;"	r
+tmLabelAutoStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmLabelAutoStride$/;"	r
+tmSciNoteCutoff	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmSciNoteCutoff$/;"	r
+tmXBAutoPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBAutoPrecision$/;"	r
+tmXBBorderOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBBorderOn$/;"	r
+tmXBDataLeftF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBDataLeftF$/;"	r
+tmXBDataRightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBDataRightF$/;"	r
+tmXBFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBFormat$/;"	r
+tmXBIrrTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBIrrTensionF$/;"	r
+tmXBIrregularPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBIrregularPoints$/;"	r
+tmXBLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelAngleF$/;"	r
+tmXBLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelConstantSpacingF$/;"	r
+tmXBLabelDeltaF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelDeltaF$/;"	r
+tmXBLabelDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelDirection$/;"	r
+tmXBLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelFont$/;"	r
+tmXBLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelFontAspectF$/;"	r
+tmXBLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelFontColor$/;"	r
+tmXBLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelFontHeightF$/;"	r
+tmXBLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelFontQuality$/;"	r
+tmXBLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelFontThicknessF$/;"	r
+tmXBLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelFuncCode$/;"	r
+tmXBLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelJust$/;"	r
+tmXBLabelStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelStride$/;"	r
+tmXBLabels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabels$/;"	r
+tmXBLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBLabelsOn$/;"	r
+tmXBMajorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMajorLengthF$/;"	r
+tmXBMajorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMajorLineColor$/;"	r
+tmXBMajorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMajorOutwardLengthF$/;"	r
+tmXBMajorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMajorThicknessF$/;"	r
+tmXBMaxLabelLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMaxLabelLenF$/;"	r
+tmXBMaxTicks	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMaxTicks$/;"	r
+tmXBMinLabelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinLabelSpacingF$/;"	r
+tmXBMinorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinorLengthF$/;"	r
+tmXBMinorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinorLineColor$/;"	r
+tmXBMinorOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinorOn$/;"	r
+tmXBMinorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinorOutwardLengthF$/;"	r
+tmXBMinorPerMajor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinorPerMajor$/;"	r
+tmXBMinorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinorThicknessF$/;"	r
+tmXBMinorValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMinorValues$/;"	r
+tmXBMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBMode$/;"	r
+tmXBOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBOn$/;"	r
+tmXBPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBPrecision$/;"	r
+tmXBStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBStyle$/;"	r
+tmXBTickEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBTickEndF$/;"	r
+tmXBTickSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBTickSpacingF$/;"	r
+tmXBTickStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBTickStartF$/;"	r
+tmXBValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXBValues$/;"	r
+tmXMajorGrid	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMajorGrid$/;"	r
+tmXMajorGridLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMajorGridLineColor$/;"	r
+tmXMajorGridLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMajorGridLineDashPattern$/;"	r
+tmXMajorGridThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMajorGridThicknessF$/;"	r
+tmXMinorGrid	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMinorGrid$/;"	r
+tmXMinorGridLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMinorGridLineColor$/;"	r
+tmXMinorGridLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMinorGridLineDashPattern$/;"	r
+tmXMinorGridThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXMinorGridThicknessF$/;"	r
+tmXTAutoPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTAutoPrecision$/;"	r
+tmXTBorderOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTBorderOn$/;"	r
+tmXTDataLeftF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTDataLeftF$/;"	r
+tmXTDataRightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTDataRightF$/;"	r
+tmXTFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTFormat$/;"	r
+tmXTIrrTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTIrrTensionF$/;"	r
+tmXTIrregularPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTIrregularPoints$/;"	r
+tmXTLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelAngleF$/;"	r
+tmXTLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelConstantSpacingF$/;"	r
+tmXTLabelDeltaF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelDeltaF$/;"	r
+tmXTLabelDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelDirection$/;"	r
+tmXTLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelFont$/;"	r
+tmXTLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelFontAspectF$/;"	r
+tmXTLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelFontColor$/;"	r
+tmXTLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelFontHeightF$/;"	r
+tmXTLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelFontQuality$/;"	r
+tmXTLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelFontThicknessF$/;"	r
+tmXTLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelFuncCode$/;"	r
+tmXTLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelJust$/;"	r
+tmXTLabelStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelStride$/;"	r
+tmXTLabels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabels$/;"	r
+tmXTLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTLabelsOn$/;"	r
+tmXTMajorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMajorLengthF$/;"	r
+tmXTMajorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMajorLineColor$/;"	r
+tmXTMajorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMajorOutwardLengthF$/;"	r
+tmXTMajorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMajorThicknessF$/;"	r
+tmXTMaxLabelLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMaxLabelLenF$/;"	r
+tmXTMaxTicks	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMaxTicks$/;"	r
+tmXTMinLabelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinLabelSpacingF$/;"	r
+tmXTMinorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinorLengthF$/;"	r
+tmXTMinorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinorLineColor$/;"	r
+tmXTMinorOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinorOn$/;"	r
+tmXTMinorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinorOutwardLengthF$/;"	r
+tmXTMinorPerMajor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinorPerMajor$/;"	r
+tmXTMinorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinorThicknessF$/;"	r
+tmXTMinorValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMinorValues$/;"	r
+tmXTMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTMode$/;"	r
+tmXTOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTOn$/;"	r
+tmXTPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTPrecision$/;"	r
+tmXTStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTStyle$/;"	r
+tmXTTickEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTTickEndF$/;"	r
+tmXTTickSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTTickSpacingF$/;"	r
+tmXTTickStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTTickStartF$/;"	r
+tmXTValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXTValues$/;"	r
+tmXUseBottom	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmXUseBottom$/;"	r
+tmYLAutoPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLAutoPrecision$/;"	r
+tmYLBorderOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLBorderOn$/;"	r
+tmYLDataBottomF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLDataBottomF$/;"	r
+tmYLDataTopF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLDataTopF$/;"	r
+tmYLFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLFormat$/;"	r
+tmYLIrrTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLIrrTensionF$/;"	r
+tmYLIrregularPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLIrregularPoints$/;"	r
+tmYLLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelAngleF$/;"	r
+tmYLLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelConstantSpacingF$/;"	r
+tmYLLabelDeltaF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelDeltaF$/;"	r
+tmYLLabelDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelDirection$/;"	r
+tmYLLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelFont$/;"	r
+tmYLLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelFontAspectF$/;"	r
+tmYLLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelFontColor$/;"	r
+tmYLLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelFontHeightF$/;"	r
+tmYLLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelFontQuality$/;"	r
+tmYLLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelFontThicknessF$/;"	r
+tmYLLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelFuncCode$/;"	r
+tmYLLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelJust$/;"	r
+tmYLLabelStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelStride$/;"	r
+tmYLLabels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabels$/;"	r
+tmYLLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLLabelsOn$/;"	r
+tmYLMajorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMajorLengthF$/;"	r
+tmYLMajorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMajorLineColor$/;"	r
+tmYLMajorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMajorOutwardLengthF$/;"	r
+tmYLMajorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMajorThicknessF$/;"	r
+tmYLMaxLabelLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMaxLabelLenF$/;"	r
+tmYLMaxTicks	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMaxTicks$/;"	r
+tmYLMinLabelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinLabelSpacingF$/;"	r
+tmYLMinorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinorLengthF$/;"	r
+tmYLMinorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinorLineColor$/;"	r
+tmYLMinorOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinorOn$/;"	r
+tmYLMinorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinorOutwardLengthF$/;"	r
+tmYLMinorPerMajor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinorPerMajor$/;"	r
+tmYLMinorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinorThicknessF$/;"	r
+tmYLMinorValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMinorValues$/;"	r
+tmYLMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLMode$/;"	r
+tmYLOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLOn$/;"	r
+tmYLPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLPrecision$/;"	r
+tmYLStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLStyle$/;"	r
+tmYLTickEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLTickEndF$/;"	r
+tmYLTickSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLTickSpacingF$/;"	r
+tmYLTickStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLTickStartF$/;"	r
+tmYLValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYLValues$/;"	r
+tmYMajorGrid	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMajorGrid$/;"	r
+tmYMajorGridLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMajorGridLineColor$/;"	r
+tmYMajorGridLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMajorGridLineDashPattern$/;"	r
+tmYMajorGridThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMajorGridThicknessF$/;"	r
+tmYMinorGrid	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMinorGrid$/;"	r
+tmYMinorGridLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMinorGridLineColor$/;"	r
+tmYMinorGridLineDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMinorGridLineDashPattern$/;"	r
+tmYMinorGridThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYMinorGridThicknessF$/;"	r
+tmYRAutoPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRAutoPrecision$/;"	r
+tmYRBorderOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRBorderOn$/;"	r
+tmYRDataBottomF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRDataBottomF$/;"	r
+tmYRDataTopF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRDataTopF$/;"	r
+tmYRFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRFormat$/;"	r
+tmYRIrrTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRIrrTensionF$/;"	r
+tmYRIrregularPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRIrregularPoints$/;"	r
+tmYRLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelAngleF$/;"	r
+tmYRLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelConstantSpacingF$/;"	r
+tmYRLabelDeltaF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelDeltaF$/;"	r
+tmYRLabelDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelDirection$/;"	r
+tmYRLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelFont$/;"	r
+tmYRLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelFontAspectF$/;"	r
+tmYRLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelFontColor$/;"	r
+tmYRLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelFontHeightF$/;"	r
+tmYRLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelFontQuality$/;"	r
+tmYRLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelFontThicknessF$/;"	r
+tmYRLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelFuncCode$/;"	r
+tmYRLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelJust$/;"	r
+tmYRLabelStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelStride$/;"	r
+tmYRLabels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabels$/;"	r
+tmYRLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRLabelsOn$/;"	r
+tmYRMajorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMajorLengthF$/;"	r
+tmYRMajorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMajorLineColor$/;"	r
+tmYRMajorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMajorOutwardLengthF$/;"	r
+tmYRMajorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMajorThicknessF$/;"	r
+tmYRMaxLabelLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMaxLabelLenF$/;"	r
+tmYRMaxTicks	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMaxTicks$/;"	r
+tmYRMinLabelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinLabelSpacingF$/;"	r
+tmYRMinorLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinorLengthF$/;"	r
+tmYRMinorLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinorLineColor$/;"	r
+tmYRMinorOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinorOn$/;"	r
+tmYRMinorOutwardLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinorOutwardLengthF$/;"	r
+tmYRMinorPerMajor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinorPerMajor$/;"	r
+tmYRMinorThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinorThicknessF$/;"	r
+tmYRMinorValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMinorValues$/;"	r
+tmYRMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRMode$/;"	r
+tmYROn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYROn$/;"	r
+tmYRPrecision	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRPrecision$/;"	r
+tmYRStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRStyle$/;"	r
+tmYRTickEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRTickEndF$/;"	r
+tmYRTickSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRTickSpacingF$/;"	r
+tmYRTickStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRTickStartF$/;"	r
+tmYRValues	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYRValues$/;"	r
+tmYUseLeft	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   tmYUseLeft$/;"	r
+trGridType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trGridType (Transformation)$/;"	r
+trLineInterpolationOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trLineInterpolationOn (Transformation)$/;"	r
+trXAxisType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXAxisType (IrregularTransformation)$/;"	r
+trXCoordPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXCoordPoints (IrregularTransformation)$/;"	r
+trXInterPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXInterPoints (IrregularTransformation)$/;"	r
+trXLog	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXLog (LogLinTransformation)$/;"	r
+trXMaxF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXMaxF (Transformation)$/;"	r
+trXMinF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXMinF (Transformation)$/;"	r
+trXReverse	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXReverse (Transformation)$/;"	r
+trXSamples	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXSamples (IrregularTransformation)$/;"	r
+trXTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trXTensionF (IrregularTransformation)$/;"	r
+trYAxisType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYAxisType (IrregularTransformation)$/;"	r
+trYCoordPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYCoordPoints (IrregularTransformation)$/;"	r
+trYInterPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYInterPoints (IrregularTransformation)$/;"	r
+trYLog	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYLog (LogLinTransformation)$/;"	r
+trYMaxF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYMaxF (Transformation)$/;"	r
+trYMinF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYMinF (Transformation)$/;"	r
+trYReverse	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYReverse (Transformation)$/;"	r
+trYSamples	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYSamples (IrregularTransformation)$/;"	r
+trYTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   trYTensionF (IrregularTransformation)$/;"	r
+txAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txAngleF$/;"	r
+txBackgroundFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txBackgroundFillColor$/;"	r
+txConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txConstantSpacingF$/;"	r
+txDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txDirection$/;"	r
+txFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFont$/;"	r
+txFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFontAspectF$/;"	r
+txFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFontColor$/;"	r
+txFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFontHeightF$/;"	r
+txFontOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFontOpacityF$/;"	r
+txFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFontQuality$/;"	r
+txFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFontThicknessF$/;"	r
+txFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txFuncCode$/;"	r
+txJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txJust$/;"	r
+txPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPerimColor$/;"	r
+txPerimDashLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPerimDashLengthF$/;"	r
+txPerimDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPerimDashPattern$/;"	r
+txPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPerimOn$/;"	r
+txPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPerimSpaceF$/;"	r
+txPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPerimThicknessF$/;"	r
+txPosXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPosXF$/;"	r
+txPosYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txPosYF$/;"	r
+txString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   txString$/;"	r
+vcExplicitLabelBarLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcExplicitLabelBarLabelsOn$/;"	r
+vcFillArrowEdgeColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowEdgeColor$/;"	r
+vcFillArrowEdgeThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowEdgeThicknessF$/;"	r
+vcFillArrowFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowFillColor$/;"	r
+vcFillArrowHeadInteriorXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowHeadInteriorXF$/;"	r
+vcFillArrowHeadMinFracXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowHeadMinFracXF$/;"	r
+vcFillArrowHeadMinFracYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowHeadMinFracYF$/;"	r
+vcFillArrowHeadXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowHeadXF$/;"	r
+vcFillArrowHeadYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowHeadYF$/;"	r
+vcFillArrowMinFracWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowMinFracWidthF$/;"	r
+vcFillArrowWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowWidthF$/;"	r
+vcFillArrowsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillArrowsOn$/;"	r
+vcFillOverEdge	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcFillOverEdge$/;"	r
+vcGlyphOpacityF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcGlyphOpacityF$/;"	r
+vcGlyphStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcGlyphStyle$/;"	r
+vcLabelBarEndLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLabelBarEndLabelsOn$/;"	r
+vcLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLabelFontColor$/;"	r
+vcLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLabelFontHeightF$/;"	r
+vcLabelsOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLabelsOn$/;"	r
+vcLabelsUseVectorColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLabelsUseVectorColor$/;"	r
+vcLevelColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLevelColors$/;"	r
+vcLevelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLevelCount$/;"	r
+vcLevelPalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLevelPalette$/;"	r
+vcLevelSelectionMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLevelSelectionMode$/;"	r
+vcLevelSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLevelSpacingF$/;"	r
+vcLevels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLevels$/;"	r
+vcLineArrowColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLineArrowColor$/;"	r
+vcLineArrowHeadMaxSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLineArrowHeadMaxSizeF$/;"	r
+vcLineArrowHeadMinSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLineArrowHeadMinSizeF$/;"	r
+vcLineArrowThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcLineArrowThicknessF$/;"	r
+vcMagnitudeFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMagnitudeFormat$/;"	r
+vcMagnitudeScaleFactorF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMagnitudeScaleFactorF$/;"	r
+vcMagnitudeScaleValueF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMagnitudeScaleValueF$/;"	r
+vcMagnitudeScalingMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMagnitudeScalingMode$/;"	r
+vcMapDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMapDirection$/;"	r
+vcMaxLevelCount	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMaxLevelCount$/;"	r
+vcMaxLevelValF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMaxLevelValF$/;"	r
+vcMaxMagnitudeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMaxMagnitudeF$/;"	r
+vcMinAnnoAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoAngleF$/;"	r
+vcMinAnnoArrowAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoArrowAngleF$/;"	r
+vcMinAnnoArrowEdgeColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoArrowEdgeColor$/;"	r
+vcMinAnnoArrowFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoArrowFillColor$/;"	r
+vcMinAnnoArrowLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoArrowLineColor$/;"	r
+vcMinAnnoArrowMinOffsetF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoArrowMinOffsetF$/;"	r
+vcMinAnnoArrowSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoArrowSpaceF$/;"	r
+vcMinAnnoArrowUseVecColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoArrowUseVecColor$/;"	r
+vcMinAnnoBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoBackgroundColor$/;"	r
+vcMinAnnoConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoConstantSpacingF$/;"	r
+vcMinAnnoExplicitMagnitudeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoExplicitMagnitudeF$/;"	r
+vcMinAnnoFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoFont$/;"	r
+vcMinAnnoFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoFontAspectF$/;"	r
+vcMinAnnoFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoFontColor$/;"	r
+vcMinAnnoFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoFontHeightF$/;"	r
+vcMinAnnoFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoFontQuality$/;"	r
+vcMinAnnoFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoFontThicknessF$/;"	r
+vcMinAnnoFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoFuncCode$/;"	r
+vcMinAnnoJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoJust$/;"	r
+vcMinAnnoOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoOn$/;"	r
+vcMinAnnoOrientation	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoOrientation$/;"	r
+vcMinAnnoOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoOrthogonalPosF$/;"	r
+vcMinAnnoParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoParallelPosF$/;"	r
+vcMinAnnoPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoPerimColor$/;"	r
+vcMinAnnoPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoPerimOn$/;"	r
+vcMinAnnoPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoPerimSpaceF$/;"	r
+vcMinAnnoPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoPerimThicknessF$/;"	r
+vcMinAnnoSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoSide$/;"	r
+vcMinAnnoString1	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoString1$/;"	r
+vcMinAnnoString1On	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoString1On$/;"	r
+vcMinAnnoString2	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoString2$/;"	r
+vcMinAnnoString2On	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoString2On$/;"	r
+vcMinAnnoTextDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoTextDirection$/;"	r
+vcMinAnnoZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinAnnoZone$/;"	r
+vcMinDistanceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinDistanceF$/;"	r
+vcMinFracLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinFracLengthF$/;"	r
+vcMinLevelValF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinLevelValF$/;"	r
+vcMinMagnitudeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMinMagnitudeF$/;"	r
+vcMonoFillArrowEdgeColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMonoFillArrowEdgeColor$/;"	r
+vcMonoFillArrowFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMonoFillArrowFillColor$/;"	r
+vcMonoLineArrowColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMonoLineArrowColor$/;"	r
+vcMonoWindBarbColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcMonoWindBarbColor$/;"	r
+vcNoDataLabelOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcNoDataLabelOn$/;"	r
+vcNoDataLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcNoDataLabelString$/;"	r
+vcPositionMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcPositionMode$/;"	r
+vcRefAnnoAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoAngleF$/;"	r
+vcRefAnnoArrowAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoArrowAngleF$/;"	r
+vcRefAnnoArrowEdgeColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoArrowEdgeColor$/;"	r
+vcRefAnnoArrowFillColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoArrowFillColor$/;"	r
+vcRefAnnoArrowLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoArrowLineColor$/;"	r
+vcRefAnnoArrowMinOffsetF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoArrowMinOffsetF$/;"	r
+vcRefAnnoArrowSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoArrowSpaceF$/;"	r
+vcRefAnnoArrowUseVecColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoArrowUseVecColor$/;"	r
+vcRefAnnoBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoBackgroundColor$/;"	r
+vcRefAnnoConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoConstantSpacingF$/;"	r
+vcRefAnnoExplicitMagnitudeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoExplicitMagnitudeF$/;"	r
+vcRefAnnoFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoFont$/;"	r
+vcRefAnnoFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoFontAspectF$/;"	r
+vcRefAnnoFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoFontColor$/;"	r
+vcRefAnnoFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoFontHeightF$/;"	r
+vcRefAnnoFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoFontQuality$/;"	r
+vcRefAnnoFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoFontThicknessF$/;"	r
+vcRefAnnoFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoFuncCode$/;"	r
+vcRefAnnoJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoJust$/;"	r
+vcRefAnnoOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoOn$/;"	r
+vcRefAnnoOrientation	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoOrientation$/;"	r
+vcRefAnnoOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoOrthogonalPosF$/;"	r
+vcRefAnnoParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoParallelPosF$/;"	r
+vcRefAnnoPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoPerimColor$/;"	r
+vcRefAnnoPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoPerimOn$/;"	r
+vcRefAnnoPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoPerimSpaceF$/;"	r
+vcRefAnnoPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoPerimThicknessF$/;"	r
+vcRefAnnoSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoSide$/;"	r
+vcRefAnnoString1	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoString1$/;"	r
+vcRefAnnoString1On	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoString1On$/;"	r
+vcRefAnnoString2	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoString2$/;"	r
+vcRefAnnoString2On	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoString2On$/;"	r
+vcRefAnnoTextDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoTextDirection$/;"	r
+vcRefAnnoZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefAnnoZone$/;"	r
+vcRefLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefLengthF$/;"	r
+vcRefMagnitudeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcRefMagnitudeF$/;"	r
+vcScalarFieldData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcScalarFieldData$/;"	r
+vcScalarMissingValColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcScalarMissingValColor$/;"	r
+vcScalarValueFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcScalarValueFormat$/;"	r
+vcScalarValueScaleFactorF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcScalarValueScaleFactorF$/;"	r
+vcScalarValueScaleValueF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcScalarValueScaleValueF$/;"	r
+vcScalarValueScalingMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcScalarValueScalingMode$/;"	r
+vcSpanLevelPalette	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcSpanLevelPalette$/;"	r
+vcUseRefAnnoRes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcUseRefAnnoRes$/;"	r
+vcUseScalarArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcUseScalarArray$/;"	r
+vcVectorDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcVectorDrawOrder$/;"	r
+vcVectorFieldData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcVectorFieldData$/;"	r
+vcWindBarbCalmCircleSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcWindBarbCalmCircleSizeF$/;"	r
+vcWindBarbColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcWindBarbColor$/;"	r
+vcWindBarbLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcWindBarbLineThicknessF$/;"	r
+vcWindBarbScaleFactorF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcWindBarbScaleFactorF$/;"	r
+vcWindBarbTickAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcWindBarbTickAngleF$/;"	r
+vcWindBarbTickLengthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcWindBarbTickLengthF$/;"	r
+vcWindBarbTickSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcWindBarbTickSpacingF$/;"	r
+vcZeroFLabelAngleF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelAngleF$/;"	r
+vcZeroFLabelBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelBackgroundColor$/;"	r
+vcZeroFLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelConstantSpacingF$/;"	r
+vcZeroFLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelFont$/;"	r
+vcZeroFLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelFontAspectF$/;"	r
+vcZeroFLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelFontColor$/;"	r
+vcZeroFLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelFontHeightF$/;"	r
+vcZeroFLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelFontQuality$/;"	r
+vcZeroFLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelFontThicknessF$/;"	r
+vcZeroFLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelFuncCode$/;"	r
+vcZeroFLabelJust	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelJust$/;"	r
+vcZeroFLabelOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelOn$/;"	r
+vcZeroFLabelOrthogonalPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelOrthogonalPosF$/;"	r
+vcZeroFLabelParallelPosF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelParallelPosF$/;"	r
+vcZeroFLabelPerimColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelPerimColor$/;"	r
+vcZeroFLabelPerimOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelPerimOn$/;"	r
+vcZeroFLabelPerimSpaceF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelPerimSpaceF$/;"	r
+vcZeroFLabelPerimThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelPerimThicknessF$/;"	r
+vcZeroFLabelSide	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelSide$/;"	r
+vcZeroFLabelString	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelString$/;"	r
+vcZeroFLabelTextDirection	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelTextDirection$/;"	r
+vcZeroFLabelZone	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vcZeroFLabelZone$/;"	r
+vfCopyData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfCopyData$/;"	r
+vfDataArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfDataArray$/;"	r
+vfExchangeDimensions	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfExchangeDimensions$/;"	r
+vfExchangeUVData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfExchangeUVData$/;"	r
+vfMagMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfMagMaxV$/;"	r
+vfMagMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfMagMinV$/;"	r
+vfMissingUValueV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfMissingUValueV$/;"	r
+vfMissingVValueV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfMissingVValueV$/;"	r
+vfPolarData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfPolarData$/;"	r
+vfSingleMissingValue	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfSingleMissingValue$/;"	r
+vfUDataArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfUDataArray$/;"	r
+vfUMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfUMaxV$/;"	r
+vfUMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfUMinV$/;"	r
+vfVDataArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfVDataArray$/;"	r
+vfVMaxV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfVMaxV$/;"	r
+vfVMinV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfVMinV$/;"	r
+vfXArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXArray$/;"	r
+vfXCActualEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCActualEndF$/;"	r
+vfXCActualStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCActualStartF$/;"	r
+vfXCEndIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCEndIndex$/;"	r
+vfXCEndSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCEndSubsetV$/;"	r
+vfXCEndV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCEndV$/;"	r
+vfXCStartIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCStartIndex$/;"	r
+vfXCStartSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCStartSubsetV$/;"	r
+vfXCStartV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCStartV$/;"	r
+vfXCStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfXCStride$/;"	r
+vfYArray	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYArray$/;"	r
+vfYCActualEndF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCActualEndF$/;"	r
+vfYCActualStartF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCActualStartF$/;"	r
+vfYCEndIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCEndIndex$/;"	r
+vfYCEndSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCEndSubsetV$/;"	r
+vfYCEndV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCEndV$/;"	r
+vfYCStartIndex	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCStartIndex$/;"	r
+vfYCStartSubsetV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCStartSubsetV$/;"	r
+vfYCStartV	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCStartV$/;"	r
+vfYCStride	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vfYCStride$/;"	r
+vpAnnoManagerId	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpAnnoManagerId$/;"	r
+vpClipOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpClipOn$/;"	r
+vpHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpHeightF$/;"	r
+vpKeepAspect	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpKeepAspect$/;"	r
+vpOn	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpOn$/;"	r
+vpUseSegments	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpUseSegments$/;"	r
+vpWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpWidthF$/;"	r
+vpXF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpXF$/;"	r
+vpYF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   vpYF$/;"	r
+wkBackgroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkBackgroundColor (Workstation)$/;"	r
+wkColorMapLen	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkColorMapLen (Workstation)$/;"	r
+wkColorMap	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkColorMap (Workstation)$/;"	r
+wkColorModel	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkColorModel (PDFWorkstation)$/;"	r
+wkColorModel	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkColorModel (PDFWorkstation)$/;"	r
+wkDashTableLength	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDashTableLength (Workstation)$/;"	r
+wkDefGraphicStyleId	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDefGraphicStyleId (Workstation)$/;"	r
+wkDeviceLowerX	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceLowerX (DocumentWorkstation)$/;"	r
+wkDeviceLowerX	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceLowerX (DocumentWorkstation)$/;"	r
+wkDeviceLowerX	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceLowerX (DocumentWorkstation)$/;"	r
+wkDeviceLowerY	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceLowerY (DocumentWorkstation)$/;"	r
+wkDeviceLowerY	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceLowerY (DocumentWorkstation)$/;"	r
+wkDeviceLowerY	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceLowerY (DocumentWorkstation)$/;"	r
+wkDeviceUpperX	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceUpperX (DocumentWorkstation)$/;"	r
+wkDeviceUpperX	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceUpperX (DocumentWorkstation)$/;"	r
+wkDeviceUpperX	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceUpperX (DocumentWorkstation)$/;"	r
+wkDeviceUpperY	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceUpperY (DocumentWorkstation)$/;"	r
+wkDeviceUpperY	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceUpperY (DocumentWorkstation)$/;"	r
+wkDeviceUpperY	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkDeviceUpperY (DocumentWorkstation)$/;"	r
+wkFileName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkFileName (DocumentWorkstation)$/;"	r
+wkFileName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkFileName (DocumentWorkstation)$/;"	r
+wkFillTableLength	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkFillTableLength (Workstation)$/;"	r
+wkForegroundColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkForegroundColor (Workstation)$/;"	r
+wkFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkFormat (DocumentWorkstation)$/;"	r
+wkFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkFormat (DocumentWorkstation)$/;"	r
+wkFullBackground	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkFullBackground (PDFWorkstation)$/;"	r
+wkFullBackground	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkFullBackground (PDFWorkstation)$/;"	r
+wkGksWorkId	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkGksWorkId (Workstation)$/;"	r
+wkHeight	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkHeight (ImageWorkstation)$/;"	r
+wkHeight	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkHeight (ImageWorkstation)$/;"	r
+wkMarkerTableLength	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkMarkerTableLength (Workstation)$/;"	r
+wkMetaName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkMetaName (NcgmWorkstation)$/;"	r
+wkOrientation	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkOrientation (PDFWorkstation)$/;"	r
+wkOrientation	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkOrientation (PDFWorkstation)$/;"	r
+wkPDFFileName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPDFFileName (PDFWorkstation)$/;"	r
+wkPDFFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPDFFormat (PDFWorkstation)$/;"	r
+wkPDFResolution	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPDFResolution (DocumentWorkstation)$/;"	r
+wkPDFResolution	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPDFResolution (DocumentWorkstation)$/;"	r
+wkPSFileName	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPSFileName (PSWorkstation)$/;"	r
+wkPSFormat	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPSFormat (PSWorkstation)$/;"	r
+wkPSResolution	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPSResolution (PSWorkstation)$/;"	r
+wkPaperHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperHeightF (DocumentWorkstation)$/;"	r
+wkPaperHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperHeightF (DocumentWorkstation)$/;"	r
+wkPaperHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperHeightF (DocumentWorkstation)$/;"	r
+wkPaperSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperSize (DocumentWorkstation)$/;"	r
+wkPaperSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperSize (DocumentWorkstation)$/;"	r
+wkPaperSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperSize (DocumentWorkstation)$/;"	r
+wkPaperWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperWidthF (DocumentWorkstation)$/;"	r
+wkPaperWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperWidthF (DocumentWorkstation)$/;"	r
+wkPaperWidthF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPaperWidthF (DocumentWorkstation)$/;"	r
+wkPause	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkPause (XWorkstation)$/;"	r
+wkTopLevelViews	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkTopLevelViews (Workstation)$/;"	r
+wkViews	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkViews (Workstation)$/;"	r
+wkVisualType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkVisualType (PDFWorkstation)$/;"	r
+wkVisualType	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkVisualType (PDFWorkstation)$/;"	r
+wkWidth	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkWidth (ImageWorkstation)$/;"	r
+wkWidth	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkWidth (ImageWorkstation)$/;"	r
+wkWindowId	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkWindowId (XWorkstation)$/;"	r
+wkXColorMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wkXColorMode (XWorkstation)$/;"	r
+wsCurrentSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wsCurrentSize$/;"	r
+wsMaximumSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wsMaximumSize$/;"	r
+wsThresholdSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   wsThresholdSize$/;"	r
+xyComputeXMax	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyComputeXMax$/;"	r
+xyComputeXMin	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyComputeXMin$/;"	r
+xyComputeYMax	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyComputeYMax$/;"	r
+xyComputeYMin	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyComputeYMin$/;"	r
+xyCoordData	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyCoordData$/;"	r
+xyCoordDataSpec	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyCoordDataSpec$/;"	r
+xyCurveDrawOrder	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyCurveDrawOrder$/;"	r
+xyDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyDashPattern$/;"	r
+xyDashPatterns	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyDashPatterns$/;"	r
+xyExplicitLabels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyExplicitLabels$/;"	r
+xyExplicitLegendLabels	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyExplicitLegendLabels$/;"	r
+xyLabelMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLabelMode$/;"	r
+xyLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineColor$/;"	r
+xyLineColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineColors$/;"	r
+xyLineDashSegLenF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineDashSegLenF$/;"	r
+xyLineLabelConstantSpacingF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelConstantSpacingF$/;"	r
+xyLineLabelFont	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFont$/;"	r
+xyLineLabelFontAspectF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFontAspectF$/;"	r
+xyLineLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFontColor$/;"	r
+xyLineLabelFontColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFontColors$/;"	r
+xyLineLabelFontHeightF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFontHeightF$/;"	r
+xyLineLabelFontQuality	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFontQuality$/;"	r
+xyLineLabelFontThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFontThicknessF$/;"	r
+xyLineLabelFuncCode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineLabelFuncCode$/;"	r
+xyLineThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineThicknessF$/;"	r
+xyLineThicknesses	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyLineThicknesses$/;"	r
+xyMarkLineMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkLineMode$/;"	r
+xyMarkLineModes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkLineModes$/;"	r
+xyMarker	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarker$/;"	r
+xyMarkerColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkerColor$/;"	r
+xyMarkerColors	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkerColors$/;"	r
+xyMarkerSizeF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkerSizeF$/;"	r
+xyMarkerSizes	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkerSizes$/;"	r
+xyMarkerThicknessF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkerThicknessF$/;"	r
+xyMarkerThicknesses	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkerThicknesses$/;"	r
+xyMarkers	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMarkers$/;"	r
+xyMonoDashPattern	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoDashPattern$/;"	r
+xyMonoLineColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoLineColor$/;"	r
+xyMonoLineLabelFontColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoLineLabelFontColor$/;"	r
+xyMonoLineThickness	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoLineThickness$/;"	r
+xyMonoMarkLineMode	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoMarkLineMode$/;"	r
+xyMonoMarker	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoMarker$/;"	r
+xyMonoMarkerColor	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoMarkerColor$/;"	r
+xyMonoMarkerSize	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoMarkerSize$/;"	r
+xyMonoMarkerThickness	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyMonoMarkerThickness$/;"	r
+xyXIrrTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyXIrrTensionF$/;"	r
+xyXIrregularPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyXIrregularPoints$/;"	r
+xyXStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyXStyle$/;"	r
+xyYIrrTensionF	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyYIrrTensionF$/;"	r
+xyYIrregularPoints	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyYIrregularPoints$/;"	r
+xyYStyle	~/.vim/bundle/ncl/res/Res_help_list.ncl	/^   xyYStyle$/;"	r
