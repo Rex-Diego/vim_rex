@@ -9,8 +9,13 @@ set modelines=10
 set autoindent
 set nocompatible 
 set backspace=indent,eol,start
+set mouse=a
 syntax enable
 colorscheme zenburn
+"For MMA
+au BufRead,BufNewFile *.m set filetype=mma
+au! Syntax newlang source $VIM/mma.vim 
+au BufRead,BufNewFile *.m set dictionary=~/.vim/dictionary/mma.dic
 "For NCL
 au BufRead,BufNewFile *.ncl set filetype=ncl
 au! Syntax newlang source $VIM/ncl.vim 
@@ -223,6 +228,8 @@ func! RunResult()
             exec "!bash ./%"
         elseif &filetype == "fortran"
             exec "! ./%<"
+        elseif &filetype == "mma"
+            exec "!math -script %"
         endif
 endfunc
 "---------------------add by fanghuan -----------------"
